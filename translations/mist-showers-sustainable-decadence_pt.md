@@ -13,15 +13,17 @@ Imagem: Kit de montagem de Chuveiro Neblina. Jonas Görgen.
 
 
 
-The daily shower would be hard to sustain in a world without fossil fuels. The mist shower, a satisfying but forgotten technology which uses very little water and energy, could be a solution. Designer Jonas Görgen developed a do-it-yourself kit to convert almost any shower into a mist shower and sent me one to try out.
+O duche diário seria algo difícil de manter num mundo sem combustíveis fósseis. O chuveiro neblina, uma tecnologia satisfatória mas esquecida que pouquíssima água e energia, poderia ser uma solução. O *designer* Jonas Göegen desenvolveu um *kit* faça você mesmo para converter qualquer chuveiro num chuveiro neblina e enviou-me um para experimentar.
 
-<!--O duche diário seria difícil de sustentar num mundo sem combustíveis fósseis.-->
+## A Pegada de Carbono do Duche Diário.
 
-## The Carbon Footprint of the Daily Shower
+O duche não recebe muita atenção no contexto das alterações climáticas. No entanto, tal como aviões, carros e sistemas de aquecimento; o duche passou a ser uma maneira muito esbanjadora e de uso intensivo de carbono de satisfazer uma necessidade básica: lavar o corpo. Cada dia, muitos de nós despejam cerca de 70 litros de água quente sobre os nossos corpos para podermos ficar "limpos".
 
-The shower doesn’t get much attention in the context of climate change. However, like airplanes, cars, and heating systems, it has become a very wasteful and carbon-intensive way to provide for a basic need: washing the body. Each day, many of us pour roughly 70 litres of hot water over our bodies in order to be “clean”.
+Esta prática requer dois recursos escassos: água e energia. É dada mais atenção ao elevado consumo de água de um duche, mas o consumo de energia é igualmente problemático. A produção de água quente é responsável pelo segundo uso mais significativo de energia em muitas casas (sendo o primeiro o aquecimento) e grande parte é usada para tomar banho. O tratamento e distribuição de água também usam muita energia.
 
-This practice requires two scarce resources: water and energy. More attention is given to the showers' high water consumption, but energy use is just as problematic. Hot water production accounts for the second most significant use of energy in many homes (after heating), and much of it is used for showering. Water treatment and distribution also use lots of energy.
+
+
+
 
 In contrast to the energy used for space heating, which has decreased during the last decades, the energy used for hot water in households has been steadily growing. One of the reasons is that people are showering longer and more frequently, and using increasingly powerful shower heads. For example, in the Netherlands from 1992 to 2016, shower frequency increased from 0.69 to 0.72 showers per day, shower duration increased from 8.2 to 8.9 minutes, and the average water flow increased from 7.5 to 8.6 litres per minute. [^1]
 
