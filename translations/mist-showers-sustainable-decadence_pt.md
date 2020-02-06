@@ -21,11 +21,13 @@ O duche não recebe muita atenção no contexto das alterações climáticas. No
 
 Esta prática requer dois recursos escassos: água e energia. É dada mais atenção ao elevado consumo de água de um duche, mas o consumo de energia é igualmente problemático. A produção de água quente é responsável pelo segundo uso mais significativo de energia em muitas casas (sendo o primeiro o aquecimento) e grande parte é usada para tomar banho. O tratamento e distribuição de água também usam muita energia.
 
+Em contraste com a energia usada para aquecimento, que tem diminuído nas últimas décadas, a energia usada para aquecer água em residências tem aumentado continuamente. Uma das razões é que as pessoas tomam duches mais longos e com mais frequência e usam chuveiros cada vez mais potentes. Por exemplo, na Holanda, de 1992 a 2016, a frequência do duche aumentou de 0,69 para 0,72 duches por dia, a duração do duche aumentou de 8,2 para 8,9 minutos e o fluxo médio de água aumentou de 7,5 para 8,6 litros por minuto. [^1]
+
+> Em muitas sociedades industriais, agora é comum tomar um duche pelo menos uma vez por dia
+
+---
 
 
-
-
-In contrast to the energy used for space heating, which has decreased during the last decades, the energy used for hot water in households has been steadily growing. One of the reasons is that people are showering longer and more frequently, and using increasingly powerful shower heads. For example, in the Netherlands from 1992 to 2016, shower frequency increased from 0.69 to 0.72 showers per day, shower duration increased from 8.2 to 8.9 minutes, and the average water flow increased from 7.5 to 8.6 litres per minute. [^1]
 
 > In many industrial societies it's now common to shower at least once per day
 
