@@ -30,7 +30,7 @@ No total, o holandês comum usou 50,2 litros de água por dia para tomar duches 
 ![Image](/images/original-shower.jpg)
 O duche feito à mão original. Despejar um balde de água por cima do nosso corpo (ou o de outra pessoa). Imagem Daniel Julie (CC-BY-2.0).
 
-Usando os holandeses como exemplo, vamos olhar para o uso de energia e emissões de carbono de um duche quente diário. Aquecer 76,5 litros de água (8 minutos e 54 segundos x 8,6 litros por minuto) de 18 a 38 graus Celsius requer 2,1 quilowatt-hora (kWh) de energia. Dependendo da fonte de energia (gás, eletricidade), a intensidade de carbono da rede elétrica (EUA / UE) ou a eficiência do esquentador (novo / antigo), as emissões de CO2 resultantes de um duche comum são de 0,462 - 0,921 kg. [^ 5] Se compararmos isso com as emissões de carbono de um carro com um consumo de combustível relativamente eficiente (130g CO2 / km), as emissões de um duche típico equivalem a conduzir 3,5 - 7 km, e esse resultado ignora o custo de energia exigido pelo tratamento de água e distribuição.
+Usando os holandeses como exemplo, vamos olhar para o uso de energia e emissões de carbono de um duche quente diário. Aquecer 76,5 litros de água (8 min 54 s x 8,6 litros por minuto) de 18 a 38 graus Celsius requer 2,1 quilowatt-hora (kWh) de energia. Dependendo da fonte de energia (gás, eletricidade), a intensidade de carbono da rede elétrica (EUA / UE) ou a eficiência do esquentador (novo / antigo), as emissões de CO2 resultantes de um duche comum são de 0,462 - 0,921 kg. [^5] Se compararmos isso com as emissões de carbono de um carro com um consumo de combustível relativamente eficiente (130g CO2 / km), as emissões de um duche típico equivalem a conduzir 3,5 - 7 km, e esse resultado ignora o custo de energia exigido pelo tratamento de água e distribuição.
 
 > As emissões de um duche típico equivalem a conduzir 3,5 - 7 km
 
@@ -38,32 +38,38 @@ Em princípio, a energia para um duche pode ser gerada por fontes de energia ren
 
 ## Chuveiros mais potentes
 
-Desde o início dos anos 90 que as cabeças de chuveiro de baixo caudal proporcionam uma maneira mais eficiente de usar água e energia. Elas usam entre quatro e nove litros de água por minuto, aproximadamente metade do caudal de uma cabeça de chuveiro normal (dez a quinze litros por minuto). Quase metade de todas as residências holandeses tinham um chuveiro de baixo caudal instalado em 2016, mas, como vimos, a taxa de fluxo do chuveiro médio desde os anos 90 tem aumentado, não diminuindo. [1]
+Desde o início dos anos 90 que as cabeças de chuveiro de baixo caudal proporcionam uma maneira mais eficiente de usar água e energia. Elas usam entre quatro e nove litros de água por minuto, aproximadamente metade do caudal de uma cabeça de chuveiro normal (dez a quinze litros por minuto). Quase metade de todas as residências holandesas tinham um chuveiro de baixo caudal instalado em 2016, mas, como vimos, a taxa de fluxo do chuveiro médio desde os anos 90 tem vindo a aumentar, não a diminuir. [1]
 
 ![Image](/images/rain-shower.jpg)
 Um chuveiro de efeito chuva. Imagem: soak.com.
 
-That’s because other Dutch people have upgraded to rain showers, which have a water flow of about 25 litres per minute – double that of a normal shower head, and three times more than what a low flow shower head uses. A 8.9 minute rain shower requires 222 litres of water and 6.3 kilowatt-hour of energy to heat it. The carbon footprint corresponds to 14.3 – 21.3 km of driving.
+Isto acontece porque outros holandeses substituíram os seus chuveiros por chuveiros de efeito chuva, estes têm um fluxo de água de cerca de 25 litros por minuto - o dobro de uma cabeça de chuveiro normal e o triplo de uma de baixo fluxo. Um duche de chuva de 8 min 54 s requer 222 litros de água e 6.3 quilowatts-hora de energia para a aquecer. A pegada de carbono corresponde a conduzir entre 14,3 e 21,3 km.
 
-## Life Before Showers
+## A vida antes dos duches
 
-It may shock some younger readers, but only fifty years ago most people in industrial societies didn’t shower at all. Wall-mounted shower units, installed over the bathtub, became widespread only in the 1970s, and dedicated shower cubicles became a regular fixture in new homes only since the 1980s and 1990s. [^2][^3][^4] Before the arrival of the shower, people took one (or a few) bath(s) per week, and in between they washed themselves at the sink using a washcloth (the so-called sink wash, bird bath or sponge bath).
+Pode chocar alguns leitores mais jovens, mas há cinquenta anos a maioria das pessoas nas sociedades industriais não tomava banho. Os chuveiros de parede, instalados sobre a banheira, generalizaram-se apenas na década de 1970, e as cabines de duche tornaram-se um acessório normal em novas casas apenas desde as décadas de 1980 e 1990. [^2][^3][^4] Antes da chegada do chuveiro, as pessoas tomavam um (ou alguns) banho (s) por semana, e no meio lavavam-se num alguidar ou selha usando um pano (o chamado banho de alguidar ou banho de esponja).
 
-> The weekly water and energy use of a daily shower quickly surpasses the water and energy use of a once, twice or even thrice weekly bath
+> O uso semanal de água e energia de um duche diário supera rapidamente o uso de água e energia de um, dois, ou até 3 banhos semanais.
 
-The shower is often presented as a more sustainable option than the bath, because the latter is said to use more water. However, the weekly water and energy use of a daily shower quickly surpasses the water and energy use of a once, twice or even thrice weekly bath. [^2] The sponge bath is even more water and energy efficient: roughly two litres of water is sufficient to get clean, and the water could even be cold because not the whole body gets wet at the same time.
+O duche é frequentemente recomendado como uma opção mais sustentável que o banho, porque é dito que este último usa mais água. No entanto, o uso semanal de água e energia de um duche diário supera rapidamente o uso de água e energia de um, dois, ou até 3 banhos semanais. [^ 2] O banho de esponja é ainda mais eficiente em termos de água e energia: aproximadamente dois litros de água são suficientes para ficar limpo, e a água pode até estar fria porque nem todo o corpo fica molhado ao mesmo tempo.
 
 ![Image](/images/Carl_Larsson_Summer_Morning_1908.jpg)
-Taking a sponge bath. Summer Morning, a painting by Carl Larsson, 1908
+Um banho de esponja. Manhã de verão (Summer Morning), pintura de Carl Larsson, 1908
 
-Environmental organisations, water companies, and municipalities encourage people in industrial societies to take shorter showers, use low flow shower heads, and install energy efficient water boilers. There’s also factors influencing energy and/or water use that these institutions don’t dare to question: shower frequency, water temperature (“take cold showers”), or the act of showering itself – it is never suggested that a sponge bath would actually suffice. Clearly, the daily hot shower is today regarded not as a luxury but as a basic necessity.
+Organizações ambientais, empresas de água e municípios incentivam as pessoas nas sociedades industriais a tomar duches mais curtos, usar chuveiros de baixo fluxo e instalar caldeiras de água ou esquentadores com maior eficiência energética. Também existem fatores que influenciam o uso de energia e / ou água que essas instituições não se atrevem a questionar: frequência dos duches, temperatura da água ("tomar um duche frio") ou o ato de tomar banho - nunca é sugerido que um banho de esponja realmente possa ser suficiente. Claramente, o duche quente diário é hoje considerado não um luxo, mas uma necessidade básica.
 
-## Why Do We Shower?
+## Porque tomamos duches?
 
-However, showering does not only wash the body. A shower that’s entirely focused on cleaning the body – a so-called Navy shower or Sea shower– takes very little time, energy and water. A Navy shower consists of a 30 seconds shower to get wet, soaping the body while the water is off, and is completed by another 30 second shower to rinse the soapy water.
+No entanto, um duche não lava apenas o corpo. Um chuveiro totalmente focado na limpeza do corpo - o chamado chuveiro da Marinha - gasta muito pouco tempo, energia e água. Um chuveiro da Marinha consiste num duche de 30 segundos para se molhar, ensaboar o corpo enquanto a água está desligada e termina com outro duche de 30 segundos para enxaguar a água com sabão.
 
 ![Image](/images/showers-soldiers.jpg)
-Until the 1970s, showers were only used in barracks or prisons to wash many people in a short time. [2] Image: La douche au Régiment, a painting by Eugène Chaperon, 1887.
+Até a década de 1970, os chuveiros eram usados apenas em quartéis ou prisões para lavar muitas pessoas em pouco tempo. [2] Imagem: (O duche no regimento) La douche au Régiment, pintura de Eugène Chaperon, 1887.
+
+
+
+
+
+
 
 Assuming an average water flow, a (hot) Navy shower uses only 8.3 litres of water and 0.2 kilowatt-hour of energy. A daily sponge bath would have even lower water and energy use. A nine minute hot shower per day is by no means a basic necessity: it’s a treat. Since the 1990s, the daily shower has been portrayed in advertisements as a means of relaxation, stress relief, and sensual pleasure. [^2][^4]
 
