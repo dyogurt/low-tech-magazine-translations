@@ -60,18 +60,21 @@ Organizações ambientais, empresas de água e municípios incentivam as pessoas
 
 ## Porque tomamos duches?
 
-No entanto, um duche não lava apenas o corpo. Um chuveiro totalmente focado na limpeza do corpo - o chamado chuveiro da Marinha - gasta muito pouco tempo, energia e água. Um chuveiro da Marinha consiste num duche de 30 segundos para se molhar, ensaboar o corpo enquanto a água está desligada e termina com outro duche de 30 segundos para enxaguar a água com sabão.
+No entanto, um duche não lava apenas o corpo. Um chuveiro totalmente focado na limpeza do corpo - o chamado duche da Marinha - gasta muito pouco tempo, energia e água. Um duche da Marinha consiste num duche de 30 segundos para se molhar, ensaboar o corpo enquanto a água está desligada e termina com outro duche de 30 segundos para enxaguar a água com sabão.
 
 ![Image](/images/showers-soldiers.jpg)
-Até a década de 1970, os chuveiros eram usados apenas em quartéis ou prisões para lavar muitas pessoas em pouco tempo. [2] Imagem: (O duche no regimento) La douche au Régiment, pintura de Eugène Chaperon, 1887.
+Até à década de 1970, os chuveiros eram usados apenas em quartéis ou prisões para lavar muitas pessoas em pouco tempo. [2] Imagem: (O duche no regimento) La douche au Régiment, pintura de Eugène Chaperon, 1887.
+
+Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 litros de água e 0,2 quilowatt-hora de energia. Um banho de esponja diário teria um uso ainda mais baixo de água e energia. Um banho quente de nove minutos por dia não é de forma alguma uma necessidade básica: é um prazer. Desde os anos 90, o banho diário tem sido retratado em anúncios como uma forma de relaxamento, alívio do _stress_ e prazer sensual.
+
+## Chuveiros neblina
+
+O uso do duche como um mimo parece ser incompatível com uma redução drástica do uso de água e energia. No entanto, existe uma tecnologia que pode fazer isso: o chuveiro neblina. Um chuveiro neblina atomiza a água em gotas muito pequenas (menos de 10 micrómetros), o que reduz bastante o fluxo de água. Buckminster Fuller inventou o primeiro em 1936 como parte da sua casa de banho Dymaxion (ele chamou-lhe "pistola de nevoeiro"). A ideia regressou na década de 1970, quando vários ensaios e experiências com lavagem de mãos e duches atomizados foram realizadas.
 
 
 
 
 
-
-
-Assuming an average water flow, a (hot) Navy shower uses only 8.3 litres of water and 0.2 kilowatt-hour of energy. A daily sponge bath would have even lower water and energy use. A nine minute hot shower per day is by no means a basic necessity: it’s a treat. Since the 1990s, the daily shower has been portrayed in advertisements as a means of relaxation, stress relief, and sensual pleasure. [^2][^4]
 
 ## Mist Showers
 
