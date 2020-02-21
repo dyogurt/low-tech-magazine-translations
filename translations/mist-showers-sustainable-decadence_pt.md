@@ -71,35 +71,34 @@ Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 
 
 O uso do duche como um mimo parece ser incompatível com uma redução drástica do uso de água e energia. No entanto, existe uma tecnologia que pode fazer isso: o chuveiro neblina. Um chuveiro neblina atomiza a água em gotas muito pequenas (menos de 10 micrómetros), o que reduz bastante o fluxo de água. Buckminster Fuller inventou o primeiro em 1936 como parte da sua casa de banho Dymaxion (ele chamou-lhe "pistola de nevoeiro"). A ideia regressou na década de 1970, quando vários ensaios e experiências com lavagem de mãos e duches atomizados foram realizadas.
 
-
-
-
-
-
-## Mist Showers
-
-The use of the shower to treat oneself seems to be incompatible with a drastic reduction of its water and energy use. However, there is a technology that might just do that: the mist shower. A mist shower atomizes water to very fine drops (less than 10 microns), which greatly reduces the water flow. Buckminster Fuller invented the first one in 1936 as part of his Dymaxion bathroom (he called it a “fog gun”). The idea was taken up again in the 1970s, when several trials and experiments were conducted with both atomised hand washing and showering.
-
 ![Image](/images/mini-mister.png)
-Left: Mist shower developed by NASA. Right: Mist shower developed by the Canadian Minimum Housing Group. Both are from the 1970s. [^7]
+À esquerda: Chuveiro neblina desenvolvido pela NASA. À direita: chuveiro neblina desenvolvido pelo grupo Canadian Minimum Housing. Ambos são da década de 1970. [^7]
 
-NASA developed a mist shower with a hand-held, movable nozzle that incorporated an on-off thumb controlled water valve attached to a flexible hose. The average water use for a nine-minute shower was measured to be 2.2 litres, which corresponds to a water flow of only 0.24 litres per minute. [^6] The Canadian Minimum Housing Group developed and tested several mist showers and obtained a flow rate of 0.33 liters of water per minute. [^7]. In both cases, swab tests of bacteria on the skin showed that mist showers clean the body just as well as a “normal” shower of the same duration – using 30 to 40 times less water.
+A NASA desenvolveu um chuveiro neblina com um bocal de mão móvel ligado a uma mangueira flexível que incorporava uma válvula de água controlada com o polegar. O consumo médio da água de um duche de nove minutos foi 2,2 litros, o que corresponde a um fluxo de água de apenas 0,24 litros por minuto. [^ 6] O Canadian Minimum Housing Group desenvolveu e testou vários chuveiros neblina e obteve uma taxa de fluxo de 0,33 litros de água por minuto. [^ 7] Nos dois casos, testes de esfregaço de bactérias na pele mostraram que os chuveiros limpam o corpo tão bem quanto um duche "normal" com a mesma duração - usando 30 a 40 vezes menos água.
 
-> Jonas Görgen developed a kit that converts almost any shower into a mist shower.
+> Jonas Görgen desenvolveu um kit que converte quase qualquer chuveiro num chuveiro neblina.
 
-Jonas Görgen, a young designer who graduated from the Design Academy Eindhoven in 2019, became fascinated by the history of the mist shower and decided to build one himself. Compared to earlier mist showers, Görgen has improved the concept in two important ways. First, he developed a kit that can turn almost any shower into a mist shower with very little effort. Second, in contrast to earlier experiments, his mist shower uses not one but three to six nozzles. This turns a functional but very basic mist shower (using only one nozzle), into a pleasant experience that feels just as comfortable and invigorating as a “normal” shower.
+Jonas Görgen, um jovem designer formado na Design Academy Eindhoven em 2019, ficou fascinado com a história do chuveiro neblina e decidiu construir um sozinho. Comparativamente aos chuveiros neblina anteriores, Görgen melhorou o conceito de duas formas importantes. Primeiro, ele desenvolveu um kit que pode transformar quase qualquer chuveiro num chuveiro neblina com muito pouco esforço. Segundo, em contraste com as experiências anteriores, o seu chuveiro neblina usa não um, mas três a seis bocais. Isto transforma um duche neblina numa experiência agradável que é tão confortável e revigorante quanto um duche "normal".
 
 ![Image](/images/jonas-mist-shower.jpg)
-A 6-nozzle mist shower in the bathroom of designer Jonas Görgen. Image: Jonas Görgen.
+Um chuveiro neblina de 6 bocais na casa de banho do designer Jonas Görgen. Imagem: Jonas Görgen.
 
-The kit that Jonas sent me contains six nozzles, some connectors and dividers, some flexible plastic tubes (“feel free to cut to any length”), and some pieces of copper wire (“to fix and attach the nozzles in the right positions”). I installed a five-nozzle mist shower in less than twenty minutes, and although the result won’t win a design award (in fact, Jonas built a more beautiful mist shower for his graduation project), as a do-it-yourself shower hack it is simply brilliant.
+O *kit* que o Jonas me enviou tem seis bocais, alguns conectores e divisores, tubos de plástico flexível ("podem ser cortados a qualquer comprimento") e alguns pedaços de fio de cobre (para prender e segurar os bocais corretamente). Instalei um chuveiro neblina de cinco bocais em menos de 20 minutos e, embora o resultado final não vá ganhar um prémio de *design* (na verdade, o Jonas construiu um chuveiro neblina mais bonito para seu projeto final de curso), como projeto de bricolagem faça você mesmo é simplesmente brilhante.
 
-> With five nozzles, I measured a water flow of two liters per minute, which is five times less than my now obsolete shower head
+> Com cinco bocais, medi um fluxo de água de dois litros por minuto, o que é cinco vezes menor do que a minha cabeça de chuveiro agora obsoleta
 
-In my set-up, four of the nozzles are fixed (one aimed at the head, one aimed at the back, and two aimed at the hips), while one is flexible and can be aimed where it’s needed -- as in the NASA experiments. Using more than one nozzle increases the water flow, but the water savings remain significant.
+Na minha configuração, quatro dos bocais são fixos (um apontado para a cabeça, um para as costas as costas e dois para as ancas), enquanto um é flexível e pode ser direcionado para onde seja necessário - como nas experiências da NASA. Utilizar mais do que um bocal aumenta o fluxo de água, mas a poupança de água permanece significativa.
 
 ![Image](/images/nozzles-mist-shower.jpg)
-Image: Detail of a mist shower.
+Imagem: Detalhe de um chuveiro neblina.
+
+
+
+
+
+
+
+
 
 For five nozzles, I measured a water flow of two litres per minute, which is five times less than my now obsolete shower head (ten litres per minute) and 12.5 less than the water flow of a rain shower. It’s unusual to obtain such large savings with so little effort. Jonas writes about his shower that “it is not all a compromise in comfort, as it is sometimes suggested in the research papers of the 1970s” and I totally agree. The difference is clearly due to the fact that earlier mist showers only used one nozzle.
 
