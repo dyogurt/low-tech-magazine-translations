@@ -69,7 +69,7 @@ Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 
 
 ## Chuveiros Neblina
 
-O uso do duche como um mimo parece ser incompatível com uma redução drástica do uso de água e energia. No entanto, existe uma tecnologia que pode fazer isso: o chuveiro neblina. Um chuveiro neblina atomiza a água em gotas muito pequenas (menos de 10 micrómetros), o que reduz bastante o fluxo de água. Buckminster Fuller inventou o primeiro em 1936 como parte da sua casa de banho Dymaxion (ele chamou-lhe "pistola de nevoeiro"). A ideia regressou na década de 1970, quando vários ensaios e experiências com lavagem de mãos e duches atomizados foram realizadas.
+O uso do duche como um mimo parece ser incompatível com uma redução drástica do uso de água e energia. No entanto, existe uma tecnologia que pode fazer isso: o chuveiro neblina. Um chuveiro neblina vaporiza a água em gotas muito pequenas (menos de 10 micrómetros), o que reduz bastante o fluxo de água. Buckminster Fuller inventou o primeiro em 1936 como parte da sua casa de banho Dymaxion (ele chamou-lhe "pistola de nevoeiro"). A ideia regressou na década de 1970 depois de várias provas e experiências com uso de água vaporizada para duches e lavagem de mãos.
 
 ![Image](/images/mini-mister.png)
 À esquerda: Chuveiro neblina desenvolvido pela NASA. À direita: chuveiro neblina desenvolvido pelo grupo Canadian Minimum Housing. Ambos são da década de 1970. [^7]
@@ -107,13 +107,17 @@ Detalhes do chuveiro neblina faça você mesmo de Jonas Görgen.
 
 O uso de energia de um chuveiro neblina pode ser reduzido ao tomar um duche numa cabine, assim pode manter-se uma temperatura confortável com uma temperatura de água mais baixa. Outro truque para aumentar o conforto no inverno é regular a abertura do bocal para aumentar o tamanho das goticulas de água (isto diminui a área de superfície da água). Isto aumenta o consumo de água mas ajuda a manter a temperatura da água ao minimizar a dissipação de calor para o ar. Cabe a cada pessoa encontrar o equilíbrio entre poupar água ou energia, conforme as suas circunstâncias.
 
-Um argumento comum contra as cabeças de chuveiro feitas para poupar água é o de que as pessoas compensam um menor fluxo de água tomando duches mais longos. 
+Um argumento comum contra as cabeças de chuveiro feitas para poupar água é o de que as pessoas compensam um menor fluxo de água com duches mais longos. Pode dizer-se o mesmo sobre chuveiros neblina porque o uso de água vaporizada aumenta o tempo necessário para enxaguar o corpo da água com sabão. No entanto, um duche neblina de 8 min 54 s dá-nos tempo de sobra retirar todo o sabão e champô. Todas as pessoas que participaram nas experiências da NASA foram capazes de se lavar e enxaguar em menos de nove minutos, utilizando apenas um bocal e uma mangueira flexível. Lavar cabelo comprido é mais complicado mas também neste caso a solução passa por abrir um pouco mais os bocais, aumentando um pouco o fluxo da água.
+
+## Quantos Bocais Podemos Usar?
 
 
 
 
 
-An argument that is often made against water saving shower heads is that people compensate lower water flows by taking longer showers. A similar argument could be made against mist showers, because the use of mist increases the time needed to rinse the body of soapy water. However, a mist shower of 8.9 minutes offers plenty of time to get rid of soap and shampoo. The test subjects in the NASA experiments all managed to wash and rinse within 9 minutes, using only one nozzle on a flexible hose. Washing long hair is more problematic, but also in this case the problem can be addressed by opening the nozzles a bit more, increasing the water flow.
+
+
+
 
 ## How Many Nozzles Can We Afford?
 
