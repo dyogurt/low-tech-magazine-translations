@@ -111,9 +111,11 @@ Um argumento comum contra as cabeças de chuveiro feitas para poupar água é o 
 
 ## Quantos Bocais Podemos Usar?
 
+Um chuveiro neblina com cinco bocais poupa significativamente mais água e energia comparado com um chuveiro normal, sem sacrificar o conforto. No entanto, será que suficientemente sustentável? Mesmo se oito mil milhões de pessoas usassem um chuveiro neblina, todos os aerogeradores do mundo só conseguiriam providenciar um duche quente diário a dois mil milhões de pessoas. Para além disso, comparando com o duche da Marinha de um minuto - que é suposto focar-se apenas na eficiência em vez do conforto - estes chuveiros gastam cinco vezes mais energia e duas vezes mais água. Portanto, vejamos o que acontece quando reduzimos o número de bocais, assumindo uma frequência e duração média de duches.
 
+> Três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável. 
 
-
+Penso que três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável.
 
 
 
