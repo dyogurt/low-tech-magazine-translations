@@ -115,26 +115,20 @@ Um chuveiro neblina com cinco bocais poupa significativamente mais água e energ
 
 > Três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável. 
 
-Penso que três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável.
-
-
-
-
-
-## How Many Nozzles Can We Afford?
-
-The five-nozzle mist shower offers significant water and energy savings compared to a “normal” shower and does so without sacrificing comfort. However, is it sustainable enough? If eight billion people used a five-nozzle mist shower, all wind turbines in the world could still only provide two billion people with a daily hot shower. And, compared to a one-minute Navy shower – which is entirely focused on efficiency, not on comfort – energy use is five times higher, and water use is twice as high. So, let’s see what happens when we decrease the number of nozzles, still assuming average shower frequency and duration.
-
-> Three nozzles – with a flow rate of roughly one liter of water per minute – are the minimum for providing the comfort of a hot shower
-
-I found three nozzles – with a flow rate of roughly one liter of water per minute – to be the minimum for providing the comfort of a hot shower. This would bring the water use of a 8.9 minute mist shower down to 8.9 litres, which corresponds with the water use of a one-minute Navy Shower. The energy use would come down to 0.52 kWh,  two to three times higher than that of a Navy shower. This would provide four billion people with a wind-powered daily hot shower, meaning that if we halved the shower duration (from 8.9 to 4.5 minutes) or showered less frequently (once every two days), the global population could be cleaned and pampered using only wind power.
+Penso que três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável. Isto reduziria o uso de água de um chuveiro neblina de 8 min 54 s para 8,9 litros, o mesmo que um duche da Marinha de um minuto. Desta forma, quatro mil milhões de pessoas poderiam usufruir de duches quentes diários alimentados por aerogeradores; o que significa que se reduzíssemos para metade a duração de um duche (de 8 min 54 s para 4 min 32 s) ou os tomássemos com menos frequência (dia sim dia não), a população mundial poderia ficar limpa e confortável utilizando apenas energia eólica.
 
 ![Image](/images/nozzle.jpg)
-A nozzle in my mist shower.
+Um bocal do meu chuveiro neblina.
 
-If we give up on comfort and simply get clean with as little energy and water as possible, we could take a mist shower using only one nozzle, just like in the seventies. Using just one nozzle I measured the water flow to be 0.3 litres per minute, meaning that a 8.9 minute mist shower would need only 2.67 litres of water and 0.156 kilowatt-hour of energy. The resource use of a mist shower then corresponds to that of a sponge bath, and is significantly lower than that of a one-minute Navy Shower. All wind turbines in the world could provide roughly 15 billion people with a daily 8.9 minute hot mist shower.
+Se não tivermos em conta o conforto e simplesmente nos lavarmos gastando o mínimo de energia e água possível, podemos usar um chuveiro neblina com apenas um bocal; como se fazia nos anos 70. Usando um bocal verifiquei que o fluxo de água foi de 0,3 litros por minuto, sendo assim, um duche de 8 min e 54 gastaria apenas 2,67 litros de água e 0,156 kWh de energia. O uso de recursos nesse caso corresponderia a um banho de esponja e seria significativamente mais baixo que um duche da Marinha.
+Desta forma todo os aerogeradores do mundo poderiam sustentar um duche neblina quente diário para 15 mil milhões de pessoas.
 
-> If more than fifteen nozzles are used, the energy use of a mist shower is higher than that of a conventional shower
+> Se usarmos mais do que 15 bocais, o uso de energia de um duche neblina é superior a um duche convencional.
+
+
+
+
+
 
 Conversely, the water and – especially – energy use of a mist shower increases quickly as more nozzles are added. With twenty nozzles, the water use is still below that of the average shower (6-7 litres vs. 8.3 litres per minute), but the energy use is already higher: 3.1 kWh compared to 2.1 kWh. With ten nozzles -- see for instance the commercially available [Nebia Spa Shower](https://nebia.com) --  water use remains very low at only 3 liters per minute, but energy use is only 25% lower in comparison to a normal shower (1.45 vs. 2.1 kWh). Mist showers are not low energy products by definition. It depends how we use them.
 
