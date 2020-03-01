@@ -2,14 +2,14 @@ Title: Chuveiros Neblina: Decadência Sustentável?
 Author: Kris De Decker
 Date: 2019-10-17
 Category: Soluções de Baixa Tecnologia
-Tags: Fora da Rede
+Tags: Independente da Rede
 Slug: chuveiros-neblina-decadência-sustentável
-Lang: pt
+Lang: pt-PT
 Summary: O uso de água e energia de um chuveiro neblina é tão baixo que a casa de banho pode ficar independente da rede, mesmo num contexto urbano.
 Status:
 
 ![image](/images/mist-shower-hack-kit.jpg)
-Imagem: Kit de montagem de Chuveiro Neblina. Jonas Görgen.
+Imagem: Kit de montagem de um chuveiro neblina. Jonas Görgen.
 
 O duche diário seria algo difícil de manter num mundo sem combustíveis fósseis. O chuveiro neblina, uma tecnologia satisfatória mas esquecida que usa pouquíssima água e energia, poderia ser uma solução. O *designer* Jonas Göegen desenvolveu um *kit* faça você mesmo para converter qualquer chuveiro num chuveiro neblina e enviou-me um para experimentar.
 
@@ -139,30 +139,29 @@ O chuveiro moderno não é um mecanismo independente. Está ligado a várias inf
 Em primeiro lugar, uma transição para chuveiros neblina possibilitaria o uso de esquentadores mais pequenos e de baixa energia. Estes poderiam ser alimentados por sistemas locais de energia solar ou eólica, mais pequenos e baratos do que os necessários para alimentar esquentadores convencionais. Com um chuveiro neblina minimal, podemos até questionar a necessidade de um esquentador. A quantidade de água é tão pequena (2,67 litros) que poderia ser aquecida numa chama - como nos velhos tempos.
 
 ![Image](/images/1970s-portable-shower.png)
-Um duche neblina portátil dos anos 70, pressurizável com uma bomba de cicileta. [^7]
+Um duche neblina portátil dos anos 70, pressurizável com uma bomba de bicicileta. [^7]
 
+Em segundo lugar, o elevado uso de água de um chuveiro convencional obriga-o a estar ligado a um ralo para escoamento. Um chuveiro neblina usa muito menos água, isto permite tomar um duche desligado da rede e lidar com a água usada no local. Por exemplo, escoá-la na sanita, usá-la para regar plantas ou limpar pavimentos. Por último, o fornecimento de água na casa de banho não é estritamente necessário, podemos encher um pequeno contentor com água noutro local e levá-lo depois para a casa de banho.
 
+As experiências feitas no Canadá nos anos 70 produziram um chuveiro neblina portátil. A água era armazenada num reservatório de água de limpa-vidros da Volkswagen ligado a uma bomba de bicicleta para criar pressão. 2,5 litros de água eram pressurizados com cerca de vinte usos repetidos da bomba. Resumidamente, se passarmos a usar chuveiros neblina, a infraestrutura com possibilitou o duche moderno pode ser minimizada e simplificada. Esta mudança na infraestrutura permitiria desligar a casa de banho das redes públicas e reduzir bastante o uso de água e energia. A mesma abordagem poderia ser usada na lavagem das mãos ou da loiça.
 
-Secondly, because of its high water use, a conventional shower needs to be connected to the drain. The mist shower discharges much less water, which makes it possible to take the shower off-pipe and treat the water on site, for example to flush the toilet, water the plants, or clean the pavement. Third, a water supply in the bathroom is not strictly necessary either: a small container could be filled elsewhere and taken to the bathroom.
+O chuveiro neblina do [Jonas Görgen](http://oddemulsion.com/) ainda não está à venda, mas pode [dizer-lhe se que está interessado](https://forms.gle/n5W2bn8EbFurgXQg7). Um chuveiro neblina está exposto durante a [Dutch Design Week Eindhoven](https://www.ddw.nl/), 19-27 Out. 2019.
 
-The Canadian experiments in the 1970s resulted in such a portable mist shower. The water was stored in a Volkswagen window washing reservoir connected to a bicycle pump to pressurize the water. The 2.5 litres of water were pressurized with about twenty strokes of the bicycle pump. [^7] In short, if we switch to mist, the infrastructure that made the modern shower possible can be scaled down and simplified, to such an extent that the bathroom could be taken off-grid and off-pipe even in an urban context, bringing further reductions in the use of water and energy. The same approach could be applied to hand washing and dish washing.
-
-[Jonas Görgen](http://oddemulsion.com/)'s mist shower is not for sale yet, but you can [let him know if you're interested](https://forms.gle/n5W2bn8EbFurgXQg7). A mist shower is on display at the [Dutch Design Week Eindhoven](https://www.ddw.nl/), 19-27 Oct. 2019.
+Por favor tenha em atenção que todos os chuveiros apresentam risco de doença dos legionários. As gotículas de água de um banho de neblina permanecem no ar por mais tempo, o que aumenta o risco de inalação. Portanto, é [importante tomar medidas preventivas](https://www.dgs.pt/doenca-dos-legionarios/doenca-dos-legionarios/prevencao-e-controlo.aspx).
 
 Please note that all showers carry a legionella risk. The smaller water droplets from a mist shower remain in the air for a longer time, which increases the risk of inhalation. Therefore, it is [important to take elementary precautions](http://www.hse.gov.uk/healthservices/legionella.htm).
 
 Kris De Decker
 
-* [Subscribe to our newsletter](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
-* Support Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) or [Patreon](https://www.patreon.com/lowtechmagazine).
-* [Buy the printed website](https://solar.lowtechmagazine.com/2019/12/the-printed-website-is-complete.html).
+* [Receba a nossa *newsletter*](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
+* Apoie a Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) ou [Patreon](https://www.patreon.com/lowtechmagazine).
+* [Compre o *website* em versão impressa](https://solar.lowtechmagazine.com/2019/12/the-printed-website-is-complete.html).
 
 ## <span id="comments">Comments</span>
 
-To make a comment, please send an e-mail to solar (at) lowtechmagazine (dot) com.
+Para comentar, por favor envie um email para solar (arroba) lowtechmagazine (ponto) com.
 
 <div id="comment-list" markdown="1">
-
 
 ##### Mark
 
