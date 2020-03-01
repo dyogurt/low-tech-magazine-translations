@@ -11,8 +11,6 @@ Status:
 ![image](/images/mist-shower-hack-kit.jpg)
 Imagem: Kit de montagem de Chuveiro Neblina. Jonas Görgen.
 
-
-
 O duche diário seria algo difícil de manter num mundo sem combustíveis fósseis. O chuveiro neblina, uma tecnologia satisfatória mas esquecida que usa pouquíssima água e energia, poderia ser uma solução. O *designer* Jonas Göegen desenvolveu um *kit* faça você mesmo para converter qualquer chuveiro num chuveiro neblina e enviou-me um para experimentar.
 
 ## A Pegada de Carbono do Duche Diário.
@@ -120,33 +118,30 @@ Penso que três bocais - com uma taxa de fluxo de mais ou menos um litro por min
 ![Image](/images/nozzle.jpg)
 Um bocal do meu chuveiro neblina.
 
-Se não tivermos em conta o conforto e simplesmente nos lavarmos gastando o mínimo de energia e água possível, podemos usar um chuveiro neblina com apenas um bocal; como se fazia nos anos 70. Usando um bocal verifiquei que o fluxo de água foi de 0,3 litros por minuto, sendo assim, um duche de 8 min e 54 gastaria apenas 2,67 litros de água e 0,156 kWh de energia. O uso de recursos nesse caso corresponderia a um banho de esponja e seria significativamente mais baixo que um duche da Marinha.
+Se não tivermos em conta o conforto e simplesmente nos lavarmos gastando o mínimo de energia e água possível, podemos usar um chuveiro neblina com apenas um bocal; como se fazia nos anos 70. Usando apenas um bocal verifiquei que o fluxo de água foi de 0,3 litros por minuto, sendo assim, um duche de 8 min e 54 s gastaria apenas 2,67 litros de água e 0,156 kWh de energia. O uso de recursos nesse caso corresponderia a um banho de esponja e seria significativamente mais baixo que um duche da Marinha.
 Desta forma todo os aerogeradores do mundo poderiam sustentar um duche neblina quente diário para 15 mil milhões de pessoas.
 
 > Se usarmos mais do que 15 bocais, o uso de energia de um duche neblina é superior a um duche convencional.
 
+Inversamente, o uso de água e, especialmente, de energia de um chuveiro neblina aumenta rapidamente conforme se adicionam mais bocais. Com vinte bocais o uso de água ainda é inferior a um duche normal, 6 a 7 em vez de 8,3 litros por minuto; mas o uso de energia já é superior, 3,1 kWh em vez de 2,1 kWh. Com dez bocais — veja por exemplo o [Chuveiro Nebia Spa](https://nebia.com) - o uso de água permanece baixo, apenas três litros por minuto, e o uso de energia é 25% menor quando comparado com chuveiro normal. Os chuveiros neblina não são necessariamente produtos de energia, tudo depende de como os usamos.
 
+## Independente da Rede
 
-
-
-
-Conversely, the water and – especially – energy use of a mist shower increases quickly as more nozzles are added. With twenty nozzles, the water use is still below that of the average shower (6-7 litres vs. 8.3 litres per minute), but the energy use is already higher: 3.1 kWh compared to 2.1 kWh. With ten nozzles -- see for instance the commercially available [Nebia Spa Shower](https://nebia.com) --  water use remains very low at only 3 liters per minute, but energy use is only 25% lower in comparison to a normal shower (1.45 vs. 2.1 kWh). Mist showers are not low energy products by definition. It depends how we use them.
-
-## Off-Pipe
-
-There’s one problem with mist showers operating with only one to three nozzles: modern water boilers don’t get triggered by a flow rate below 1 litre of water per minute, meaning that only cold mist comes out. This is not a fundamental problem – it’s technically possible to make water boilers that heat small amounts of water – and it brings us to another potential advantage of the mist shower: its effect on the bathroom.
+Existe um problema com o uso de chuveiros neblina com um a três bocais: Os esquentadores modernos não se ligam com fluxos de água abaixo de um litro por minuto, o que significa que o duche seria de água fria. Este não é um problema sério - tecnicamente, é possível fazer esquentadores que se liguem com fluxos mais baixos - e oferece-nos outra possível vantagem do chuveiro neblina: o seu efeito na casa de banho.
 
 ![Image](/images/mist-shower-travel.jpg)
-I got so fond of my mist shower that I'm travelling with it.
+Fiquei tão apegado ao meu chuveiro neblina que o levo comigo em viagens.
 
-The modern shower is not a device that stands on its own. It is plugged into several infrastructure networks, like the water supply, the sewer network, and the power grid or gas infrastructure. In contrast, although a mist shower could be plugged into the same infrastructures, it could also operate without them, further reducing the use of resources.
+O chuveiro moderno não é um mecanismo independente. Está ligado a várias infraestruturas como a rede pública de abastecimento de água e saneamento, a rede elétrica e a rede de distribuição de gás. Por outro lado, embora um chuveiro neblina possa ser ligado a estas infraestruturas, também pode funcionar sem elas, reduzindo assim o uso de recursos.
 
-> Modern water boilers don’t get triggered by a flow rate below 1 liter of water per minute, meaning that only cold mist comes out
+> Existe um problema com o uso de chuveiros neblina com um a três bocais: Os esquentadores modernos não se ligam com fluxos de água abaixo de um litro por minuto, o que significa que o duche seria de água fria.
 
-First of all, a switch to mist showers would make it possible to use much smaller and less powerful water boilers, which could be powered by local solar or wind powered systems that are smaller and cheaper than those required for conventional water boilers. With a minimal mist shower, one could even question the need for a water boiler at all. The quantity of water is so small (2.67 litres) that it could be heated on the fire – just like in the old days.
+Em primeiro lugar, uma transição para chuveiros neblina possibilitaria o uso de esquentadores mais pequenos e de baixa energia. Estes poderiam ser alimentados por sistemas locais de energia solar ou eólica, mais pequenos e baratos do que os necessários para alimentar esquentadores convencionais. Com um chuveiro neblina minimal, podemos até questionar a necessidade de um esquentador. A quantidade de água é tão pequena (2,67 litros) que poderia ser aquecida numa chama - como nos velhos tempos.
 
 ![Image](/images/1970s-portable-shower.png)
-A portable mist shower from the 1970s, pressurized with a bicycle pump. [^7]
+Um duche neblina portátil dos anos 70, pressurizável com uma bomba de cicileta. [^7]
+
+
 
 Secondly, because of its high water use, a conventional shower needs to be connected to the drain. The mist shower discharges much less water, which makes it possible to take the shower off-pipe and treat the water on site, for example to flush the toilet, water the plants, or clean the pavement. Third, a water supply in the bathroom is not strictly necessary either: a small container could be filled elsewhere and taken to the bathroom.
 
