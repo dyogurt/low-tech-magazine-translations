@@ -9,103 +9,103 @@ Summary: O uso de água e energia de um chuveiro neblina é tão baixo que a cas
 Status:
 
 ![image](/images/mist-shower-hack-kit.jpg)
-Imagem: Kit de montagem de um chuveiro neblina. Jonas Görgen.
+Imagem: *Kit* de Montagem de um Chuveiro Neblina. Jonas Görgen.
 
-O duche diário seria algo difícil de manter num mundo sem combustíveis fósseis. O chuveiro neblina, uma tecnologia satisfatória mas esquecida que usa pouquíssima água e energia, poderia ser uma solução. O *designer* Jonas Göegen desenvolveu um *kit* faça você mesmo para converter qualquer chuveiro num chuveiro neblina e enviou-me um para experimentar.
+O duche diário seria algo difícil de manter num mundo sem combustíveis fósseis. O chuveiro neblina, uma tecnologia adequada mas esquecida que usa pouquíssima água e energia, poderia ser uma solução. O *designer* Jonas Göegen desenvolveu um *kit* faça você mesmo para converter qualquer chuveiro num chuveiro neblina e enviou-me um para experimentar.
 
 ## A Pegada de Carbono do Duche Diário.
 
-O duche não recebe muita atenção no contexto das alterações climáticas. No entanto, tal como aviões, carros e sistemas de aquecimento; o duche passou a ser uma maneira muito esbanjadora e de uso intensivo de carbono de satisfazer uma necessidade básica: lavar o corpo. Cada dia, muitos de nós despejam cerca de 70 litros de água quente sobre os nossos corpos para podermos ficar "limpos".
+O duche não recebe muita atenção no contexto das alterações climáticas. No entanto, tal como aviões, carros e sistemas de aquecimento, o duche passou a ser uma maneira muito esbanjadora e de uso intensivo de carbono de satisfazer uma necessidade básica: lavar o corpo. Cada dia, muitos de nós despejam cerca de 70 litros de água quente sobre os nossos corpos para podermos ficar "limpos".
 
 Esta prática requer dois recursos escassos: água e energia. É dada mais atenção ao elevado consumo de água de um duche, mas o consumo de energia é igualmente problemático. A produção de água quente é responsável pelo segundo uso mais significativo de energia em muitas casas (sendo o primeiro o aquecimento) e grande parte é usada para tomar banho. O tratamento e distribuição de água também usam muita energia.
 
-Em contraste com a energia usada para aquecimento, que tem diminuído nas últimas décadas, a energia usada para aquecer água em residências tem aumentado continuamente. Uma das razões é que as pessoas tomam duches mais longos e com mais frequência e usam chuveiros cada vez mais potentes. Por exemplo, na Holanda, de 1992 a 2016, a frequência do duche aumentou de 0,69 para 0,72 duches por dia, a duração do duche aumentou de 8,2 para 8,9 minutos e o fluxo médio de água aumentou de 7,5 para 8,6 litros por minuto. [^1]
+Em contraste com a energia usada para aquecimento, que tem diminuído nas últimas décadas, a energia usada para aquecer água em residências tem aumentado continuamente. Uma das razões é que as pessoas tomam duches mais longos e com mais frequência e usam chuveiros cada vez mais potentes. Por exemplo, nos Países Baixos, de 1992 a 2016, a frequência do duche aumentou de 0,69 para 0,72 duches por dia, a duração do duche aumentou de 8 min 12 s para 8 min 54 s minutos e o fluxo médio de água aumentou de 7,5 para 8,6 litros por minuto. [^1]
 
-> Em muitas sociedades industriais, agora é comum tomar um duche pelo menos uma vez por dia
+> Em muitas sociedades industriais, agora é comum tomar um duche pelo menos uma vez por dia.
 
-No total, o holandês comum usou 50,2 litros de água por dia para tomar duches em 2016, em em comparação com “apenas” 39,5 litros de água por dia em 1992. Esta é uma estimativa cautelosa: estes dados não incluem duches fora da casa, por exemplo, no ginásio. Estudos mostram que em muitas sociedades industriais, e especialmente entre pessoas mais jovens, agora é comum tomar banho pelo menos uma vez por dia. [^2][^3][^4]
+No total, o neerlandês comum usou 50,2 litros de água por dia para tomar duches em 2016, em em comparação com “apenas” 39,5 litros de água por dia em 1992. Esta é uma estimativa cautelosa: estes dados não incluem duches fora da casa, por exemplo, no ginásio. Estudos mostram que em muitas sociedades industriais, e especialmente entre pessoas mais jovens, agora é comum tomar banho pelo menos uma vez por dia. [^2][^3][^4]
 
 ![Image](/images/original-shower.jpg)
-O duche feito à mão original. Despejar um balde de água por cima do nosso corpo (ou o de outra pessoa). Imagem Daniel Julie (CC-BY-2.0).
+O Duche Feito à Mão Original. Despejar um Balde de Água por Cima do Nosso Corpo (ou o de outra pessoa). Imagem Daniel Julie (CC-BY-2.0)
 
-Usando os holandeses como exemplo, vamos olhar para o uso de energia e emissões de carbono de um duche quente diário. Aquecer 76,5 litros de água (8 min 54 s x 8,6 litros por minuto) de 18 a 38 graus Celsius requer 2,1 quilowatt-hora (kWh) de energia. Dependendo da fonte de energia (gás, eletricidade), a intensidade de carbono da rede elétrica (EUA / UE) ou a eficiência do esquentador (novo / antigo), as emissões de CO2 resultantes de um duche comum são de 0,462 - 0,921 kg. [^5] Se compararmos isso com as emissões de carbono de um carro com um consumo de combustível relativamente eficiente (130g CO2 / km), as emissões de um duche típico equivalem a conduzir 3,5 - 7 km, e esse resultado ignora o custo de energia exigido pelo tratamento de água e distribuição.
+Usando os neerlandeses como exemplo, olhemos para o uso de energia e emissões de carbono de um duche quente diário. Aquecer 76,5 litros de água (8 min 54 s x 8,6 litros por minuto) de 18 para 38 graus Celsius requer 2,1 quilowatt-hora (kWh) de energia. Dependendo da fonte de energia (gás, eletricidade), a intensidade de carbono da rede elétrica (EUA/UE) ou a eficiência do esquentador (novo / antigo), as emissões de CO2 resultantes de um duche comum são de 0,462 - 0,921 kg. [^5] Se compararmos isso com as emissões de carbono de um carro com um consumo de combustível relativamente eficiente (130 g CO2/km), as emissões de um duche típico equivalem a conduzir 3,5 - 7 km, e esse resultado ignora o custo de energia exigido pelo tratamento de água e distribuição.
 
-> As emissões de um duche típico equivalem a conduzir 3,5 - 7 km
+> As emissões de um duche típico equivalem a conduzir 3,5 - 7 km.
 
-Em princípio, a energia para um duche pode ser gerada por fontes de energia renováveis. No entanto, se oito mil milhões de pessoas tomarem banho diariamente, o uso total de energia por ano seria de 6.132 terawatts-hora (TWh). Isso é oito vezes a energia produzida pelos aerogeradores em todo o mundo em 2017 (745 TWh). Todos os atuais aerogeradores no mundo poderiam fornecer a apenas mil milhões de pessoas um duche diário "sustentável". Além disso, o uso de fontes de energia renováveis não diminui o uso de água do duche diário. Só para esclarecer, energia renovável faz parte da solução - termoacumuladores solares, biomassa, [aerogeradores térmicos](https://www.lowtechmagazine.com/2019/02/heat-your-house-with-a-water-brake-windmill.html) – mas também devemos olhar para a demanda de nos lavarmos no mundo pós-carbono.   
+Em princípio, a energia para um duche pode ser gerada por fontes de energia renováveis. No entanto, se oito mil milhões de pessoas tomarem um duche diariamente, o uso total de energia por ano seria de 6132 terawatts-hora (TWh). Isso é oito vezes mais do que a energia produzida por todos os aerogeradores do mundo em 2017 (745 TWh). Todos os aerogeradores que existem atualmente poderiam fornecer um duche diário "sustentável" a apenas mil milhões de pessoas. Além disso, o uso de fontes de energia renováveis não diminui o uso de água do duche diário. Só para esclarecer, o suso de energia renovável faz parte da solução - termoacumuladores solares, biomassa, [aerogeradores térmicos](https://www.lowtechmagazine.com/2019/02/heat-your-house-with-a-water-brake-windmill.html) – mas também devemos olhar para a necessidade de nos lavarmos no mundo pós-carbono.   
 
 ## Chuveiros mais Potentes
 
-Desde o início dos anos 90 que as cabeças de chuveiro de baixo caudal proporcionam uma maneira mais eficiente de usar água e energia. Elas usam entre quatro e nove litros de água por minuto, aproximadamente metade do caudal de uma cabeça de chuveiro normal (dez a quinze litros por minuto). Quase metade de todas as residências holandesas tinham um chuveiro de baixo caudal instalado em 2016, mas, como vimos, a taxa de fluxo do chuveiro médio desde os anos 90 tem vindo a aumentar, não a diminuir. [1]
+Desde o início dos anos 90 que as cabeças de chuveiro de baixo caudal proporcionam uma maneira mais eficiente de usar água e energia. Elas usam entre quatro e nove litros de água por minuto, aproximadamente metade do caudal de uma cabeça de chuveiro normal (dez a quinze litros por minuto). Quase metade de todas as residências neerlandesas tinham um chuveiro de baixo caudal instalado em 2016 mas, como vimos, a taxa de fluxo do chuveiro médio desde os anos 90 tem vindo a aumentar, não a diminuir. [1]
 
 ![Image](/images/rain-shower.jpg)
-Um chuveiro de efeito chuva. Imagem: soak.com.
+Um Chuveiro de Efeito Chuva. Imagem: soak.com
 
-Isto acontece porque outros holandeses substituíram os seus chuveiros por chuveiros de efeito chuva, estes têm um fluxo de água de cerca de 25 litros por minuto - o dobro de uma cabeça de chuveiro normal e o triplo de uma de baixo fluxo. Um duche de chuva de 8 min 54 s requer 222 litros de água e 6.3 quilowatts-hora de energia para a aquecer. A pegada de carbono corresponde a conduzir entre 14,3 e 21,3 km.
+Isto acontece porque outros neerlandeses substituíram os seus chuveiros por chuveiros de efeito chuva, estes têm um fluxo de água de cerca de 25 litros por minuto - o dobro de uma cabeça de chuveiro normal e o triplo de uma de baixo fluxo. Um duche de chuva de 8 min 54 s requer 222 litros de água e 6.3 kWh de energia para a aquecer. A pegada de carbono corresponde a conduzir entre 14,3 e 21,3 km.
 
 ## A Vida antes dos Duches
 
-Pode chocar alguns leitores mais jovens, mas há cinquenta anos a maioria das pessoas nas sociedades industriais não tomava banho. Os chuveiros de parede, instalados sobre a banheira, generalizaram-se apenas na década de 1970, e as cabines de duche tornaram-se um acessório normal em novas casas apenas desde as décadas de 1980 e 1990. [^2][^3][^4] Antes da chegada do chuveiro, as pessoas tomavam um (ou alguns) banho (s) por semana, e no meio lavavam-se num alguidar ou selha usando um pano (o chamado banho de alguidar ou banho de esponja).
+isto pode ser um choque para alguns leitores mais jovens, mas há cinquenta anos a maioria das pessoas nas sociedades industriais não tomava banho. Os chuveiros de parede, instalados sobre a banheira, generalizaram-se apenas nos anos 70, e as cabines de duche tornaram-se um acessório normal em novas casas apenas nos anos 80 e 90. [^2][^3][^4] Antes da chegada do chuveiro, as pessoas tomavam um (ou alguns) banho (s) por semana, e no meio lavavam-se num alguidar ou selha usando um pano (o chamado banho de alguidar ou banho de esponja).
 
 > O uso semanal de água e energia de um duche diário supera rapidamente o uso de água e energia de um, dois, ou até 3 banhos semanais.
 
-O duche é frequentemente recomendado como uma opção mais sustentável que o banho, porque é dito que este último usa mais água. No entanto, o uso semanal de água e energia de um duche diário supera rapidamente o uso de água e energia de um, dois, ou até 3 banhos semanais. [^ 2] O banho de esponja é ainda mais eficiente em termos de água e energia: aproximadamente dois litros de água são suficientes para ficar limpo, e a água pode até estar fria porque nem todo o corpo fica molhado ao mesmo tempo.
+O duche é frequentemente recomendado como uma opção mais sustentável que o banho, porque é dito que este último usa mais água. No entanto, o uso semanal de água e energia de um duche diário supera rapidamente o uso de água e energia de um, dois, ou até três banhos semanais. [^ 2] O banho de esponja é ainda mais eficiente em termos de água e energia: aproximadamente dois litros de água são suficientes para ficar limpo, e a água pode até estar fria porque nem todo o corpo fica molhado ao mesmo tempo.
 
 ![Image](/images/Carl_Larsson_Summer_Morning_1908.jpg)
-Um banho de esponja. Manhã de verão (Summer Morning), pintura de Carl Larsson, 1908
+Um Banho de Esponja. Manhã de Verão (Summer Morning), Pintura de Carl Larsson, 1908
 
-Organizações ambientais, empresas de água e municípios incentivam as pessoas nas sociedades industriais a tomar duches mais curtos, usar chuveiros de baixo fluxo e instalar caldeiras de água ou esquentadores com maior eficiência energética. Também existem fatores que influenciam o uso de energia e / ou água que essas instituições não se atrevem a questionar: frequência dos duches, temperatura da água ("tomar um duche frio") ou o ato de tomar banho - nunca é sugerido que um banho de esponja realmente possa ser suficiente. Claramente, o duche quente diário é hoje considerado não um luxo, mas uma necessidade básica.
+Organizações ambientais, empresas de distribuição de água e municípios incentivam as pessoas nas sociedades industriais a tomar duches mais curtos, usar chuveiros de baixo fluxo e instalar caldeiras de água ou esquentadores com maior eficiência energética. Mas existem outros fatores que influenciam o uso de energia e/ou água que essas instituições não se atrevem a questionar: frequência dos duches, temperatura da água ("tomar um duche frio") ou o ato de tomar banho - nunca é sugerido que um banho de esponja realmente possa ser suficiente. Claramente, o duche quente diário é hoje considerado não um luxo, mas sim uma necessidade básica.
 
 ## Porque Tomamos Duches?
 
 No entanto, um duche não lava apenas o corpo. Um chuveiro totalmente focado na limpeza do corpo - o chamado duche da Marinha - gasta muito pouco tempo, energia e água. Um duche da Marinha consiste num duche de trinta segundos para se molhar, ensaboar o corpo enquanto a água está desligada e termina com outro duche de trinta segundos para enxaguar a água com sabão.
 
 ![Image](/images/showers-soldiers.jpg)
-Até à década de 1970, os chuveiros eram usados apenas em quartéis ou prisões para lavar muitas pessoas em pouco tempo. [2] Imagem: (O duche no regimento) La douche au Régiment, pintura de Eugène Chaperon, 1887.
+Até à década de 1970, os chuveiros ram usados apenas em quartéis ou prisões para lavar muitas pessoas em pouco tempo. [2] Imagem: (O Duche no Regimento) La Douche au Régiment, Pintura de Eugène Chaperon, 1887.
 
-Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 litros de água e 0,2 quilowatt-hora de energia. Um banho de esponja diário teria um uso ainda mais baixo de água e energia. Um banho quente de nove minutos por dia não é de forma alguma uma necessidade básica: é um prazer. Desde os anos 90, o banho diário tem sido retratado em anúncios como uma forma de relaxamento, alívio do _stress_ e prazer sensual.
+Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 litros de água e 0,2 kWh de energia. Um banho de esponja diário teria um uso ainda mais baixo de água e energia. Um banho quente de nove minutos por dia não é de forma alguma uma necessidade básica: é um prazer. Desde os anos 90, o banho diário tem sido retratado em anúncios como uma forma de relaxamento, alívio do _stress_ e prazer sensual.
 
 ## Chuveiros Neblina
 
-O uso do duche como um mimo parece ser incompatível com uma redução drástica do uso de água e energia. No entanto, existe uma tecnologia que pode fazer isso: o chuveiro neblina. Um chuveiro neblina vaporiza a água em gotas muito pequenas (menos de 10 micrómetros), o que reduz bastante o fluxo de água. Buckminster Fuller inventou o primeiro em 1936 como parte da sua casa de banho Dymaxion (ele chamou-lhe "pistola de nevoeiro"). A ideia regressou na década de 1970 depois de várias provas e experiências com uso de água vaporizada para duches e lavagem de mãos.
+O uso do duche como uma forma de nos mimarmos parece ser incompatível com uma redução drástica do uso de água e energia. No entanto, existe uma tecnologia que pode fazer precisamente isto: o chuveiro neblina. Um chuveiro neblina vaporiza a água em gotas muito pequenas (menos de dez micrómetros), o que reduz bastante o fluxo de água. Buckminster Fuller inventou o primeiro em 1936 como parte da sua casa de banho Dymaxion (ele chamou-lhe "pistola de nevoeiro"). A ideia regressou na década de 1970 depois de várias provas e experiências com uso de água vaporizada para duches e lavagem de mãos.
 
 ![Image](/images/mini-mister.png)
-À esquerda: Chuveiro neblina desenvolvido pela NASA. À direita: chuveiro neblina desenvolvido pelo grupo Canadian Minimum Housing. Ambos são da década de 1970. [^7]
+À Esquerda: Chuveiro Neblina Desenvolvido pela NASA. À Direita: Chuveiro Neblina Desenvolvido pelo Grupo Canadian Minimum Housing. Ambos são da Década de 1970. [^7]
 
-A NASA desenvolveu um chuveiro neblina com um bocal de mão móvel ligado a uma mangueira flexível que incorporava uma válvula de água controlada com o polegar. O consumo médio da água de um duche de nove minutos foi 2,2 litros, o que corresponde a um fluxo de água de apenas 0,24 litros por minuto. [^ 6] O Canadian Minimum Housing Group desenvolveu e testou vários chuveiros neblina e obteve uma taxa de fluxo de 0,33 litros de água por minuto. [^ 7] Nos dois casos, testes de esfregaço de bactérias na pele mostraram que os chuveiros limpam o corpo tão bem quanto um duche "normal" com a mesma duração - usando 30 a 40 vezes menos água.
+A NASA desenvolveu um chuveiro neblina com um bocal ligado a uma mangueira flexível e móvel que incorporava uma válvula de água controlada com o polegar. O consumo médio da água de um duche de nove minutos foi 2,2 litros, o que corresponde a um fluxo de água de apenas 0,24 litros por minuto. [^ 6] O Canadian Minimum Housing Group desenvolveu e testou vários chuveiros neblina e obteve uma taxa de fluxo de 0,33 litros de água por minuto. [^ 7] Nos dois casos, testes de esfregaço de bactérias na pele mostraram que os chuveiros limpam o corpo tão bem como um duche "normal" com a mesma duração - usando 30 a 40 vezes menos água.
 
 > Jonas Görgen desenvolveu um kit que converte quase qualquer chuveiro num chuveiro neblina.
 
-Jonas Görgen, um jovem designer formado na Design Academy Eindhoven em 2019, ficou fascinado com a história do chuveiro neblina e decidiu construir um sozinho. Comparativamente aos chuveiros neblina anteriores, Görgen melhorou o conceito de duas formas importantes. Primeiro, ele desenvolveu um kit que pode transformar quase qualquer chuveiro num chuveiro neblina com muito pouco esforço. Segundo, em contraste com as experiências anteriores, o seu chuveiro neblina usa não um, mas três a seis bocais. Isto transforma um duche neblina numa experiência agradável que é tão confortável e revigorante quanto um duche "normal".
+Jonas Görgen, um jovem designer formado na Design Academy Eindhoven em 2019, ficou fascinado com a história do chuveiro neblina e decidiu construir um sozinho. Comparativamente aos chuveiros neblina anteriores, Görgen melhorou o conceito de duas formas importantes. Primeiro, ele desenvolveu um *kit* que pode transformar quase qualquer chuveiro num chuveiro neblina com muito pouco esforço. Segundo, em contraste com as experiências anteriores, o seu chuveiro neblina usa não um, mas três a seis bocais. Isto transforma um duche neblina numa experiência agradável que é tão confortável e revigorante como um duche "normal".
 
 ![Image](/images/jonas-mist-shower.jpg)
-Um chuveiro neblina de 6 bocais na casa de banho do designer Jonas Görgen. Imagem: Jonas Görgen.
+Um Chuveiro Neblina de 6 Bocais na Casa de Banho do Designer Jonas Görgen. Imagem: Jonas Görgen.
 
-O *kit* que o Jonas me enviou tem seis bocais, alguns conectores e divisores, tubos de plástico flexível ("podem ser cortados a qualquer comprimento") e alguns pedaços de fio de cobre (para prender e segurar os bocais corretamente). Instalei um chuveiro neblina de cinco bocais em menos de 20 minutos e, embora o resultado final não vá ganhar um prémio de *design* (na verdade, o Jonas construiu um chuveiro neblina mais bonito para seu projeto final de curso), como projeto de bricolagem faça você mesmo é simplesmente brilhante.
+O *kit* que o Jonas me enviou tem seis bocais, alguns conectores e divisores, tubos de plástico flexível ("podem ser cortados a qualquer comprimento") e alguns pedaços de fio de cobre (para prender e segurar os bocais corretamente). Instalei um chuveiro neblina de cinco bocais em menos de 20 minutos e embora o resultado final não vá ganhar um prémio de *design* (na verdade, o Jonas construiu um chuveiro neblina mais bonito para seu projeto final de curso) como projeto de bricolagem faça você mesmo é simplesmente brilhante.
 
-> Com cinco bocais, medi um fluxo de água de dois litros por minuto, o que é cinco vezes menor do que a minha cabeça de chuveiro agora obsoleta
+> Com cinco bocais, medi um fluxo de água de dois litros por minuto, o que é cinco vezes menor do que a minha cabeça de chuveiro agora obsoleta.
 
-Na minha configuração, quatro dos bocais são fixos (um apontado para a cabeça, um para as costas as costas e dois para as ancas), enquanto um é flexível e pode ser direcionado para onde seja necessário - como nas experiências da NASA. Utilizar mais do que um bocal aumenta o fluxo de água, mas a poupança de água permanece significativa.
+Na minha configuração, quatro dos bocais são fixos (um apontado para a cabeça, um para as costas as costas e dois para as ancas), no entanto, o quinto é flexível e pode ser direcionado para onde seja necessário - como nas experiências da NASA. Utilizar mais do que um bocal aumenta o fluxo de água, mas a poupança de água permanece significativa.
 
 ![Image](/images/nozzles-mist-shower.jpg)
-Imagem: Detalhe de um chuveiro neblina.
+Imagem: Detalhe de um Chuveiro Neblina.
 
 Com cinco bocais, medi um fluxo de água de dois litros por minuto, o que é cinco vezes menor do que a minha cabeça de chuveiro agora obsoleta (dez litros por minuto) e 12,5 vezes menos do que um chuveiro de tipo chuva. É pouco comum conseguir poupar tanto com tão pouco esforço. Sobre o seu chuveiro, o Jonas diz "Nem tudo é um compromisso de conforto, como muitas vezes sugerem os estudos dos anos 70" e eu concordo plenamente. A diferença deve-se claramente ao facto de os chuveiros anteriores usarem apenas um bocal.
 
 ## Poupança de Energia de um Chuveiro Neblina
 
-A poupança de energia de um chuveiro neblina é menor do que a sua poupança de água. Isto porque este chuveiro requer água a temperaturas mais elevadas. O aumento da área da superfície da água reduz o seu consumo mas também faz com que o calor se dissipe mais rapidamente no ar. Mesmo que a água saía da torneira à temperatura máxima (normalmente a sessenta graus Celsius, quente demais para o toque direto), quando é vaporizada torna-se cada vez mais fria conforme a nossa distância ao bocal. O truque é posicionar os bocais de tal forma que rodeiem o corpo a uma curta distância. Eu assim fiz com arames e alguma fita-cola mas há métodos mais elegantes.
+A poupança de energia de um chuveiro neblina é menor do que a sua poupança de água. Isto porque este chuveiro requer água a temperaturas mais elevadas. O aumento da área da superfície da água reduz o seu consumo mas também faz com que o calor se dissipe mais rapidamente para o ar. Mesmo que a água saía da torneira à temperatura máxima (normalmente a sessenta graus Celsius, quente demais para o toque direto), quando é vaporizada, torna-se cada vez mais fria conforme a nossa distância ao bocal vai aumentando. O truque é posicionar os bocais de tal forma que rodeiem o corpo a uma curta distância. Eu assim fiz com arames e alguma fita-cola mas há métodos mais elegantes.
 
-> A poupança de energia de um chuveiro neblina é menor do que a sua poupança de água
+> A poupança de energia de um chuveiro neblina é menor do que a sua poupança de água.
 
-Considero que uma temperatura da água de aproximadamente cinquenta graus Celsius é suficientemente confortável, mas um duche neblina no inverno pode necessitar de uma temperatura da água mais elevada, portanto, assumam-mos o valor de sessenta graus Celsius para calcular o uso de energia do meu chuveiro neblina de cinco bocais. A uma taxa de fluxo de dois litros por minuto um duche de 8 min 54 s consome 17,8 litros de água. Aquecer esse volume de água de 18 para 60 graus Celsius requer 1,04 kWh. Ou seja, metade da energia do duche comum nos Países Baixos (2,1 kWh) e seis vezes mais energia do que um chuveiro de tipo chuva (6,3 kWh).
+Considero que uma temperatura da água de aproximadamente cinquenta graus Celsius é suficientemente confortável, mas um duche neblina no inverno pode necessitar de uma temperatura da água mais elevada. Portanto, assumam-mos o valor de sessenta graus Celsius para calcular o uso de energia do meu chuveiro neblina de cinco bocais. A uma taxa de fluxo de dois litros por minuto um duche de 8 min 54 s consome 17,8 litros de água. Aquecer esse volume de água de 18 para 60 graus Celsius requer 1,04 kWh. Ou seja, metade da energia do duche comum nos Países Baixos (2,1 kWh) e seis vezes mais energia do que um chuveiro de tipo chuva (6,3 kWh).
 
 ![Image](/images/mist-shower-detail.png)
-Detalhes do chuveiro neblina faça você mesmo de Jonas Görgen.
+Detalhes do Chuveiro Neblina Faça Você Mesmo de Jonas Görgen.
 
-O uso de energia de um chuveiro neblina pode ser reduzido ao tomar um duche numa cabine, assim pode manter-se uma temperatura confortável com uma temperatura de água mais baixa. Outro truque para aumentar o conforto no inverno é regular a abertura do bocal para aumentar o tamanho das goticulas de água (isto diminui a área de superfície da água). Isto aumenta o consumo de água mas ajuda a manter a temperatura da água ao minimizar a dissipação de calor para o ar. Cabe a cada pessoa encontrar o equilíbrio entre poupar água ou energia, conforme as suas circunstâncias.
+O uso de energia de um chuveiro neblina pode ser reduzido ao tomar um duche numa cabine, assim pode manter-se uma temperatura confortável com uma temperatura de água mais baixa. Outro truque para aumentar o conforto no inverno é regular a abertura do bocal para aumentar o tamanho das gotículas de água (o que diminui a área de superfície). Isto aumenta o consumo de água mas ajuda a manter a sua temperatura ao minimizar a dissipação de calor para o ar. Cabe a cada pessoa encontrar o equilíbrio entre poupar água ou energia, conforme as suas circunstâncias.
 
-Um argumento comum contra as cabeças de chuveiro feitas para poupar água é o de que as pessoas compensam um menor fluxo de água com duches mais longos. Pode dizer-se o mesmo sobre chuveiros neblina porque o uso de água vaporizada aumenta o tempo necessário para enxaguar o corpo da água com sabão. No entanto, um duche neblina de 8 min 54 s dá-nos tempo de sobra retirar todo o sabão e champô. Todas as pessoas que participaram nas experiências da NASA foram capazes de se lavar e enxaguar em menos de nove minutos, utilizando apenas um bocal e uma mangueira flexível. Lavar cabelo comprido é mais complicado mas também neste caso a solução passa por abrir um pouco mais os bocais, aumentando um pouco o fluxo da água.
+Um argumento comum contra as cabeças de chuveiro feitas para poupar água é o de que as pessoas compensam um menor fluxo de água com duches mais longos. Pode dizer-se o mesmo sobre chuveiros neblina porque o uso de água vaporizada aumenta o tempo necessário para enxaguar o corpo da água com sabão. No entanto, um duche neblina de 8 min 54 s dá-nos tempo de sobra para retirar todo o sabão e champô. Todas as pessoas que participaram nas experiências da NASA foram capazes de se lavar e enxaguar em menos de nove minutos, utilizando apenas um bocal e uma mangueira flexível. Lavar cabelo comprido é mais complicado mas também neste caso a solução passa por abrir um pouco mais os bocais, aumentando um pouco o fluxo da água.
 
 ## Quantos Bocais Podemos Usar?
 
@@ -149,15 +149,13 @@ O chuveiro neblina do [Jonas Görgen](http://oddemulsion.com/) ainda não está 
 
 Por favor tenha em atenção que todos os chuveiros apresentam risco de doença dos legionários. As gotículas de água de um banho de neblina permanecem no ar por mais tempo, o que aumenta o risco de inalação. Portanto, é [importante tomar medidas preventivas](https://www.dgs.pt/doenca-dos-legionarios/doenca-dos-legionarios/prevencao-e-controlo.aspx).
 
-Please note that all showers carry a legionella risk. The smaller water droplets from a mist shower remain in the air for a longer time, which increases the risk of inhalation. Therefore, it is [important to take elementary precautions](http://www.hse.gov.uk/healthservices/legionella.htm).
-
 Kris De Decker
 
 * [Receba a nossa *newsletter*](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
 * Apoie a Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) ou [Patreon](https://www.patreon.com/lowtechmagazine).
 * [Compre o *website* em versão impressa](https://solar.lowtechmagazine.com/2019/12/the-printed-website-is-complete.html).
 
-## <span id="comments">Comments</span>
+## <span id="comments">Comentários</span>
 
 Para comentar, por favor envie um email para solar (arroba) lowtechmagazine (ponto) com.
 
