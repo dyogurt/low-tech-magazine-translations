@@ -32,7 +32,7 @@ Usando os neerlandeses como exemplo, olhemos para o uso de energia e emissões d
 
 > As emissões de um duche típico equivalem a conduzir 3,5 - 7 km.
 
-Em princípio, a energia para um duche pode ser gerada por fontes de energia renováveis. No entanto, se oito mil milhões de pessoas tomarem um duche diariamente, o uso total de energia por ano seria de 6132 terawatts-hora (TWh). Isso é oito vezes mais do que a energia produzida por todos os aerogeradores do mundo em 2017 (745 TWh). Todos os aerogeradores que existem atualmente poderiam fornecer um duche diário "sustentável" a apenas mil milhões de pessoas. Além disso, o uso de fontes de energia renováveis não diminui o uso de água do duche diário. Só para esclarecer, o suso de energia renovável faz parte da solução - termoacumuladores solares, biomassa, [aerogeradores térmicos](https://www.lowtechmagazine.com/2019/02/heat-your-house-with-a-water-brake-windmill.html) – mas também devemos olhar para a necessidade de nos lavarmos no mundo pós-carbono.   
+Em princípio, a energia para um duche pode ser gerada por fontes de energia renováveis. No entanto, se oito mil milhões de pessoas tomarem um duche diariamente, o uso total de energia por ano seria de 6132 terawatts-hora (TWh). Isso é oito vezes mais do que a energia produzida por todos os aerogeradores do mundo em 2017 (745 TWh). Todos os aerogeradores que existem atualmente poderiam fornecer um duche diário "sustentável" a apenas mil milhões de pessoas. Além disso, o uso de fontes de energia renováveis não diminui o uso de água do duche diário. Só para esclarecer, o uso de energia renovável faz parte da solução - termoacumuladores solares, biomassa, [aerogeradores térmicos](https://www.lowtechmagazine.com/2019/02/heat-your-house-with-a-water-brake-windmill.html) – mas também devemos olhar para a necessidade de nos lavarmos no mundo pós-carbono.   
 
 ## Chuveiros mais Potentes
 
@@ -61,7 +61,7 @@ Organizações ambientais, empresas de distribuição de água e municípios inc
 No entanto, um duche não lava apenas o corpo. Um chuveiro totalmente focado na limpeza do corpo - o chamado duche da Marinha - gasta muito pouco tempo, energia e água. Um duche da Marinha consiste num duche de trinta segundos para se molhar, ensaboar o corpo enquanto a água está desligada e termina com outro duche de trinta segundos para enxaguar a água com sabão.
 
 ![Image](/images/showers-soldiers.jpg)
-Até à década de 1970, os chuveiros ram usados apenas em quartéis ou prisões para lavar muitas pessoas em pouco tempo. [2] Imagem: (O Duche no Regimento) La Douche au Régiment, Pintura de Eugène Chaperon, 1887.
+Até à década de 1970, os chuveiros eram usados apenas em quartéis ou prisões para lavar muitas pessoas em pouco tempo. [2] Imagem: (O Duche no Regimento) La Douche au Régiment, Pintura de Eugène Chaperon, 1887.
 
 Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 litros de água e 0,2 kWh de energia. Um banho de esponja diário teria um uso ainda mais baixo de água e energia. Um banho quente de nove minutos por dia não é de forma alguma uma necessidade básica: é um prazer. Desde os anos 90, o banho diário tem sido retratado em anúncios como uma forma de relaxamento, alívio do _stress_ e prazer sensual.
 
@@ -109,9 +109,9 @@ Um argumento comum contra as cabeças de chuveiro feitas para poupar água é o 
 
 ## Quantos Bocais Podemos Usar?
 
-Um chuveiro neblina com cinco bocais poupa significativamente mais água e energia comparado com um chuveiro normal, sem sacrificar o conforto. No entanto, será que suficientemente sustentável? Mesmo se oito mil milhões de pessoas usassem um chuveiro neblina, todos os aerogeradores do mundo só conseguiriam providenciar um duche quente diário a dois mil milhões de pessoas. Para além disso, comparando com o duche da Marinha de um minuto - que é suposto focar-se apenas na eficiência em vez do conforto - estes chuveiros gastam cinco vezes mais energia e duas vezes mais água. Portanto, vejamos o que acontece quando reduzimos o número de bocais, assumindo uma frequência e duração média de duches.
+Um chuveiro neblina com cinco bocais poupa significativamente mais água e energia comparado com um chuveiro normal, sem sacrificar o conforto. No entanto, será que é suficientemente sustentável? Mesmo se oito mil milhões de pessoas usassem um chuveiro neblina, todos os aerogeradores do mundo só conseguiriam providenciar um duche quente diário a dois mil milhões de pessoas. Para além disso, comparando com o duche da Marinha de um minuto - que é suposto focar-se apenas na eficiência em vez do conforto - estes chuveiros gastam cinco vezes mais energia e duas vezes mais água. Portanto, vejamos o que acontece quando reduzimos o número de bocais, assumindo uma frequência e duração média de duches.
 
-> Três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável. 
+> Três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável.
 
 Penso que três bocais - com uma taxa de fluxo de mais ou menos um litro por minuto - são o mínimo para um duche quente confortável. Isto reduziria o uso de água de um chuveiro neblina de 8 min 54 s para 8,9 litros, o mesmo que um duche da Marinha de um minuto. Desta forma, quatro mil milhões de pessoas poderiam usufruir de duches quentes diários alimentados por aerogeradores; o que significa que se reduzíssemos para metade a duração de um duche (de 8 min 54 s para 4 min 32 s) ou os tomássemos com menos frequência (dia sim dia não), a população mundial poderia ficar limpa e confortável utilizando apenas energia eólica.
 
