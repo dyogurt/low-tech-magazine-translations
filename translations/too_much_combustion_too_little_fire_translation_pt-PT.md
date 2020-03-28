@@ -17,6 +17,8 @@ O fogo — que temos usado nas nossa casas há mais de 400 mil anos — continua
 
 
 
+
+
 ---
 
 The fire – which we have used in our homes for over 400,000 years – remains the most versatile and sustainable household technology that humanity has ever known. The fire alone provided what we now get through a combination of modern appliances such as the oven and cooking hob, heating system, lights, refrigerator, freezer, hot water boiler, tumble dryer, and television. Unlike these newer technologies, the fire had no need for a central infrastructure to make it work, and it could be built locally from readily available materials.
@@ -127,11 +129,15 @@ Our troubled view of the old-fashioned fire is partly rooted in the conflation o
 
 Health and longevity are things that we, as individuals, "need", want, desire, or feel entitled to. Just like we feel entitled to certain levels of comfort, convenience, speed or cleanliness. On the other hand, defining sustainability requires us to question what levels of human comfort, convenience, cleanliness, speed, safety and health our environment can support before it collapses. We can choose safety and health over sustainability when they are in conflict with each other, but only at the expense of the safety and health of younger and future generations.
 
+
+
 Kris De Decker
 
-* [Subscribe to our newsletter](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
-* Support Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) or [Patreon](https://www.patreon.com/lowtechmagazine).
-* [Buy the printed website](https://solar.lowtechmagazine.com/2019/12/the-printed-website-is-complete.html).
+* [Receba a nossa *newsletter*](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
+* Apoie a *Low-tech Magazine* via [*Paypal*](https://www.paypal.me/lowtechmagazine) ou [*Patreon*](https://www.patreon.com/lowtechmagazine).
+* [Compre o *website* em versão impressa](https://solar.lowtechmagazine.com/2019/12/the-printed-website-is-complete.html).
+
+
 
 [^1]: Roebroeks, Wil, and Paola Villa. "On the earliest evidence for habitual use of fire in Europe.". Proceedings of the National Academy of Sciences 108.13 (2011): 5209-5214.
 
