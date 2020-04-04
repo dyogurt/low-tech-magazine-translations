@@ -2,6 +2,28 @@
 
 ## Recursos online
 
+#### [FLIP](https://www.flip.pt/) 
+
+Este site tem os seguintes rescuros:
+
+- Auxiliar de tradução, funciona bem para palavras e pequenas expressões
+
+- Conjugador
+
+- Corretor ortográfico e sintático
+
+- Dicionário
+
+- Gramática
+
+  
+
+#### [DeepL](https://www.deepl.com/home)
+
+Um tradutor que usa inteligência artificial. Também tem disponível uma base de dados de traduções reais que podem ser usadas como referência, dependendo do contexto.
+
+
+
 
 ## Numerais
 

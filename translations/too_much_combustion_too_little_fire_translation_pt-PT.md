@@ -13,7 +13,17 @@ Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/).
 
 O fogo — que temos usado nas nossa casas há mais de 400 mil anos — continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu. Sozinho, o fogo fornecia o que agora obtemos através de uma combinação de aparelhos modernos como o forno e fogão de cozinha, sistemas de aquecimento, iluminação, congelador, esquentador, secador e televisão. Ao contrário destas novas tecnologias, o fogo não precisava de uma infraestrutura central para fazê-lo funcionar, e poderia ser construído localmente a partir de materiais prontamente disponíveis.
 
+## Da Lareira Aberta até à Central Elétrica
 
+A utilização usual do fogo data de há pelo menos 300 mil a 400 mil anos.[^1][^2] Até ao século XX, o fogo alimentado a biomassa era o único "aparelho" no lar que utilizava energia - quer as pessoas vivessem numa gruta, numa cabana temporária, ou num edifício permanente. Os primeiros abrigos eram frequentemente construídos com o objectivo explícito de evitar que o fogo se apagasse, protegendo-o do vento e da chuva.
+
+Durante a maior parte da história, o fogo surge sob a forma de uma fogueira construída sobre um chão de terra no meio de um abrigo. O fumo do fogo escapava através de uma abertura no telhado. A partir do século XIV, na Europa, a fogueira aberta foi gradualmente substituída por uma lareira ligada a uma chaminé, na maioria das vezes construída contra uma parede.
+
+Em regiões mais frias (como a Escandinávia), as pessoas construíam [fogões de cerâmica](https://solar.lowtechmagazine.com/2008/12/tile-stoves.html) mais eficientes em termos energéticos, enquanto que em climas mais amenos (como os próximos do Mediterrâneo), as pessoas continuavam a usar braseiros — cestos metálicos portáteis nos quais se queimava carvão vegetal. Nos séculos XVIII e XIX, as lareiras começaram a ser substituídas por fogões de metal.
+
+O fogo permaneceu central no lar até ao século XX, quando foi substituído por uma vasta gama de aparelhos ligados a infra-estruturas centralizadas. Hoje em dia, nas sociedades industriais, mesmo os fogões metálicos tornaram-se raros em casas. A queima a céu aberto tem sido praticamente proibida, especialmente nas cidades. Os novos edifícios já não têm lareiras, chaminés, nem uma abertura no telhado.
+
+> O fogo permaneceu central no lar até ao século XX, quando foi substituído por uma vasta gama de aparelhos ligados a infra-estruturas centralizadas.
 
 
 
@@ -21,17 +31,7 @@ O fogo — que temos usado nas nossa casas há mais de 400 mil anos — continua
 
 ---
 
-The fire – which we have used in our homes for over 400,000 years – remains the most versatile and sustainable household technology that humanity has ever known. The fire alone provided what we now get through a combination of modern appliances such as the oven and cooking hob, heating system, lights, refrigerator, freezer, hot water boiler, tumble dryer, and television. Unlike these newer technologies, the fire had no need for a central infrastructure to make it work, and it could be built locally from readily available materials.
 
-## From Open Hearth to Power Plant
-
-The habitual use of fire dates back at least 300,000 to 400,000 years. [^1][^2] Until the twentieth century, the biomass-fuelled fire was the only energy using “appliance” in the household – whether people were living in a cave, a temporary hut, or a permanent building. The earliest shelters were often erected with the express purpose of keeping fire alive, protecting it from wind and rain.
-
-For most of history, the fire appeared in the form of an open hearth, which was built on an earthen floor in the middle of a shelter. The smoke of the fire escaped through a hole in the roof. Beginning in the fourteenth century in Europe, the open hearth was gradually replaced by a fireplace connected to a chimney, most often built against a wall. In colder regions (such as Scandinavia), people built more energy efficient [tile stoves](https://solar.lowtechmagazine.com/2008/12/tile-stoves.html), while in milder climates (such as those around the Mediterranean), people continued to use braziers – portable metal baskets in which charcoal was burnt. In the 18th and 19th centuries, fireplaces were starting to be replaced by metal stoves.
-
-The fire remained central in the household until the 20th century, when it was replaced by a wide range of appliances, plugged into central infrastructures. Today, in industrial societies, even metal stoves have become rare in households. Open burning has been all but banned, especially in cities. New buildings no longer have fireplaces, chimneys, or a hole in the roof.
-
-> The fire remained central in the household until the 20th century, when it was replaced by a wide range of appliances, plugged into central infrastructures.
 
 “Paradoxically”, writes Luis Fernández-Galiano in *Fire and Memory: On Architecture and Energy*, “the dwellings that began as places to promote the fire, today shun open burning”. [^3] In *Fire: A Brief History*, Stephen J. Pyne observes that: “Urban residents can pass years without seeing a fire. It appears mostly by accident or arson, and almost always as a danger”. [^4]
 
