@@ -25,7 +25,25 @@ O fogo permaneceu central no lar até ao século XX, quando foi substituído por
 
 > O fogo permaneceu central no lar até ao século XX, quando foi substituído por uma vasta gama de aparelhos ligados a infra-estruturas centralizadas.
 
+"Paradoxalmente", escreve Luis Fernández-Galiano em Fogo e Memória: Sobre Arquitectura e Energia, "as habitações que começaram como lugares para promover o fogo, hoje evitam a queima aberta".[^3] Em Fogo: Uma Breve História, Stephen J. Pyne observa que: "Os residentes urbanos podem passar anos sem ver um fogo. Aparece sobretudo por acidente ou fogo posto, e quase sempre como um perigo".[^4]
 
+No entanto, o fogo está longe de ter desaparecido. Milhares de fogos individuais em casas foram substituídos por alguns fogos gigantescos em centrais eléctricas. E o fogo também arde noutros locais. "Na nossa economia de abundância", escreve Stephen J. Pyne, "o fogo está no centro da magia - em fábricas, automóveis, casas e centrais eléctricas... As cidades modernas continuam a ser ecossistemas propulsionados pelo fogo... Se a combustão parar a cidade para também. Mas o fogo a céu aberto desapareceu. Como um buraco negro no espaço, o fogo moldou tudo à sua volta sem se tornar visível".
+
+A industrialização apenas alterou, não aboliu a queima. Mais importante ainda, o fogo começou a utilizar outra fonte de energia: os combustíveis fósseis em vez da biomassa. Até ao século XX, quase todos os fogos de origem humana eram produto de fontes de energia renováveis: madeira, relva e estrume. Turfa e algumas utilizações iniciais do carvão eram as excepções.
+
+## Fogo vs Eletricidade
+
+A nível mundial, alguns milhares de milhões de pessoas ainda vivem em lares construídos em função de um fogo, muitas vezes sob a forma de uma lareira aberta. Algumas pessoas no mundo ocidental consideram esta prática retrógrada e primitiva que precisa de ser abolida—apesar de se basear na utilização de fontes de energia renováveis. 
+
+Por exemplo, em 2011, a ONU e o Banco Mundial lançaram a iniciativa [Energia Sustentável para Todos](https://www.seforall.org/), com o objectivo de "assegurar o acesso universal a serviços energéticos modernos" até 2030. [^5] O conceito de "serviços energéticos modernos" é vago, mas refere-se essencialmente à utilização da electricidade e do gás—portanto, na prática, à utilização de combustíveis fósseis.
+
+> "Os habitantes das cidades vêem o fogo como algo que outras tecnologias mais avançadas podem substituir".
+
+Iniciativas como esta implicam que "os serviços energéticos modernos" são "melhores" do que a tradicional lareira ou lareira aberta. "Os habitantes das cidades vêem o fogo como algo que outras tecnologias mais avançadas podem substituir", escreve Stephen J. Pyne. "Se o fogo é um instrumento, eles querem uma modernização melhorada, sem chamas e sem fumo".
+
+Exemplos de tais modernizações sem chama e sem fumo são os painéis solares fotovoltaicos e os aerogeradores de hoje em dia, que supostamente acabam com a nossa dependência dos fogos alimentados por combustíveis fósseis para produzir "serviços energéticos modernos". No entanto, como é que as lareiras abertas e os "serviços energéticos modernos"—incluindo os baseados em fontes de energia renováveis—se comparam efectivamente em termos de eficiência, sustentabilidade, saúde e segurança? O que estamos realmente a dizer quando argumentamos que a electricidade ou o gás são "melhores" do que uma fogueira tradicional?
+
+## A Versatilidade de um Fogo
 
 
 
@@ -33,23 +51,13 @@ O fogo permaneceu central no lar até ao século XX, quando foi substituído por
 
 
 
-“Paradoxically”, writes Luis Fernández-Galiano in *Fire and Memory: On Architecture and Energy*, “the dwellings that began as places to promote the fire, today shun open burning”. [^3] In *Fire: A Brief History*, Stephen J. Pyne observes that: “Urban residents can pass years without seeing a fire. It appears mostly by accident or arson, and almost always as a danger”. [^4]
 
-However, the fire has far from disappeared. Thousands of individual fires in households have been replaced by a few giant fires in central power plants. And the fire also burns elsewhere. “In our economy of abundance”, writes Stephen J. Pyne, “fire is at the heart of the magic – in factories, automobiles, homes and power plants... Modern cities remain fire-driven ecosystems... Shut down combustion and you shut down the city. But open flame itself has vanished. Like a black hole in space, fire has shaped everything around it without itself being visible.”
 
-Industrialisation has only altered, not abolished burning. Most importantly, fire started using another energy source: fossil fuels instead of biomass. Until the twentieth century, almost all human-made fires were the product of renewable energy sources: wood, grass, dung – [peat and some early uses of coal being the exceptions](https://solar.lowtechmagazine.com/2011/09/peat-and-coal-fossil-fuels-in-pre-industrial-times.html). Today in industrial societies, almost all fire “at the heart of the magic” burns on gas, coal or oil.
 
-## Fire vs. Electricity
 
-Globally, a few billion people still live in households built around an old-fashioned fire, often in the form of an open hearth. Some people in the Western world consider this a backward and primitive practice that needs to be abolished – even though it is based on the use of renewable energy sources. 
 
-For example, in 2011, the UN and the World Bank launched the *Sustainable Energy for All* initiative, aiming to “ensure universal access to modern energy services” by 2030. [^5] The concept of “modern energy services” is vague, but it essentially refers to the use of electricity and gas – and thus, in practice, the use of fossil fuels.
 
-> “Urbanites see fire as a technology for which other, more advanced technologies can substitute”
 
-Initiatives like this imply that “modern energy services” are “better” than the traditional open hearth or fireplace. “Urbanites see fire as a technology for which other, more advanced technologies can substitute”, writes Stephen J. Pyne. “If fire is a device, they want an improved flame- and smoke-free upgrade”. 
-
-Examples of such flame- and smoke-free upgrades are today’s solar PV panels and wind turbines, which are supposed to end our dependence on fossil fuelled fires to produce “modern energy services”. However, how do open hearths and “modern energy services” – including those based on renewable energy sources – actually compare in terms of efficiency, sustainability, health and safety? What are we really saying when we argue that electricity or gas are “better” than a traditional fire?
 
 ## The Versatility of a Fire
 
