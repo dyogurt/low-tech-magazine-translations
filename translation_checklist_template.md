@@ -8,5 +8,6 @@
 - [ ] Subtitles Caps
 - [ ] Image captions
 - [ ] Links
-- [ ] References
+- [ ] References and Citations
+- [ ] Dashes
 - [ ] Footer 

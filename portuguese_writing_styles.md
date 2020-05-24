@@ -69,3 +69,20 @@ Note-se ainda que os chamados números muito grandes dividem-se em grupos de tr�
 Os números fracionários escrevem-se normalmente por extenso (ex.: «apresentaram-se ao exame três quartos dos alunos»).
 
 **Milhão**, **bilião**, **trilião** e **milhares** são palavras masculinas e, por isso mesmo, aquelas que as modificam também surgem no masculino. Da mesma forma, o artigo, o numeral, o pronome e o adjetivo deve constar no masculino e concordar em número – singular ou plural. Ex.: «A guerra matou dois milhões de pessoas», «Os milhares de crianças presentes vibraram com o espetáculo».
+
+
+
+##  Aspas
+
+#### Angulares *«»*
+
+Indicam a transcrição dum texto, ou a citação duma regra ou duma doutrina.
+
+*«Napoleão enganava-se; e o desfecho da luta em que ele se achava empenhado mostrou bem de que lado estava a razão.»*
+
+*«Quem não quer ser lobo não lhe veste a pele.»*
+
+#### Subidas / Duplas *""*
+
+Podem ser usadas em estrangeirismos, citações dentro de transcrições e títulos de obras não linguísticas
+

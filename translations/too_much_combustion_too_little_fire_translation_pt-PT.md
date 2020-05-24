@@ -5,137 +5,121 @@ Category: Tecnologia Obsoleta
 Tags: Independente da Rede, Energia Renovável, História
 Slug: demasiada-combustão-pouco-fogo
 Lang: pt-PT
-Summary:  O fogo — que temos usado nas nossa casas há mais de 400 mil anos — continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu.
+Summary:  O fogo—que temos usado nas nossa casas há mais de 400 mil anos—continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu.
 Status: 
 
 ![image](/images/toasterbanner.jpg)
 Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
 
-O fogo — que temos usado nas nossa casas há mais de 400 mil anos — continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu. Sozinho, o fogo fornecia o que agora obtemos através de uma combinação de aparelhos modernos como o forno e fogão de cozinha, sistemas de aquecimento, iluminação, congelador, esquentador, secador e televisão. Ao contrário destas novas tecnologias, o fogo não precisava de uma infraestrutura central para fazê-lo funcionar, e poderia ser construído localmente a partir de materiais prontamente disponíveis.
+O fogo—que temos usado nas nossa casas há mais de 400 mil anos—continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu. Sozinho, o fogo fornecia o que agora obtemos através de uma combinação de aparelhos modernos como o forno e fogão de cozinha, sistemas de aquecimento, iluminação, congelador, esquentador, secador e televisão. Ao contrário destas novas tecnologias, o fogo não precisava de uma infraestrutura central para fazê-lo funcionar, e poderia ser construído localmente a partir de materiais prontamente disponíveis.
 
 ## Da Lareira Aberta até à Central Elétrica
 
-A utilização usual do fogo data de há pelo menos 300 mil a 400 mil anos.[^1][^2] Até ao século XX, o fogo alimentado a biomassa era o único "aparelho" no lar que utilizava energia - quer as pessoas vivessem numa gruta, numa cabana temporária, ou num edifício permanente. Os primeiros abrigos eram frequentemente construídos com o objectivo explícito de evitar que o fogo se apagasse, protegendo-o do vento e da chuva.
+A utilização usual do fogo data de há pelo menos 300 mil a 400 mil anos.[^1][^2] Até ao século XX, o fogo alimentado a biomassa era o único "aparelho" no lar que utilizava energia—quer as pessoas vivessem numa gruta, numa cabana temporária, ou num edifício permanente. Os primeiros abrigos eram frequentemente construídos com o objectivo explícito de evitar que o fogo se apagasse, protegendo-o do vento e da chuva.
 
-Durante a maior parte da história, o fogo surge sob a forma de uma fogueira construída sobre um chão de terra no meio de um abrigo. O fumo do fogo escapava através de uma abertura no telhado. A partir do século XIV, na Europa, a fogueira aberta foi gradualmente substituída por uma lareira ligada a uma chaminé, na maioria das vezes construída contra uma parede.
+Durante a maior parte da história, o fogo surge sob a forma de uma fogueira construída sobre um chão de terra no meio de um abrigo. O fumo do fogo escapava através de uma abertura no telhado. A partir do século XIV, na Europa, a fogueira foi gradualmente substituída por uma lareira ligada a uma chaminé, na maioria das vezes construída contra uma parede.
 
-Em regiões mais frias (como a Escandinávia), as pessoas construíam [fogões de cerâmica](https://solar.lowtechmagazine.com/2008/12/tile-stoves.html) mais eficientes em termos energéticos, enquanto que em climas mais amenos (como os próximos do Mediterrâneo), as pessoas continuavam a usar braseiros — cestos metálicos portáteis nos quais se queimava carvão vegetal. Nos séculos XVIII e XIX, as lareiras começaram a ser substituídas por fogões de metal.
+Em regiões mais frias (como a Escandinávia), as pessoas construíam [fogões de cerâmica](https://solar.lowtechmagazine.com/2008/12/tile-stoves.html) mais eficientes em termos energéticos, enquanto que em climas mais amenos (como os próximos do Mediterrâneo), as pessoas continuavam a usar braseiros—cestos metálicos portáteis nos quais se queimava carvão vegetal. Nos séculos XVIII e XIX, as lareiras começaram a ser substituídas por fogões de metal.
 
-O fogo permaneceu central no lar até ao século XX, quando foi substituído por uma vasta gama de aparelhos ligados a infra-estruturas centralizadas. Hoje em dia, nas sociedades industriais, mesmo os fogões metálicos tornaram-se raros em casas. A queima a céu aberto tem sido praticamente proibida, especialmente nas cidades. Os novos edifícios já não têm lareiras, chaminés, nem uma abertura no telhado.
+O fogo permaneceu central no lar até ao século XX, quando foi substituído por uma vasta gama de aparelhos ligados a infra-estruturas centralizadas. Hoje em dia, nas sociedades industriais, mesmo os fogões a lenha tornaram-se raros em casas. A queima a céu aberto tem sido praticamente proibida, especialmente nas cidades. Os novos edifícios já não têm lareiras, chaminés, nem uma abertura no telhado.
 
 > O fogo permaneceu central no lar até ao século XX, quando foi substituído por uma vasta gama de aparelhos ligados a infra-estruturas centralizadas.
 
-"Paradoxalmente", escreve Luis Fernández-Galiano em Fogo e Memória: Sobre Arquitectura e Energia, "as habitações que começaram como lugares para promover o fogo, hoje evitam a queima aberta".[^3] Em Fogo: Uma Breve História, Stephen J. Pyne observa que: "Os residentes urbanos podem passar anos sem ver um fogo. Aparece sobretudo por acidente ou fogo posto, e quase sempre como um perigo".[^4]
+«Paradoxalmente», escreve Luis Fernández-Galiano em *Fire and Memory: On Architecture and Energy*, «as habitações que começaram como lugares para promover o fogo, hoje evitam a queima aberta».[^3] Em *Fire: A Brief History*, Stephen J. Pyne observa que: «Os residentes urbanos podem passar anos sem ver um fogo. Aparece sobretudo por acidente ou fogo posto, e quase sempre como um perigo».[^4]
 
-No entanto, o fogo está longe de ter desaparecido. Milhares de fogos individuais em casas foram substituídos por alguns fogos gigantescos em centrais eléctricas. E o fogo também arde noutros locais. "Na nossa economia de abundância", escreve Stephen J. Pyne, "o fogo está no centro da magia - em fábricas, automóveis, casas e centrais eléctricas... As cidades modernas continuam a ser ecossistemas propulsionados pelo fogo... Se a combustão parar a cidade para também. Mas o fogo a céu aberto desapareceu. Como um buraco negro no espaço, o fogo moldou tudo à sua volta sem se tornar visível".
+No entanto, o fogo está longe de ter desaparecido. Milhares de fogos individuais em casas foram substituídos por alguns fogos gigantescos em centrais eléctricas. E o fogo também arde noutros locais. «Na nossa economia de abundância», escreve Stephen J. Pyne, «o fogo está no centro da magia—em fábricas, automóveis, casas e centrais eléctricas... As cidades modernas continuam a ser ecossistemas propulsionados pelo fogo... Se a combustão parar a cidade para também. Mas o fogo a céu aberto desapareceu. Como um buraco negro no espaço, o fogo moldou tudo à sua volta sem se tornar visível».
 
 A industrialização apenas alterou, não aboliu a queima. Mais importante ainda, o fogo começou a utilizar outra fonte de energia: os combustíveis fósseis em vez da biomassa. Até ao século XX, quase todos os fogos de origem humana eram produto de fontes de energia renováveis: madeira, relva e estrume. Turfa e algumas utilizações iniciais do carvão eram as excepções.
 
-## Fogo vs Eletricidade
+## Fogo versus Eletricidade
 
 A nível mundial, alguns milhares de milhões de pessoas ainda vivem em lares construídos em função de um fogo, muitas vezes sob a forma de uma lareira aberta. Algumas pessoas no mundo ocidental consideram esta prática retrógrada e primitiva que precisa de ser abolida—apesar de se basear na utilização de fontes de energia renováveis. 
 
-Por exemplo, em 2011, a ONU e o Banco Mundial lançaram a iniciativa [Energia Sustentável para Todos](https://www.seforall.org/), com o objectivo de "assegurar o acesso universal a serviços energéticos modernos" até 2030. [^5] O conceito de "serviços energéticos modernos" é vago, mas refere-se essencialmente à utilização da electricidade e do gás—portanto, na prática, à utilização de combustíveis fósseis.
+Por exemplo, em 2011, a ONU e o Banco Mundial lançaram a iniciativa [*Energia Sustentável para Todos*](https://www.seforall.org/), com o objectivo de «assegurar o acesso universal a serviços energéticos modernos» até 2030. [^5] O conceito de "serviços energéticos modernos" é vago, mas refere-se essencialmente à utilização da electricidade e do gás—portanto, na prática, à utilização de combustíveis fósseis.
 
-> "Os habitantes das cidades vêem o fogo como algo que outras tecnologias mais avançadas podem substituir".
+> «Os habitantes dos centros urbanos vêem o fogo como algo que outras tecnologias mais avançadas podem substituir».
 
-Iniciativas como esta implicam que "os serviços energéticos modernos" são "melhores" do que a tradicional lareira ou lareira aberta. "Os habitantes das cidades vêem o fogo como algo que outras tecnologias mais avançadas podem substituir", escreve Stephen J. Pyne. "Se o fogo é um instrumento, eles querem uma modernização melhorada, sem chamas e sem fumo".
+Iniciativas como esta implicam que "os serviços energéticos modernos" são "melhores" do que a tradicional lareira ou lareira aberta. «Os habitantes dos centros urbanos vêem o fogo como algo que outras tecnologias mais avançadas podem substituir», escreve Stephen J. Pyne. «Se o fogo é um instrumento, eles querem uma modernização melhorada, sem chamas e sem fumo».
 
 Exemplos de tais modernizações sem chama e sem fumo são os painéis solares fotovoltaicos e os aerogeradores de hoje em dia, que supostamente acabam com a nossa dependência dos fogos alimentados por combustíveis fósseis para produzir "serviços energéticos modernos". No entanto, como é que as lareiras abertas e os "serviços energéticos modernos"—incluindo os baseados em fontes de energia renováveis—se comparam efectivamente em termos de eficiência, sustentabilidade, saúde e segurança? O que estamos realmente a dizer quando argumentamos que a electricidade ou o gás são "melhores" do que uma fogueira tradicional?
 
-## A Versatilidade de um Fogo
+## A Versatilidade do Fogo
 
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-## The Versatility of a Fire
-
-One reason why people in industrial societies regard open fire as inefficient and unsustainable is because they simply don’t know how their ancestors actually used it. If these days a fire is considered to be inefficient, it’s because we only measure the efficiency of one of its functions, usually space heating. However, our ancestors did not only use the fire to warm themselves. They also used it for cooking, illumination, food preservation, hot water production, clothes drying, and protection from predators and insects, among other things.
+Uma razão pela qual as pessoas em sociedades industrializadas consideram o fogo como algo pouco eficiente e insustentável é porque simplesmente não sabem como os seus antepassados o usavam. Se hoje em dia o fogo é considerado ineficaz é porque medimos apenas a eficiência de uma das suas funções, normalmente o aquecimento de um espaço. No entanto, os nossos antepassados não usavam o fogo apenas para se aquecerem. Usavam-no também para cozinhar, para iluminação, para conservar alimentos, para a produção de água quente, para secar roupa e para proteção contra predadores e insetos, entre outras coisas.
 
 ![image](/images/hairdryer.jpg)
-Illustration: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
+Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
 
-Fire is extremely versatile: it’s hard to say which of its functions were most valued by our ancestors. Therefore, if we measure the energy use of a household fire and compare it to modern technology, we should not compare it to the energy use of a heating system or a cooking stove alone, but to the energy use of the entire household.
+O fogo é extemamente versátil, é difícil dizer quais das suas funcionalidades eram mais valorizadas pelos nossos antepassados. Portanto, se medirmos o consumo de energia de uma lareira e o compararmos com tecnologia moderna, não devemos compará-lo apenas a um sistema de aquecimento ou a um fogão, mas sim com o consumo de energia de todo a casa.
 
-## Cooking With Fire
+## Cozinhar com Fogo
 
-As a cooking device alone, the fire can accommodate a wide variety of cooking methods and replace a surprisingly large number of modern kitchen appliances. The fire not only functioned as a cooking stove, but also as an oven. For roasting and grilling, food was held on a turning spit and cooked by direct exposure to the fire. Baking happened in a clay container (a “Dutch oven”) which was put in the ashes of the fire. Alternatively, a separate bake oven was built into the jamb or the rear of the fireplace, or as a freestanding structure outside the house. Boiling and frying happened in a pot that was hanging above the fire. [^6][^7]
+Visto apenas como um forma de cozinhar, o fogo pode acomodar uma ampla variedade de métodos de confecao de alimentos e substituir um elevado número de aparelhos de cozinha modernos. O fogo funciona não só como um fogão mas também como um forno. Para assar e grelhar, a comida era colocada no espeto que rodava sobre chamas. A cozedura do pão ou outros produtos era feita num contentor de barro (um "forno Neerlandês") colocado nas brasas de uma lareira. Em alternativa, era construído um forno separado para a cozedura nas traseiras da lareira, ou como uma estrutura independente no exterior da casa. Para cozer em água e fritar usava-se uma panela pendurada por cima do fogo.[^6][^7]
 
-The functions of many smaller electrical kitchen appliances were also enabled by the fire. For example, you may think that people started eating toast when the electric toaster appeared in the twentieth century, but before that time they simply held a “toasting fork” into the fire. Likewise, quickly preparing warm drinks did not begin with the invention of the electric immersion heater: earlier on, people immersed a red-hot iron tool in a cup, producing hot beverages in a matter of seconds. [^8]
+As funções de muitos pequenos electrodomésticos de cozinha também foram possíveis graças ao fogo. Por exemplo, pode-se pensar que as pessoas começaram a comer torradas quando a torradeira eléctrica apareceu no século XX, mas antes disso simplesmente seguravam um "garfo de tostar" com um pedaço de pão no fogo. Do mesmo modo, a preparação rápida de bebidas quentes não começou com a invenção da chaleira eléctrica; anteriormente, as pessoas imergiam uma ferramenta de ferro em brasa num copo, produzindo bebidas quentes numa questão de segundos. [^8]
 
-> As a cooking device alone, the fire can accommodate a wide variety of cooking methods and replace a surprisingly large number of modern kitchen appliances.
+> Visto apenas como um forma de cozinhar, o fogo pode acomodar uma ampla variedade de métodos de confecao de alimentos e substituir um elevado número de aparelhos de cozinha modernos.
 
-The fire also substituted for today’s refrigerator and freezer. In *The Food Axis: Cooking, eating, and the architecture of American houses*, Elizabeth Collins Cromley describes how meat and fish were suspended for several weeks in the smoke of a fire to preserve them for longer. [^6] At the simplest level, our ancestors hung their cuts of meat or fish in the kitchen chimney or – if there was no chimney – high above the hearth, suspended from the ceiling. Smoking fish and meat could also happen in a chimney smoke chamber, which was either an adjunct to the kitchen fireplace, or a chamber built off the chimney in the basement or attic. The smokehouse could also be a separate building.
+O fogo também substituía os atuais frigoríficos e congeladores. Em *The Food Axis: Cooking, eating, and the architecture of American houses*, Elizabeth Collins Cromley descreve como a carne e o peixe eram suspensos durante várias semanas no fumo de uma fogueira para os preservar durante mais tempo.[^6] Ao nível mais simples, os nossos antepassados penduravam as suas peças de carne ou peixe na chaminé da cozinha ou—se não houvesse chaminé—por cima da lareira, suspensas do tecto. A fumagem do peixe e da carne também podia ser feita numa câmara  própria para o efeito, esta era anexada à lareira da cozinha, ou construída a partir da chaminé na cave ou no sótão. O fumeiro podia também ser um edifício separado.
 
-Several other food preservation methods were dependent on fire. Fruits, vegetables and herbs were dried by fire if the local climate wasn’t sunny enough. Sugaring fruits and making butter and cheese all depended on heat from a fire. Salt, essential for food preservation, was kept in a box hung against the fireplace to keep it dry. [^6]
+Outros métodos variados de conservação de alimentos estavam dependentes do fogo. As frutas, legumes e ervas aromáticas eram secas pelo fogo se o clima local não fosse suficientemente soalheiro. A adição de açúcar aos frutos e o fabrico de manteiga e queijo dependia do calor de um fogueira. O sal, essencial para a conservação dos alimentos, era guardado numa caixa pendurada contra a lareira para o manter seco. [^6]
 
-## Distributing Heat and Light
+## Distribuindo Calor e Luz
 
-A fire not only produces heat and smoke – it also produces light. As a light source, fire was just as versatile as electric lighting is today. The light of a fire resided not only in the hearth or the fireplace, but also in torches, rushlights, and later candles and oil lamps. [^9][^10] Heat from a fire could also be spread all over the household. Although the kitchen was usually the only space in the house that was heated, embers from the fire could be put into portable heating devices, [such as foot stoves and bed warmers](https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html). [^11]
+O fogo não produz apenas calor e fumo—também produz luz. Como fonte de luz, o fogo era tão versátil como a iluminação eléctrica é hoje em dia. A luz de uma fogo não se encontrava apenas na lareira, mas também em tochas, lanternas e, mais tarde, velas e lamparinas de azeite. [^9][^10]O calor do fogo também podia ser distribuído por toda a casa. Embora a cozinha fosse normalmente o único espaço da casa aquecido, as brasas do fogo podiam ser colocadas em aparelhos de aquecimento portáteis, [como aquecedores de pés ou escalfeta e aquecedores de cama](https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html). [^11]
 
-The fire was also used to heat water for cleaning and washing, a practice that continued when cast-iron wood-stoves appeared – many of these had hot water tanks. Furthermore, the fire took care of drying clothes, substituting for today’s tumble dryer. And people didn’t just start ironing their clothes when the electric iron came along. Since the middle ages, our ancestors used plain metal irons that were heated by a fire or on a stove, or a “box iron”, which held glowing charcoal inside – some of these had a small chimney to keep smokey smells away from the clothes. [^12]
+O fogo também era utilizado para aquecer água para limpezas e lavagens, uma prática que continuou quando apareceram os fogões a lenha de ferro fundido—muitos deles tinham tanques para guardar água quente. Além disso, o fogo dava conta da secagem da roupa, substituindo as atuais máquinas de secar a roupa. As pessoas não começaram a engomar a roupa só quando surgiu o ferro eléctrico. Desde a Idade Média, que os nossos antepassados usavam ferros de metal simples que eram aquecidos junto a um lareira ou num fogão, ou um "ferro de engomar a carvão", que continha brasas no seu interior—alguns deles tinham uma pequena chaminé para manter o cheiro a fumo longe das roupas. [^12]
 
-> People didn't just start ironing their clothes when the electric iron came along. Since the middle ages, our ancestors used plain metal irons that were heated by a fire or on a stove. 
+> Desde a Idade Média, que os nossos antepassados usavam ferros de metal simples que eram aquecidos junto a um lareira ou num fogão.
 
-There was also the function of the fire as a focal point of communication and socialisation. For thousands of years, the hearth was the “ancient focus of conversation and the crackling soul of the house”. [^3] Televisions and mobile phones have taken over these roles, although it is doubtful whether they hold the same appeal for people as a fire does. A host of electronic consumer products that imitate the effects of a fire – electric candles and fireplaces, led-bulbs with flickering flame effects, video’s of crackling fires – seem to indicate that humans miss open fire.
+Havia também a função do fogo como ponto focal de comunicação e de convívio. Durante milhares de anos, a lareira foi o «antigo foco de conversa e a alma crepitante da casa». As televisões e os telemóveis assumiram estes papéis, embora seja duvidoso que tenham o mesmo apelo que um fogueira. Uma série de produtos electrónicos de consumo que imitam os efeitos do fogo—velas e lareiras eletricas, lâmpadas LED com emitam o tremeluzir de uma chama, vídeos de fogueiras crepitantes—parecem indicar que os humanos têm suadades do fogo.
 
-## Sustainability and Efficiency
+## Sustentabilidade e Eficiência
 
-In a household built around a fire, the making of hot beverages and toast, the drying of clothes, or the illumination of the space does not raise the energy use of the fire: it simply makes more efficient use of the fire that is already there for other purposes – like space heating. To achieve the same result today, we have to turn on a several appliances, and all of them require extra energy use: the heating system, the immersion heater, the electric toaster, the tumble dryer, and the lights.
+Numa casa construída em torno de uma lareira, a confecção de bebidas quentes e torradas, a secagem da roupa ou a iluminação do espaço não aumenta o consumo de energia da lareira: simplesmente faz um uso mais eficiente do fogo que já existe para outros fins—como o aquecimento do espaço. Para alcançar o mesmo resultado hoje em dia, temos de ligar vários aparelhos, e todos eles requerem um uso extra de energia: o sistema de aquecimento, o aquecedor de imersão, a torradeira eléctrica, a máquina de secar roupa e as luzes.
 
-Furthermore, we should also take into account the mining and the energy use required to replace one fire with dozens of factory-made appliances, which all need to be distributed to individual consumers. Finally, we should take into account the energy and materials that are required to build and maintain the infrastructures that these appliances depend on to operate, like the power grid, gas infrastructure, or the cold chain. In contrast, an open hearth can be built locally with readily available materials, and it operates independently of centralised infrastructures.
+Além disso, devemos também ter em conta a exploração mineira e a utilização de energia necessária para substituir uma lareira por dezenas de aparelhos produzidos em fábricas, que têm todos de ser distribuídos aos consumidores individuais. Por último, devemos considerar a energia e os materiais necessários para construir e manter as infra-estruturas de que estes aparelhos dependem para funcionar, como a rede eléctrica, as infra-estruturas de gás ou a cadeia de refrigeração. Pelo contrário, uma lareira pode ser construída localmente com materiais facilmente disponíveis, e funciona independentemente das infra-estruturas centralizadas.
 
 ![image](/images/plancha.jpg)
-Illustration: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
+Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
 
-Today’s renewable power plants, such as solar PV panels or wind turbines, don’t properly address the energy question: they also need to be manufactured, transported, maintained and discarded of, and they imply that we can keep designing, producing and discarding an increasing range of electric household appliances in order to satisfy our needs. Neither would biomass electricity make this system sustainable: although it eliminates the use of fossil fuels, a great deal of energy is lost in the process of converting biomass to electricity, and we still need factories to manufacture the electric appliances and the infrastructures.
+As actuais centrais de energias renováveis, como os painéis solares fotovoltaicos ou os aerogeradores, não abordam devidamente a questão energética: também precisam de ser fabricadas, transportadas, conservadas e descartadas, e implicam que podemos continuar a conceber, produzir e descartar uma gama cada vez maior de electrodomésticos de forma a satisfazer as nossas necessidades. A electricidade da biomassa também não tornaria este sistema sustentável: embora elimine a utilização de combustíveis fósseis, perde-se muita energia no processo de conversão da biomassa em electricidade, e ainda precisamos de fábricas para produzir os aparelhos eléctricos e as infra-estruturas.
 
-## Energy Use Compared: Ancient vs. Modern Households
+## Comparação do Consumo de Energia: Habitações Tradicionais versus Modernas
 
-If we look at the energy use in European households today, we see that on average 64% of all energy goes to space heating, 15% to water heating, 14% to lights and appliances, 5% to cooking and 1% to other services (including cooling). [^13] Most of these services can be supplied by fire. So, how does the energy use of a traditional household with open hearth compare to the energy use of a modern household built around appliances and infrastructures?
+Se considerarmos a utilização de energia nos habitações europeias de hoje, vemos que, em média, 64% de toda a energia vai para o aquecimento de espaços, 15% para o aquecimento de água, 14% para as luzes e electrodomésticos, 5% para cozinhar e 1% para outros serviços (incluindo a refrigeração). [^13] A maioria destes serviços podem ser fornecidos pelo fogo. Então, como se compara a utilização de energia de uma casa tradicional com lareira com a de uma casa moderna construída em torno de electrodomésticos e infra-estruturas?
 
-Obviously, the energy use of modern houses is better documented than that of buildings and shelters from times gone by. However, there is research documenting the energy use of households that still rely on a traditional fire.
+Obviamente, a utilização de energia de casas modernas está mais bem documentada do que a dos edifícios e abrigos de tempos passados. No entanto, há estudos que documentam a utilização de energia de casas que ainda dependem de um fogo tradicional.
 
-> If we measure the energy use of a household fire and compare it to modern technology, we should compare it to the energy use of the entire household.
+> Se medirmos o uso de energia de uma lareira e o compararmos  a tecnologia moderna, essa comparação deve ser feita ao nível de toda a habitação.
 
-A 2002 investigation of firewood consumption in traditional houses in Nepal measures the annual firewood consumption per household to be between 6 and 33 m3, which corresponds to between 35 and 165 Gigajoule (GJ) of energy. [^14][^15][^16] This seems quite a lot in comparison to the total energy use in contemporary households, which is around 75 GJ per year in Germany and around 105 GJ in Canada.
+Um estudo de 2002 sobre o consumo de lenha em casas tradicionais no Nepal mediu o consumo anual de lenha por família entre 6 e 33 m3, o que corresponde a 35–165 Gigajoule (GJ) de energia. [^14][^15][^16] Este valor parece bastante elevado quando comparado com o consumo total de energia nas habitações contemporâneas, que é de cerca de 75 GJ por ano na Alemanha e cerca de 105 GJ no Canadá.
 
-However, the average Nepalese household participating in the research consisted of 5 to 12 people, while households in modern societies have shrunk to little more than two people. In the Nepalese households under study, energy use was between 2 and 33 GJ per capita, while another, more recent research paper on firewood consumption for heating, cooking and lighting in Nepal calculates a per capita use of roughly 2.5 to 10 GJ of energy per person per year. [^17][^18] In comparison, total household energy consumption per capita is around 30 to 40 GJ in countries like the Netherlands, Germany and Canada.
+No entanto, a média dos agregados familiares nepaleses que participaram no estudo foi de 5 a 12 pessoas, enquanto que os agregados familiares nas sociedades modernas diminuíram para pouco mais de duas pessoas. Nas famílias nepalesas deste estudo, a utilização de energia situava-se entre 2 e 33 GJ per capita, enquanto outro estudo, mais recente, sobre o consumo de lenha para aquecimento, cozinha e iluminação no Nepal calcula uma utilização per capita anual de 2,5 a 10 GJ. Em comparação, o consumo total de energia doméstica per capita é de cerca de 30 a 40 GJ em países como os Países Baixos, a Alemanha e o Canadá.
 
-## 10 Billion People Around the Hearth
+## 10 Mil Milhões de Pessoas à Volta da Fogueira
 
-Even without taking into account the extra resources needed to build the appliances and the infrastructures, energy use in the pre-industrial household seems to have been significantly lower than it is today. In fact, a quick calculation reveals that – at least in theory – 10 billion people using an open hearth as their only energy source would be a perfectly sustainable practice.
+Mesmo sem ter em conta os recursos adicionais necessários para construir os aparelhos e as infra-estruturas, o consumo de energia numa habitação pré-industrial parece ter sido significativamente inferior ao que é actualmente. De facto, um cálculo rápido revela que—pelo menos em teoria—10 mil milhões de pessoas a utilizar uma lareira aberta como única fonte de energia seria uma prática perfeitamente sustentável.
 
-Assuming an average firewood consumption of 6 m3 per capita, we would need 60 billion cubic metres of wood annually. One cubic metre of wood requires an annual yield of 0.2 ha of coppice, so we need 12 billion ha or 120 million square kilometers of forest if we want to avoid deforestation. That’s three times as much as we have today, and about 80% of the total land area of our planet (150 million square kilometers). 
+Assumindo um consumo médio de lenha de 6 m3 per capita, precisaríamos de 60 mil milhões de metros cúbicos de madeira por ano. Um metro cúbico de madeira requer um rendimento anual de 0,2 ha de talhadia, sendo assim precisamos de 12 mil milhões de ha ou 120 milhões de quilómetros quadrados de floresta, se quisermos evitar a desflorestação. Isto é três vezes mais do que temos hoje, e cerca de 80% da superfície terrestre total do nosso planeta (150 milhões de quilómetros quadrados).
 
-Because we don’t need extra space for factories and roads to make and distribute consumer goods, we actually could go back to the open hearth without destroying our environment. The same cannot be said of 10 billion people going forward using fossil fuels and modern infrastructures.
+Como não precisamos de espaço extra para fábricas e estradas para distribuir bens de consumo, na verdade poderíamos voltar a usar lareiras sem destruir o nosso ambiente. O mesmo não se pode dizer se 10 mil milhões de pessoas continuarem a utilizar combustíveis fósseis e infra-estruturas modernas.
 
-## Health vs. Sustainability
+## Saúde versus Sustentabilidade
 
-If not for their sustainability or efficiency, then why do we consider “modern energy services” superior to a traditional fire? The suppression of open fire in modern cities is supported by two extra arguments: fire is unhealthy (it produces air pollution), and it is dangerous (it carries the risk of an uncontrollable fire). These risks are real, but how does the fire compare to “modern energy services” in terms of health and safety?
+Se não pela sua sustentabilidade ou eficiência, então porque consideramos os "serviços energéticos modernos" superiores a um fogo tradicional? A supressão do fogo aberto nas cidades modernas é apoiada por dois argumentos adicionais: o fogo não é saudável (produz poluição atmosférica) e é perigoso (comporta o risco de um incêndio incontrolável). Estes riscos são reais, mas como é que o fogo se compara aos "serviços energéticos modernos" em termos de saúde e segurança?
 
-There is no doubt that the replacement of the household fire by modern infrastructures has advanced air quality, health and safety in cities. However, this may only be a temporary gain: modern infrastructures are at least as hazardous to safety and health because of their dependence on fossil fuels.
+Não há dúvida de que a substituição das lareiras por infra-estruturas modernas melhorou a qualidade do ar, a saúde e a segurança nas cidades. No entanto, este pode ser apenas um ganho temporário: as infra-estruturas modernas são pelo menos tão perigosas para a segurança e a saúde devido à sua dependência dos combustíveis fósseis.
 
-> How does the fire compare to “modern energy services” in terms of health and safety?
+> Como é que o fogo se compara aos "serviços energéticos modernos" em termos de saúde e segurança?
 
-For example, the heat waves and forest fires which are ravaging Australia while I write this, are killing people and destroying properties, and they are producing thick smoke that continues to blanket some of the largest cities. These fires are not caused by people using open hearths. These fires are the consequence of climate change, which is mainly caused by people’s use of industrial infrastructures – powered by fossil fuels.
+Por exemplo, as ondas de calor e os incêndios florestais que assolam a Austrália enquanto eu escrevo este texto, estão a matar pessoas e a destruir propriedades, e estão a produzir fumo espesso que continua a cobrir algumas das maiores cidades. Estes incêndios não são causados por pessoas que utilizam lareiras. São uma consequência das alterações climáticas, que são principalmente causadas pela utilização de infra-estruturas industriais pelas pessoas—alimentadas por combustíveis fósseis.
 
-The heavy dependence on central infrastructures for so many vital needs is another health and safety risk: cut the power supply to a large city and almost everything stops working -- including the sewer network, the food storage, and the burglar alarms.
+A forte dependência em infra-estruturas centrais para tantas necessidades vitais é outro risco para a saúde e a segurança: cortando o fornecimento de energia a uma grande cidade quase tudo deixa de funcionar—incluindo a rede de esgotos, o armazenamento de alimentos e os alarmes anti-roubo.
 
-Our troubled view of the old-fashioned fire is partly rooted in the conflation of two distinct concepts: “health” and “sustainability”. Indeed, something can be healthy, safe and sustainable at the same time, like walking – lest there is no sidewalk. But something can also be healthy and safe but not very sustainable (like a refrigerator, because it depends on an energy-intensive cold chain), and something can be sustainable but not very healthy or safe (like a smokeroom for meat and fish in the basement).
+A nossa visão problemática e antiquada do fogo antiquado surge, em parte, da conjugação de dois conceitos distintos: "saúde" e "sustentabilidade". De facto, algo pode ser saudável, seguro e sustentável ao mesmo tempo, como caminhar—a menos que que não haja calçada. Mas algo também pode ser saudável e seguro mas não muito sustentável (como um frigorífico, porque depende de uma cadeia de refrigeração de alta intensidade energética), e algo pode ser sustentável mas não muito saudável ou seguro (como um fumeiro para carne e peixe numa cave).
 
-Health and longevity are things that we, as individuals, "need", want, desire, or feel entitled to. Just like we feel entitled to certain levels of comfort, convenience, speed or cleanliness. On the other hand, defining sustainability requires us to question what levels of human comfort, convenience, cleanliness, speed, safety and health our environment can support before it collapses. We can choose safety and health over sustainability when they are in conflict with each other, but only at the expense of the safety and health of younger and future generations.
+Saúde e longevidade são coisas que nós, como indivíduos, "precisamos", queremos, desejamos ou nos sentimos intitulados a ter. Tal como nos sentimos intitulados a certos níveis de conforto, conveniência, rapidez ou asseio. Por outro lado, definir sustentabilidade exige que questionemos que níveis de conforto humano, conveniência, asseio, velocidade, segurança e saúde o nosso ambiente pode suportar antes que colapse. Podemos escolher segurança e saúde em detrimento da sustentabilidade quando estão em conflito entre si, mas apenas à custa da segurança e saúde das gerações mais jovens e futuras.
 
 
 
