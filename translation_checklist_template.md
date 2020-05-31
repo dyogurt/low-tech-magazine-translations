@@ -5,7 +5,7 @@
 ## Before sending
 
 - [ ] Check all paragraphs at FLIP
-- [ ] Subtitles Caps
+- [ ] H2 Caps
 - [ ] Image captions
 - [ ] Links
 - [ ] References and Citations
