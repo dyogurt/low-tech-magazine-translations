@@ -1,3 +1,5 @@
+
+
 Title: Demasiada Combustão, Pouco Fogo
 Date: 2019-12-29
 Author: Kris De Decker
@@ -11,7 +13,7 @@ Status:
 ![image](/images/toasterbanner.jpg)
 Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
 
-O fogo—que temos usado nas nossas casas há mais de 400 mil anos—continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu. Sozinho, o fogo fornecia o que agora obtemos através de uma combinação de aparelhos modernos como o forno e fogão de cozinha, sistemas de aquecimento, iluminação, congelador, esquentador, secador e televisão. Ao contrário destas novas tecnologias, o fogo não precisava de uma infraestrutura central para fazê-lo funcionar, e poderia ser construído localmente a partir de materiais prontamente disponíveis.
+O fogo—que temos usado nas nossas casas há mais de 400 mil anos—continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu. Sozinho, o fogo fornecia o que agora obtemos através de uma combinação de aparelhos modernos como o forno e fogão de cozinha, sistemas de aquecimento, iluminação, congelador, esquentador, secador e televisão. Ao contrário destas novas tecnologias, o fogo não precisava de uma infraestrutura central para o fazer funcionar, e poderia ser produzido localmente a partir de materiais prontamente disponíveis.
 
 ## Da Lareira Aberta até à Central Elétrica
 
@@ -45,7 +47,7 @@ Exemplos de tais modernizações sem chama e sem fumo são os painéis solares f
 
 ## A Versatilidade do Fogo
 
-Uma razão pela qual as pessoas em sociedades industrializadas consideram o fogo como algo pouco eficiente e insustentável é porque simplesmente não sabem como os seus antepassados o usavam. Se hoje em dia o fogo é considerado ineficaz é porque medimos apenas a eficiência de uma das suas funções, normalmente o aquecimento de um espaço. No entanto, os nossos antepassados não usavam o fogo apenas para se aquecerem. Usavam-no também para cozinhar, iluminação, conservar alimentos, aquecer água, secar roupa e proteção contra predadores e insetos, entre outras coisas.
+Uma razão pela qual as pessoas em sociedades industrializadas consideram o fogo como algo pouco eficiente e insustentável é porque simplesmente não sabem como os seus antepassados o usavam. Se hoje em dia o fogo é considerado ineficaz é porque medimos apenas a eficiência de uma das suas funções, normalmente o aquecimento de um espaço. No entanto, os nossos antepassados não usavam o fogo apenas para se aquecerem. Usavam-no também para cozinhar, iluminação, conservar alimentos, aquecer água, secar roupa e para proteção contra predadores e insetos, entre outras coisas.
 
 ![image](/images/hairdryer.jpg)
 Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
@@ -56,13 +58,13 @@ O fogo é extremamente versátil, é difícil dizer quais das suas funcionalidad
 
 Visto apenas como um forma de cozinhar, o fogo pode acomodar uma ampla variedade de métodos de confeção de alimentos e substituir um elevado número de utensílios de cozinha modernos. O fogo funciona não só como um fogão mas também como um forno. Para assar e grelhar, a comida era colocada no espeto que rodava sobre chamas. A cozedura do pão ou outros produtos era feita num contentor de barro (um "forno Neerlandês") colocado nas brasas de uma lareira. Em alternativa, era construído um forno separado para a cozedura nas traseiras da lareira, ou como uma estrutura independente no exterior da casa. Para cozer em água e fritar usava-se uma panela pendurada por cima do fogo.[^6][^7]
 
-As funções de muitos pequenos eletrodomésticos de cozinha também eram possíveis de fazer com fogo. Por exemplo, pode-se pensar que as pessoas começaram a comer torradas quando a torradeira elétrica apareceu no século XX, mas antes disso simplesmente seguravam um "garfo de tostar" com um pedaço de pão no fogo. Do mesmo modo, a preparação rápida de bebidas quentes não começou com a invenção da chaleira elétrica; anteriormente, as pessoas imergiam uma ferramenta de ferro em brasa num copo, produzindo bebidas quentes numa questão de segundos. [^8]
+As funções de muitos pequenos eletrodomésticos de cozinha também eram possíveis de fazer com fogo. Por exemplo, pode-se pensar que as pessoas começaram a comer torradas quando a torradeira elétrica apareceu no século XX, mas antes disso simplesmente seguravam um "garfo de tostar" com um pedaço de pão sobre o fogo. Do mesmo modo, a preparação rápida de bebidas quentes não começou com a invenção da chaleira elétrica; anteriormente, as pessoas imergiam uma ferramenta de ferro incandescente num copo, produzindo bebidas quentes numa questão de segundos. [^8]
 
 > Visto apenas como um forma de cozinhar, o fogo pode acomodar uma ampla variedade de métodos de confeção de alimentos e substituir um elevado número de aparelhos de cozinha modernos.
 
 O fogo também substituía os atuais frigoríficos e congeladores. Em *The Food Axis: Cooking, eating, and the architecture of American houses*, Elizabeth Collins Cromley descreve como a carne e o peixe eram suspensos durante várias semanas no fumo de uma fogueira para os preservar durante mais tempo.[^6] Na sua forma mais simples, os nossos antepassados penduravam as suas peças de carne ou peixe na chaminé da cozinha ou—se não houvesse chaminé—por cima da lareira, suspensas do teto. A fumagem do peixe e da carne também podia ser feita numa câmara própria para o efeito, esta era anexada à lareira da cozinha, ou construída a partir da chaminé na cave ou no sótão. O fumeiro podia também ser um edifício separado.
 
-Outros métodos variados de conservação de alimentos estavam dependentes do fogo. As frutas, legumes e ervas aromáticas eram secas pelo fogo se o clima local não fosse suficientemente soalheiro. A adição de açúcar aos frutos e o fabrico de manteiga e queijo dependia do calor de uma fogueira. O sal, essencial para a conservação dos alimentos, era guardado numa caixa pendurada contra a lareira para o manter seco. [^6]
+Outros métodos variados de conservação de alimentos estavam dependentes do fogo. As frutas, legumes e ervas aromáticas eram secas pelo fogo se o clima local não fosse suficientemente soalheiro. A adição de açúcar aos frutos e o fabrico de manteiga e queijo dependia do calor de uma fogueira. O sal, essencial para a conservação dos alimentos, era guardado numa caixa pendurada próxima da lareira para o manter seco. [^6]
 
 ## Distribuindo Calor e Luz
 
@@ -76,14 +78,14 @@ Havia também a função do fogo como ponto focal de comunicação e de convívi
 
 ## Sustentabilidade e Eficiência
 
-Numa casa construída em torno de uma lareira, a confeção de bebidas quentes e torradas, a secagem da roupa ou a iluminação do espaço não aumenta o consumo de energia da lareira: simplesmente faz um uso mais eficiente do fogo que já existe para outros fins—como o aquecimento do espaço. Para alcançar o mesmo resultado hoje em dia, temos de ligar vários aparelhos, e todos eles requerem um uso extra de energia: o sistema de aquecimento, o aquecedor de imersão, a torradeira elétrica, a máquina de secar roupa e as luzes.
+Numa casa construída em torno de uma lareira, a confeção de bebidas quentes e torradas, a secagem da roupa ou a iluminação do espaço não aumenta o consumo de energia da lareira: simplesmente faz um uso mais eficiente do fogo que já existe para outros fins—como o aquecimento de um espaço. Para alcançar o mesmo resultado hoje em dia, temos de ligar vários aparelhos, e todos eles requerem um uso extra de energia: o sistema de aquecimento, o aquecedor de imersão, a torradeira elétrica, a máquina de secar roupa e as luzes.
 
-Além disso, devemos também ter em conta a exploração mineira e a utilização de energia necessária para substituir uma lareira por dezenas de aparelhos produzidos em fábricas, que têm todos de ser distribuídos aos consumidores individuais. Por último, devemos considerar a energia e os materiais necessários para construir e manter as infraestruturas de que estes aparelhos dependem para funcionar, como a rede elétrica e de gás ou a cadeia de refrigeração. Pelo contrário, uma lareira pode ser construída localmente com materiais facilmente disponíveis, e funciona independentemente das infraestruturas centralizadas.
+Além disso, devemos também ter em conta a exploração mineira e a utilização de energia necessária para substituir uma lareira por dezenas de aparelhos produzidos em fábricas, que têm todos de ser distribuídos aos consumidores individuais. Por último, devemos considerar a energia e os materiais necessários para construir e manter as infraestruturas de que estes aparelhos dependem para funcionar, como a rede elétrica e de gás ou a cadeia de refrigeração. Pelo contrário, uma lareira pode ser construída localmente com materiais facilmente disponíveis, e funciona independentemente de infraestruturas centralizadas.
 
 ![image](/images/plancha.jpg)
 Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
 
-As atuais centrais de energias renováveis, como os painéis solares fotovoltaicos ou os aerogeradores, não abordam devidamente a questão energética: também precisam de ser fabricadas, transportadas, conservadas e descartadas, e implicam que podemos continuar a conceber, produzir e descartar uma gama cada vez maior de eletrodomésticos de forma a satisfazer as nossas necessidades. A eletricidade da biomassa também não tornaria este sistema sustentável: embora elimine a utilização de combustíveis fósseis, perde-se muita energia no processo de conversão da biomassa em eletricidade, e ainda precisamos de fábricas para produzir os aparelhos elétricos e as infraestruturas.
+As atuais centrais de energias renováveis, como os painéis solares fotovoltaicos ou os aerogeradores, não abordam devidamente a questão energética: também precisam de ser fabricadas, transportadas, mantidas e descartadas, e implicam que podemos continuar a conceber, produzir e descartar uma gama cada vez maior de eletrodomésticos de forma a satisfazer as nossas necessidades. A eletricidade da biomassa também não tornaria este sistema sustentável: embora elimine a utilização de combustíveis fósseis, perde-se muita energia no processo de conversão da biomassa em eletricidade, e ainda precisamos de fábricas para produzir os aparelhos elétricos e as infraestruturas.
 
 ## Comparação do Consumo de Energia: Habitações Tradicionais versus Modernas
 
@@ -101,7 +103,7 @@ No entanto, a média dos agregados familiares nepaleses que participaram no estu
 
 Mesmo sem ter em conta os recursos adicionais necessários para construir eletrodomésticos e infraestruturas, o consumo de energia numa habitação pré-industrial parece ter sido significativamente inferior ao que é atualmente. De facto, um cálculo rápido revela que—pelo menos em teoria—10 mil milhões de pessoas a utilizar uma lareira aberta como única fonte de energia seria uma prática perfeitamente sustentável.
 
-Assumindo um consumo médio de lenha de 6 m3 *per capita*, precisaríamos de 60 mil milhões de metros cúbicos de madeira por ano. Um metro cúbico de madeira requer um rendimento anual de 0,2 ha de talhadia, sendo assim precisamos de 12 mil milhões de ha ou 120 milhões de quilómetros quadrados de floresta, se quisermos evitar desflorestação. Isto é três vezes mais do que temos hoje, e cerca de 80% da superfície terrestre total do nosso planeta (150 milhões de quilómetros quadrados).
+Assumindo um consumo médio de lenha de 6 m3 *per capita*, precisaríamos de 60 mil milhões de metros cúbicos de madeira por ano. Um metro cúbico de madeira requer um rendimento anual de 0,2 ha de talhadia, sendo assim precisamos de 12 mil milhões de ha ou 120 milhões de quilómetros quadrados de floresta, se quisermos evitar desflorestação. Isto é três vezes mais do que temos hoje, e cerca de 80% da superfície terrestre do nosso planeta (150 milhões de quilómetros quadrados).
 
 Como não precisamos de espaço extra para fábricas e estradas para distribuir bens de consumo, na verdade poderíamos voltar a usar lareiras sem destruir o nosso ambiente. O mesmo não se pode dizer se 10 mil milhões de pessoas continuarem a utilizar combustíveis fósseis e infraestruturas modernas.
 
@@ -113,7 +115,7 @@ Não há dúvida de que a substituição das lareiras por infraestruturas modern
 
 > Como é que o fogo se compara aos "serviços energéticos modernos" em termos de saúde e segurança?
 
-Por exemplo, as ondas de calor e os incêndios florestais que assolam a Austrália enquanto eu escrevo este texto, estão a matar pessoas e a destruir propriedades, e estão a produzir fumo espesso que continua a cobrir algumas das maiores cidades. Estes incêndios não são causados por pessoas que utilizam lareiras. São uma consequência das alterações climáticas, que são principalmente causadas pela utilização de infraestruturas industriais—alimentadas por combustíveis fósseis.
+Por exemplo, as ondas de calor e os incêndios florestais que assolam a Austrália enquanto eu escrevo este artigo, estão a matar pessoas e a destruir propriedades, e estão a produzir fumo espesso que continua a cobrir algumas das maiores cidades. Estes incêndios não são causados por pessoas que utilizam lareiras. São uma consequência das alterações climáticas, que são principalmente causadas pela utilização de infraestruturas industriais—alimentadas por combustíveis fósseis.
 
 A forte dependência em infraestruturas centrais para tantas necessidades vitais é outro risco para a saúde e a segurança: cortando o fornecimento de energia a uma grande cidade quase tudo deixa de funcionar—incluindo a rede de esgotos, o armazenamento de alimentos e os alarmes antirroubo.
 
