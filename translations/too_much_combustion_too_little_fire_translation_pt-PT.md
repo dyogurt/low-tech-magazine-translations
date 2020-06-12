@@ -1,14 +1,12 @@
-
-
 Title: Demasiada Combustão, Pouco Fogo
 Date: 2019-12-29
 Author: Kris De Decker
-Category: Tecnologia Obsoleta
-Tags: Independente da Rede, Energia Renovável, História
-Slug: demasiada-combustão-pouco-fogo
+Category: Obsolete Technology
+Tags: Off-the-grid, Renewable Energy, History
+Slug: too-much-combustion-too-little-fire
 Lang: pt-PT
 Summary:  O fogo—que temos usado nas nossa casas há mais de 400 mil anos—continua a ser a tecnologia doméstica mais versátil e sustentável que a humanidade alguma vez conheceu.
-Status: 
+Status: published
 
 ![image](/images/toasterbanner.jpg)
 Ilustração: [Diego Marmolejo](https://www.instagram.com/ddidak/). 
@@ -145,13 +143,13 @@ Kris De Decker
 
 [^6]: Collins Cromley, Elizabeth. The food axis: cooking, eating, and the architecture of American houses. University of Virginia Press, 2010.
 
-[^7]: Unlike today’s gas or electric stoves and ovens, a fire has no buttons to control its temperature. For boiling and simmering, this was solved by hanging the pots on a crane, which could be raised or lowered. In ovens, cooks decided to bake pies or bread first while the oven is the hottest, then, successively as the oven cools down, gingerbread, custards, then grains could be put in to dry. [6]
+[^7]: Ao contrário dos fogões e fornos eléctricos ou a gás actuais, um fogo não tem botões para controlar a sua temperatura. Para ferver e fervilhar, penduravam-se as panelas num pequeno guindaste que permitia levantar ou baixá-las. Nos fornos, os cozinheiros decidiam cozer primeiro tartes ou pão, enquanto o forno estava o mais quente possível, depois, sucessivamente à medida que o forno arrefecia, pão de gengibre, cremes, depois os grãos podiam ser colocados a secar. [6]
 
 [^8]: Marcoux, Paula. Cooking with fire: From roasting on a spit to baking in a tannur, rediscovered techniques and recipes that capture the flavors of wood-fired cooking. Storey Publishing, 2014.
 
 [^9]: Hough, Walter. Fire as an agent in human culture. No. 139. Govt. print. Off., 1926.
 
-[^10]: The energy source for these distributed fires were wood, resin, wax, fat, grease or oil. Needs for special concentration and position of the source of illumination stimulated the invention of holders, brackets, and stands. [9]
+[^10]: A fonte de energia para estas chamas espalhadas era madeira, resina, cera, gordura, graxa ou óleo. As necessidades de concentração e posicionamento especial da fonte de iluminação estimularam a invenção de pegas, braquetes e bases. [9]
 
 [^11]: Heating people, not spaces: restoring the old way of warming, Kris De Decker, Low-tech Magazine, 2016.
 
@@ -161,10 +159,9 @@ Kris De Decker
 
 [^14]: Rijal, H. B., and H. Yoshida. "Investigation and evaluation of firewood consumption in traditional houses in Nepal." Proceedings: Indoor Air (2002): 1000-1005.
 
-[^15]: The energy content of 1 m3 of wood also depends on the type of wood and how it is stacked. I’ve compared apples to apples when it was possible, but this was not always the case so the result is only a rough estimate.
-
-[^16]: The annual firewood usage in 18th century Austria (Carinthia) was limited to 35 m3 per household. Source: Peter, Sieferle Rolf. The subterranean forest. Cambridge: The White Horse Press, 2001.
-
+[^15]: O valor energético de 1 m3 de madeira depende também do tipo de madeira e da forma como esta é empilhada. Comparei maçãs com maçãs enquanto foi possível, mas nem sempre foi o caso, pelo que o resultado é apenas uma estimativa aproximada.
+[^16]: A utilização anual de lenha na Áustria do século XVIII (Caríntia) era limitada a 35 m3 por agregado familiar. Fonte: Peter, Sieferle Rolf. A floresta subterrânea. Cambridge: The White Horse Press, 2001.
 [^17]: Rijal, Hom Bahadur. "Firewood Consumption in Nepal." Sustainable Houses and Living in the Hot-Humid Climates of Asia. Springer, Singapore, 2018. 335-344.
 
-[^18]: The results are 0.5 to 2 m3 of firewoord per person per year, which I have converted to 2.5 to 10 GJ of energy per person per year.
+[^18]: Os resultados são de 0,5 a 2 m3 de firewoord *per capita* por ano, que converti para 2,5 a 10 GJ de energia *per capita* por ano.
+

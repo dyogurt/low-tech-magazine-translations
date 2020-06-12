@@ -1,12 +1,12 @@
 Title: Chuveiros Neblina: Decadência Sustentável?
 Author: Kris De Decker
 Date: 2019-10-17
-Category: Soluções de Baixa Tecnologia
-Tags: Independente da Rede
-Slug: chuveiros-neblina-decadência-sustentável
+Category: Low-tech Solutions
+Tags: Off-the-grid
+Slug: mist-showers-sustainable-decadence
 Lang: pt-PT
 Summary: O uso de água e energia de um chuveiro neblina é tão baixo que a casa de banho pode ficar independente da rede, mesmo num contexto urbano.
-Status:
+Status: published
 
 ![image](/images/mist-shower-hack-kit.jpg)
 Imagem: *Kit* de montagem de um chuveiro neblina. Jonas Görgen.
@@ -36,7 +36,7 @@ Em princípio, a energia para um duche pode ser gerada por fontes de energia ren
 
 ## Chuveiros mais Potentes
 
-Desde o início dos anos 90 que as cabeças de chuveiro de baixo caudal proporcionam uma maneira mais eficiente de usar água e energia. Elas usam entre quatro e nove litros de água por minuto, aproximadamente metade do caudal de uma cabeça de chuveiro normal (dez a quinze litros por minuto). Quase metade de todas as residências neerlandesas tinham um chuveiro de baixo caudal instalado em 2016 mas, como vimos, a taxa de fluxo do chuveiro médio desde os anos 90 tem vindo a aumentar, não a diminuir. [1]
+Desde o início dos anos 90 que as cabeças de chuveiro de baixo caudal proporcionam uma maneira mais eficiente de usar água e energia. Elas usam entre quatro e nove litros de água por minuto, aproximadamente metade do caudal de uma cabeça de chuveiro normal (dez a quinze litros por minuto). Quase metade de todas as residências neerlandesas tinham um chuveiro de baixo caudal instalado em 2016 mas, como vimos, a taxa de fluxo do chuveiro médio desde os anos 90 tem vindo a aumentar, não a diminuir. [^1]
 
 ![Image](/images/rain-shower.jpg)
 Um chuveiro de efeito chuva. Imagem: soak.com
@@ -61,9 +61,9 @@ Organizações ambientais, empresas de distribuição de água e municípios inc
 No entanto, um duche não lava apenas o corpo. Um chuveiro totalmente focado na limpeza do corpo — o chamado duche da Marinha — gasta muito pouco tempo, energia e água. Um duche da Marinha consiste num duche de trinta segundos para se molhar, ensaboar o corpo enquanto a água está desligada e termina com outro duche de trinta segundos para enxaguar a água com sabão.
 
 ![Image](/images/showers-soldiers.jpg)
-Até à década de 1970, quartéis ou prisões usavam chuveiros apenas para lavar muitas pessoas num curto período de tempo. [2] Imagem: O Duche no Regimento (La Douche au Régiment), Pintura de Eugène Chaperon, 1887.
+Até à década de 1970, quartéis ou prisões usavam chuveiros apenas para lavar muitas pessoas num curto período de tempo. [^2] Imagem: O Duche no Regimento (La Douche au Régiment), Pintura de Eugène Chaperon, 1887.
 
-Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 litros de água e 0,2 kWh de energia. Um banho de esponja diário teria um uso ainda mais baixo de água e energia. Um banho quente de nove minutos por dia não é de forma alguma uma necessidade básica: é um prazer. Desde os anos 90, o banho diário tem sido retratado em anúncios como uma forma de relaxamento, alívio do _stress_ e prazer sensual.
+Admitindo um fluxo de água médio, um duche da Marinha (quente) usa apenas 8,3 litros de água e 0,2 kWh de energia. Um banho de esponja diário teria um uso ainda mais baixo de água e energia. Um banho quente de nove minutos por dia não é de forma alguma uma necessidade básica: é um prazer. Desde os anos 90, o banho diário tem sido retratado em anúncios como uma forma de relaxamento, alívio do _stress_ e prazer sensual.[^2][^4]
 
 ## Chuveiros Neblina
 
@@ -143,7 +143,7 @@ Um duche neblina portátil dos anos 70, pressurizável com uma bomba de biciclet
 
 Em segundo lugar, o elevado uso de água de um chuveiro convencional obriga-o a estar ligado a um ralo para escoamento. Um chuveiro neblina usa muito menos água, isto permite tomar um duche desligado da rede e gerir localmente a água utilizada. Por exemplo, escoá-la na sanita, usá-la para regar plantas ou limpar pavimentos. Por último, o fornecimento de água na casa de banho não é estritamente necessário, podemos encher um pequeno contentor com água noutro local e levá-lo depois para a casa de banho.
 
-As experiências feitas no Canadá nos anos 70 produziram um chuveiro neblina portátil. A água era armazenada num reservatório de água de limpa-vidros da Volkswagen ligado a uma bomba de bicicleta para criar pressão. 2,5 litros de água eram pressurizados com cerca de vinte usos repetidos da bomba. Resumidamente, se passarmos a usar chuveiros neblina, a infraestrutura que possibilitou o duche moderno pode ser minimizada e simplificada. Esta mudança na infraestrutura permitiria desligar a casa de banho das redes públicas e reduzir bastante o uso de água e energia. A mesma abordagem poderia ser usada na lavagem das mãos ou de loiça.
+As experiências feitas no Canadá nos anos 70 produziram um chuveiro neblina portátil. A água era armazenada num reservatório de água de limpa-vidros da Volkswagen ligado a uma bomba de bicicleta para criar pressão. 2,5 litros de água eram pressurizados com cerca de vinte usos repetidos da bomba. [^7]Resumidamente, se passarmos a usar chuveiros neblina, a infraestrutura que possibilitou o duche moderno pode ser minimizada e simplificada. Esta mudança na infraestrutura permitiria desligar a casa de banho das redes públicas e reduzir bastante o uso de água e energia. A mesma abordagem poderia ser usada na lavagem das mãos ou de loiça.
 
 O chuveiro neblina do [Jonas Görgen](http://oddemulsion.com/) ainda não está à venda, mas pode [informá-lo do seu interesse](https://forms.gle/n5W2bn8EbFurgXQg7). Um chuveiro neblina esteve exposto durante a [Dutch Design Week Eindhoven](https://www.ddw.nl/), 19–27 Out. 2019.
 
@@ -449,8 +449,7 @@ Thank you very much for your work and have a good weekend.
 
 [^4]: Hand, Martin, Elizabeth Shove, and Dale Southerton. "[Explaining showering: A discussion of the material, conventional, and temporal dimensions of practice](http://www.socresonline.org.uk/10/2/hand/hand.pdf)." Sociological Research Online10.2 (2005): 1-13.
 
-[^5]: If electricity is used, the resulting CO2-emissions of a shower are 0.621 kg in Europe and 0.921 kg in the US. [Overview of electricity production and use in Europe. European Environmental Agency, created 2017, updated 2019] [Assessing the evolution of power sector carbon intensity in the United States, Greg Schivley et al, 2018.] If gas is used, the emissions of a shower amount to between 0.462 kg (for new gas boilers) and 0.714 kg (for older boilers). [Carbon footprint of heat generation, houses of parliament.]
-
+[^5]: Se for utilizada electricidade, as emissões de CO2 resultantes de um duche são de 0,621 kg na Europa e 0,921 kg nos EUA. [Resumo da produção e utilização de electricidade na Europa. Agência Europeia do Ambiente, criada em 2017, actualizada em 2019]. [Assessing the evolution of power sector carbon intensity in the United States, Greg Schivley et al, 2018]. Se for utilizado gás, as emissões de um chuveiro variam entre 0,462 kg (para caldeiras a gás novas) e 0,714 kg (para caldeiras mais antigas). [Pegada de carbono da produção de calor, casas do parlamento].
 [^6]: [Space Shower Habitability Technology](https://arc.aiaa.org/doi/abs/10.2514/3.61735?journalCode=jsr), Arthur Rosener, 1972.
 
 [^7]: [Water conservation and the mist experience](https://www.mcgill.ca/mchg/files/mchg/mistexperience.pdf), 1978.

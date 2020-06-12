@@ -8,6 +8,6 @@
 - [ ] H2 Caps
 - [ ] Image captions
 - [ ] Links
-- [ ] References and Citations
 - [ ] Dashes
 - [ ] Footer 
+- [ ] Footnotes links

@@ -441,7 +441,6 @@ Thank you very much for your work and have a good weekend.
 </div>
 
 [^1]: van Thiel, Lisanne. "[Watergebruik thuis 2013](https://www.vewin.nl/SiteCollectionDocuments/Publicaties/Cijfers/Watergebruik-Thuis-2016.pdf)." TNS NIPO, Amsterdam (2014).
-
 [^2]: Shove, E. A. [Comfort, Cleanliness and Convenience: the Social Organization of Normality](https://www.bloomsbury.com/uk/comfort-cleanliness-and-convenience-9781859736302/). Berg, 2003.
 
 [^3]: Hitchings, Russell, Alison Browne, and Tullia Jack. "[Should there be more showers at the summer music festival? Studying the contextual dependence of resource consuming conventions and lessons for sustainable tourism](https://www.tandfonline.com/doi/abs/10.1080/09669582.2017.1360316?journalCode=rsus20)." Journal of Sustainable Tourism26.3 (2018): 496-514.
