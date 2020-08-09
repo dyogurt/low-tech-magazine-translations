@@ -5,33 +5,39 @@ Tags: ICT, Solar Powered Website
 Slug: how-to-build-a-lowtech-website
 Lang: pt-PT
 Translator: 
-Summary: Our new blog is designed to radically reduce the energy use associated with accessing our content. 
+Summary: O nosso novo blog foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
 Status: draft
 
 
 
-![a detail of the solar powered server](/images/sps_close.jpg)
-First prototype of the solar powered server that runs the new website. The solar charge controller (on the right) is powering the server (on the left) through a USB-cable.
+![um detalhe do servidor a energia solar](/images/sps_close.jpg)
+O primeiro protótipo do servidor a energia solar que corre o novo site.  O controlador de carga solar (à direita) está a alimentar o servidor (à esquerda) através de um cabo USB.
 
-[Low-tech Magazine: Kindle version](https://solar.lowtechmagazine.com/offline-reading.html).
+[Low-tech Magazine: Versão Kindle](https://solar.lowtechmagazine.com/offline-reading.html).
 
-Low-tech Magazine was born in 2007 and has seen minimal changes ever since. Because a website redesign was long overdue — and because we try to practice what we preach — we decided to build a low-tech, self-hosted, and solar-powered version of Low-tech Magazine. The new blog is designed to radically reduce the energy use associated with accessing our content. 
+A revista Low-tech Magazine nasceu em 2007 e, desde então, tem sofrido muito poucas mudanças. Como uma reformulação do website já devia ter sido feita há muito tempo — e porque tentamos praticar o que dizemos — decidimos construir uma versão de baixa tecnologia, self-hosted, e com energia solar da Low-tech Magazine. O nosso novo blog foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
 
-## Why a Low-tech Website?
+## Porquê um Site Low-tech?
 
-We were told that the Internet would [“dematerialise” society and decrease energy use](https://www.bcg.com/publications/2012/energy-environment-technology-industries-smarter-2020-role-ict-driving-sustainable-future.aspx). Contrary to this projection, it has become a [large and rapidly growing consumer of energy itself]({filename}/posts/can-the-internet-run-on-renewable-energy.md).
+Foi-nos dito que a Internet iria ["desmaterializar" a sociedade e diminuir o uso de energia](https://www.bcg.com/publications/2012/energy-environment-technology-industries-smarter-2020-role-ict-driving-sustainable-future.aspx). Contrariamente a esta previsão, acabou por tornou-se um [grande consumidor de energia em rápido crescimento]({filename}/posts/can-the-internet-run-on-renewable-energy.md).
 
-In order to offset the negative consequences associated with high energy consumption, renewable energy has been proposed as a means to lower emissions from powering data centers. For example, Greenpeace's yearly [ClickClean report](http://www.greenpeace.org/usa/global-warming/click-clean/) ranks major Internet companies based on their use of renewable power sources.
+De forma a contrabalançar as consequências negativas associadas ao elevado consumo de energia, foi proposto o uso de energia renovável como meio de reduzir as emissões dos centros de processamento de dados. Por exemplo, o [relatório anual ClickClean](http://www.greenpeace.org/usa/global-warming/click-clean/) da Greenpeace classifica as principais empresas da Internet com base na sua utilização de fontes de energia renováveis.
 
-However, running data centers on renewable power sources is not enough to address the growing energy use of the Internet. To start with, the Internet already uses three times more energy than all wind and solar power sources worldwide can provide. Furthermore, [manufacturing, and regularly replacing, renewable power plants also requires energy]({filename}/posts/how-sustainable-is-pv-solar-power.md), meaning that if data traffic keeps growing, so will the use of fossil fuels.
+No entanto, alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da Internet. Para começar, a Internet já utiliza três vezes mais energia do que todas as fontes de energia eólica e solar do mundo são capazes de fornecer.
 
-> Running data centers on renewable power sources is not enough to address the growing energy use of the Internet.
+> Alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da Internet.
 
-Finally, solar and wind power are not always available, which means that an Internet running on renewable power sources would require infrastructure for energy storage and/or transmission that is also [dependent on fossil fuels for its manufacture and replacement]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Powering websites with renewable energy is not a bad idea, however the trend towards growing energy use must also be addressed.
+Por último, a energia solar e eólica nem sempre estão disponíveis, o que significa que se a Internet funcionar com fontes de energia renováveis será necessária uma infra-estrutura de armazenamento e/ou transmissão de energia que também é [dependente de combustíveis fósseis para o seu fabrico e substituição]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Alimentar sites com energia renovável não é uma má ideia, no entanto, a tendência para o aumento da utilização de energia também deve ser abordada.
 
-To start with, content is becoming increasingly resource-intensive. This has a lot to do with the growing importance of video, but a similar trend can be observed among websites. The [size of the average web page](https://httparchive.org/reports/page-weight) (defined as the average page size of the 500,000 most popular domains) increased from 0.45 megabytes (MB) in 2010 to 1.7 megabytes in June 2018. For mobile websites, the average “page weight” rose tenfold from 0.15 MB in 2011 to 1.6 MB in 2018. Using different measurement methods, other sources report average page sizes of up to 2.9 MB in 2018.
+Para começar, o conteúdo está a tornar-se cada vez mais exigente em termos de recursos. Isto tem muito a ver com a crescente importância de vídeos, mas uma tendência semelhante pode ser observada entre sites. O [tamanho médio de uma página web](https://httparchive.org/reports/page-weight) (definido como o tamanho médio de página dos 500.000 domínios mais populares) aumentou de 0,45 megabytes (MB) em 2010 para 1,7 MB em Junho de 2018. Para sites móveis, o "peso médio das páginas" aumentou dez vezes de 0,15 MB em 2011 para 1,6 MB em 2018. Utilizando diferentes métodos de medição, outras fontes informam tamanhos médios de página de até 2,9 MB em 2018.
 
-The growth in data traffic [surpasses the advances in energy efficiency](https://www.researchgate.net/publication/224224694/download) (the energy required to transfer 1 megabyte of data over the Internet), resulting in more and more energy use. “Heavier” or “larger” websites not only increase energy use in the network infrastructure, but they also shorten the lifetime of computers — larger websites require more powerful computers to access them. This means that more computers need to be manufactured, which is a [very energy-intensive process]({filename}/posts/embodied-energy-of-digital-technology.md).
+O crescimento do tráfego de dados [tem superado os avanços na eficiência energética](https://www.researchgate.net/publication/224224694/download) (a energia necessária para transferir 1 MB de dados pela Internet), resultando numa utilização cada vez maior de energia. Os sites "mais pesados" ou "maiores" não só aumentam a utilização de energia na infra-estrutura da rede, como também encurtam a vida útil dos computadores — para aceder a websites maiores os computadores têm que ser mais potentes. Isto significa que é necessário fabricar mais computadores, o que é um [processo que requer muita energia]({nome do ficheiro}/pós/embodied-energy-of-digital-technology.md).
+
+
+
+
+
+
 
 > Being always online doesn't combine well with renewable energy sources such as wind and solar power, which are not always available.
 
