@@ -8,6 +8,7 @@
 - [ ] H2 Caps
 - [ ] Image captions
 - [ ] Links
-- [ ] Dashes
+- [ ] EM Dashes
+- [ ] Italic foreign words
 - [ ] Footer 
 - [ ] Footnotes links

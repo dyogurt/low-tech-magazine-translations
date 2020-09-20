@@ -1,95 +1,90 @@
-Title: Como Fazer um Site *Low-tech*?
+Title: Como Construir um *Site* *Low-tech*?
 Date: 2018-9-24
 Category: Low-tech Solutions
 Tags: ICT, Solar Powered Website
 Slug: how-to-build-a-lowtech-website
 Lang: pt-PT
 Translator: 
-Summary: O nosso novo blog foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
+Summary: O nosso novo blogue foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
 Status: draft
 
 
 
 ![um detalhe do servidor a energia solar](/images/sps_close.jpg)
-O primeiro protótipo do servidor a energia solar que corre o novo site.  O controlador de carga solar (à direita) está a alimentar o servidor (à esquerda) através de um cabo USB.
+O primeiro protótipo do servidor a energia solar que corre o novo *site*.  O controlador de carga solar (à direita) está a alimentar o servidor (à esquerda) através de um cabo USB.
 
 [Low-tech Magazine: Versão Kindle](https://solar.lowtechmagazine.com/offline-reading.html).
 
-A revista Low-tech Magazine nasceu em 2007 e, desde então, tem sofrido muito poucas mudanças. Como uma reformulação do website já devia ter sido feita há muito tempo — e porque tentamos praticar o que dizemos — decidimos construir uma versão de baixa tecnologia, self-hosted, e com energia solar da Low-tech Magazine. O nosso novo blog foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
+A revista Low-tech Magazine nasceu em 2007 e, desde então, tem sofrido muito poucas mudanças. Como uma reformulação do *website* já devia ter sido feita há muito tempo — e porque tentamos praticar o que dizemos — decidimos construir uma versão de baixa tecnologia, *self-hosted*, e com energia solar da Low-tech Magazine. O nosso novo blogue foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
 
-## Porquê um Site Low-tech?
+## Porquê um *Site Low-tech*?
 
-Foi-nos dito que a Internet iria ["desmaterializar" a sociedade e diminuir o uso de energia](https://www.bcg.com/publications/2012/energy-environment-technology-industries-smarter-2020-role-ict-driving-sustainable-future.aspx). Contrariamente a esta previsão, acabou por tornou-se um [grande consumidor de energia em rápido crescimento]({filename}/posts/can-the-internet-run-on-renewable-energy.md).
+Foi-nos dito que a *Internet* iria ["desmaterializar" a sociedade e diminuir o uso de energia](https://www.bcg.com/publications/2012/energy-environment-technology-industries-smarter-2020-role-ict-driving-sustainable-future.aspx). Contrariamente a esta previsão, acabou por tornou-se um [grande consumidor de energia em rápido crescimento]({filename}/posts/can-the-internet-run-on-renewable-energy.md).
 
-De forma a contrabalançar as consequências negativas associadas ao elevado consumo de energia, foi proposto o uso de energia renovável como meio de reduzir as emissões dos centros de processamento de dados. Por exemplo, o [relatório anual ClickClean](http://www.greenpeace.org/usa/global-warming/click-clean/) da Greenpeace classifica as principais empresas da Internet com base na sua utilização de fontes de energia renováveis.
+De forma a contrabalançar as consequências negativas associadas ao elevado consumo de energia, foi proposto o uso de energia renovável como meio de reduzir as emissões dos centros de processamento de dados. Por exemplo, o [relatório anual ClickClean](http://www.greenpeace.org/usa/global-warming/click-clean/) da Greenpeace classifica as principais empresas da *internet* com base na sua utilização de fontes de energia renováveis.
 
-No entanto, alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da Internet. Para começar, a Internet já utiliza três vezes mais energia do que todas as fontes de energia eólica e solar do mundo são capazes de fornecer.
+No entanto, alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da *Internet*. Para começar, a *Internet* já utiliza três vezes mais energia do que todas as fontes de energia eólica e solar do mundo são capazes de fornecer.
 
-> Alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da Internet.
+> Alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da *Internet*.
 
-Por último, a energia solar e eólica nem sempre estão disponíveis, o que significa que se a Internet funcionar com fontes de energia renováveis será necessária uma infra-estrutura de armazenamento e/ou transmissão de energia que também é [dependente de combustíveis fósseis para o seu fabrico e substituição]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Alimentar sites com energia renovável não é uma má ideia, no entanto, a tendência para o aumento da utilização de energia também deve ser abordada.
+Por último, a energia solar e eólica nem sempre estão disponíveis, o que significa que se a *Internet* funcionar com fontes de energia renováveis será necessária uma infra-estrutura de armazenamento e/ou transmissão de energia que também é [dependente de combustíveis fósseis para o seu fabrico e substituição]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Alimentar *sites* com energia renovável não é uma má ideia, no entanto, a tendência para o aumento da utilização de energia também deve ser abordada.
 
-Para começar, o conteúdo está a tornar-se cada vez mais exigente em termos de recursos. Isto tem muito a ver com a crescente importância de vídeos, mas uma tendência semelhante pode ser observada entre sites. O [tamanho médio de uma página web](https://httparchive.org/reports/page-weight) (definido como o tamanho médio de página dos 500.000 domínios mais populares) aumentou de 0,45 megabytes (MB) em 2010 para 1,7 MB em Junho de 2018. Para sites móveis, o "peso médio das páginas" aumentou dez vezes de 0,15 MB em 2011 para 1,6 MB em 2018. Utilizando diferentes métodos de medição, outras fontes informam tamanhos médios de página de até 2,9 MB em 2018.
+Para começar, o conteúdo está a tornar-se cada vez mais exigente em termos de recursos. Isto tem muito a ver com a crescente importância de vídeos, mas uma tendência semelhante pode ser observada entre *sites*. O [tamanho médio de uma página web](https://httparchive.org/reports/page-weight) (definido como o tamanho médio de página dos 500.000 domínios mais populares) aumentou de 0,45 megabytes (MB) em 2010 para 1,7 MB em Junho de 2018. Para *sites* móveis, o "peso médio das páginas" aumentou dez vezes de 0,15 MB em 2011 para 1,6 MB em 2018. Utilizando diferentes métodos de medição, outras fontes informam tamanhos médios de página de até 2,9 MB em 2018.
 
-O crescimento do tráfego de dados [tem superado os avanços na eficiência energética](https://www.researchgate.net/publication/224224694/download) (a energia necessária para transferir 1 MB de dados pela Internet), resultando numa utilização cada vez maior de energia. Os sites "mais pesados" ou "maiores" não só aumentam a utilização de energia na infra-estrutura da rede, como também encurtam a vida útil dos computadores — para aceder a websites maiores os computadores têm que ser mais potentes. Isto significa que é necessário fabricar mais computadores, o que é um [processo que requer muita energia]({nome do ficheiro}/pós/embodied-energy-of-digital-technology.md).
+O crescimento do tráfego de dados [tem superado os avanços na eficiência energética](https://www.researchgate.net/publication/224224694/download) (a energia necessária para transferir 1 MB de dados pela *internet*), resultando numa utilização cada vez maior de energia. Os *sites* "mais pesados" ou "maiores" não só aumentam a utilização de energia na infra-estrutura da rede, como também encurtam a vida útil dos computadores — para aceder a *websites* maiores os computadores têm que ser mais potentes. Isto significa que é necessário fabricar mais computadores, o que é um [processo que requer muita energia]({nome do ficheiro}/pós/embodied-energy-of-digital-technology.md).
 
+> Estar sempre *online* não é compatível com fontes de energia renovável tais como a energia eólica e solar, que nem sempre estão disponíveis.
 
+Uma segunda razão para o aumento do consumo de energia na *Internet* é que passamos cada vez mais tempo em *on-line*. Antes da chegada dos dispositivos portáteis e do acesso à rede sem fios, só estávamos ligados quando tínhamos acesso a um computador de secretária no escritório, em casa, ou na biblioteca. Agora vivemos num mundo em que não importa onde estejamos, estamos sempre *on-line*, incluindo, por vezes, através de mais do que um dispositivo em simultâneo.
 
+O acesso "sempre ligado" à *Internet* é acompanhado por um modelo de computação em nuvem — permitindo dispositivos mais eficientes em termos energéticos, à custa de uma maior utilização de energia nos centros de dados. Cada vez mais, actividades que poderiam perfeitamente acontecer *off-line* — tais como escrever um documento, preencher uma folha de cálculo, ou armazenar dados — requerem agora acesso contínuo à rede. Isto não é compatível com fontes de energia renováveis, tais como a energia eólica e solar, que nem sempre estão disponíveis.
 
+## *Low-tech Web Design*
 
+O nosso novo *web design* aborda estas duas questões. Graças a um *web design low-tech*, conseguimos diminuir o tamanho médio de uma página do blogue por um factor de cinco em comparação com o *design* antigo — tudo isto tornando o *website* visualmente mais atraente e adequado para dispositivos móveis.  Em segundo lugar, o nosso novo *website* funciona 100% a energia solar, não apenas no papel, mas na realidade: tem o seu próprio armazenamento de energia e ficará desligado durante longos períodos de tempo nublado.
 
+A *Internet* não é um ser autónomo. O seu crescente uso de energia é a [consequência de decisões reais](http://tonsky.me/blog/disenchantment/) feitas por criadores de *software*, *web designers*, departamentos de *marketing*, editores e utilizadores. Com um site a energia solar, leve e fora da rede, nós queremos mostrar que outras decisões podem ser tomadas.
 
-> Being always online doesn't combine well with renewable energy sources such as wind and solar power, which are not always available.
+> Com 36 dos cerca de 100 artigos agora *online*, o peso médio das páginas no *website* a energia solar é cerca de 5 vezes inferior ao do *design* anterior.
 
-A second reason for growing Internet energy consumption is that we spend more and more time on-line. Before the arrival of portable computing devices and wireless network access, we were only connected to the network when we had access to a desktop computer in the office, at home, or in the library. We now live in a world in which no matter where we are, we are always on-line, including, at times, via more than one device simultaneously.
-
-“Always-on” Internet access is accompanied by a cloud computing model – allowing more energy efficient user devices at the expense of increased energy use in data centers. Increasingly, activities that could perfectly happen off-line – such as writing a document, filling in a spreadsheet, or storing data – are now requiring continuous network access. This does not combine well with renewable energy sources such as wind and solar power, which are not always available.
-
-## Low-tech Web Design
-
-Our new web design addresses both these issues. Thanks to a low-tech web design, we managed to decrease the average page size of the blog by a factor of five compared to the old design – all while making the website visually more attractive (and mobile-friendly). Secondly, our new website runs 100% on solar power, not just in words, but in reality: it has its own energy storage and will go off-line during longer periods of cloudy weather.
-
-The Internet is not an autonomous being. Its growing energy use is the [consequence of actual decisions](http://tonsky.me/blog/disenchantment/) made by software developers, web designers, marketing departments, publishers and internet users. With a lightweight, off-the-grid solar-powered website, we want to show that other decisions can be made.
-
-> With 36 of roughly 100 articles now online, the average page weight on the solar powered website is roughly five times below that of the previous design.
-
-To start with, the new website design reverses the trend towards increasingly larger page sizes. With 36 of roughly 100 articles now online, the average page weight on the solar powered website is 0.77 MB — roughly five times below that of the previous design, and less than half the average page size of the 500,000 most popular blogs in June 2018. 
+Para começar, o novo design do *website* inverte a tendência para páginas cada vez maiores. Com 36 dos cerca de 100 artigos agora *online*, o peso médio das páginas no *website* a energia solar é de 0,77 MB — cerca de cinco vezes inferior ao do design anterior, e menos de metade do tamanho médio das 500 mil páginas dos blogues mais populares em Junho de 2018. 
 
 ![image](/images/9801a71c-bdae-4732-9ad7-b45d26897a32.jpg)
 
 ![image](/images/0103010d-26e1-48e6-a7c1-21d0dd355b1a.jpg)
-A web page speed test from the old and the new Low-tech Magazine. Page size has decreased more than sixfold, number of requests has decreased fivefold, and download speed has increased tenfold. Note that we did not design the website for speed, but for low energy use. It would be faster still if the server would be placed in a data center and/or in a more central location in the Internet infrastructure. Source: Pingdom.
 
-Below are some of the design decisions we made to reduce energy use. We have published a [separate document that focuses on the front-end efforts](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), and one [that focuses on the back-end](https://homebrewserver.club/low-tech-website-howto.html#software). We have also [released the source code for our website design](https://github.com/lowtechmag/solar).
+Um teste de velocidade da antiga e da nova Low-tech Magazine. O tamanho da página diminuiu mais de seis vezes, o número de pedidos cinco vezes, e a velocidade de *download* aumentou dez vezes. Note-se que não concebemos a página *web* para velocidade, mas para baixo consumo de energia. Seria ainda mais rápido se o servidor fosse colocado num centro de dados e/ou numa localização mais central na infra-estrutura da *Internet*. Fonte: Pingdom.
 
-## Static Site
+Abaixo estão algumas das decisões de *design* que tomámos para reduzir o consumo de energia. Publicámos um [documento separado que se foca nos esforços de *front-end*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), e um [que se foca nos esforços de *back-end*](https://homebrewserver.club/low-tech-website-howto.html#software). Também [divulgámos o código para o *design* do nosso website](https://github.com/lowtechmag/solar).
 
-One of the fundamental choices we made was to build a static website. Most of today’s websites use server side programming languages that generate the website on the fly by querying a database. This means that every time someone visits a web page, it is generated on demand.
+## *Site* estático
 
-On the other hand, a static website is [generated once and exists as a simple set of documents on the server’s hard disk](https://varia.zone/en/what-a-website-can-be.html). It's always there -- not just when someone visits the page. Static websites are thus based on file storage whereas dynamic websites depend on recurrent computation. Static websites consequently require less processing power and thus less energy.
+Uma das escolhas fundamentais que fizemos foi construir um *website* estático. A maioria dos *websites* actuais utiliza linguagens de programação do lado do servidor que geram o *website* em tempo real, consultando uma base de dados. Isto uma página *web* tem que ser gerada cada vez que alguém visita o *site.*
 
-The choice for a static site enables the possibility of serving the site in an economic manner from our home office in Barcelona. Doing the same with a database-driven website would be nearly impossible, because it would require too much energy. It would also be a big security risk. Although a web server with a static site can be hacked, there are significantly less attack routes and the damage is more easily repaired.
+Por outro lado, um *website* estático é [gerado uma vez e existe como um simples conjunto de documentos no disco rígido do servidor](https://varia.zone/en/what-a-website-can-be.html). Está sempre lá — e não apenas quando alguém visita a página. Os *websites* estáticos baseiam-se assim no armazenamento de ficheiros, enquanto que os *websites* dinâmicos dependem de cálculos recorrentes. Os *websites* estáticos requerem consequentemente menos poder de processamento e, portanto, menos energia.
 
-## Dithered Images
+A escolha de um *site* estático permite servir-lo de uma forma económica a partir do nosso escritório em Barcelona. Fazer o mesmo com um *website* derivado de uma base de dados seria quase impossível, porque exigiria demasiada energia. Seria também um grande risco de segurança. Embora um servidor *web* com um *site* estático possa ser pirateado, existem significativamente menos rotas de ataque e os danos são mais facilmente reparados.
 
-The main challenge was to reduce page size without making the website less attractive. Because images take up most of the bandwidth, it would be easy to obtain very small page sizes and lower energy use by eliminating images, reducing their number, or making them much smaller. However, visuals are an important part of Low-tech Magazine’s appeal, and the website would not be the same without them.
+## Imagens com *Dither*
 
-> By dithering, we can make images ten times less resource-intensive, even though they are displayed much larger than on the old website.
+O principal desafio foi reduzir o tamanho das páginas sem tornar o *site* menos atraente. Como as imagens ocupam a maior parte da largura de banda, seria fácil ter páginas pequenas e menor utilização de energia, eliminando imagens, reduzindo o seu número, ou tornando-as muito mais pequenas. Contudo, as imagens são uma parte importante do apelo da revista Low-tech Magazine, e o *website* não seria o mesmo sem elas.
 
-Instead, we chose to apply an obsolete image compression technique called “dithering”. The number of colours in an image, combined with its file format and resolution, contributes to the size of an image. Thus, instead of using full-colour high-resolution images, we chose to convert all images to black and white, with four levels of grey in-between.
+> Ao aplicarmos *dithering*, podemos fazer imagens que requerem dez vezes menos recursos, mesmo que sejam apresentadas muito maiores do que no antigo *website*.
+
+Em vez disso, escolhemos aplicar uma técnica de compressão de imagem obsoleta chamada *dithering*. O número de cores numa imagem, combinado com o seu formato de ficheiro e resolução, contribui para o tamanho de uma imagem. Assim, em vez de utilizarmos imagens a cores de alta resolução, escolhemos converter todas as imagens para preto e branco, com quatro níveis intermédios de cinzento.
 
 ![image](/images/600px-A20-OLinuXino-LIME2.jpg)
-A dithered image of our server.
+Uma imagem com *dither* do nosso servidor.
 
-These black-and-white images are then coloured according to the pertaining content category via the browser’s native image manipulation capacities. Compressed through this dithering plugin, images featured in the articles add much less load to the content: compared to the old website, the images are roughly ten times less resource-intensive.
+Estas imagens a preto e branco são depois coloridas de acordo com a respectiva categoria de conteúdo através das capacidades de manipulação nativa de imagens do *browser*. Comprimidas através deste *plugin* de *dithering*, as imagens apresentadas nos artigos adicionam muito menos peso ao conteúdo: em comparação com o antigo *website*, as imagens consomem aproximadamente dez vezes menos recursos.
 
-## Default typeface / No logo
+## Fonte tipográfica Padrão / Sem Logo
 
-All resources loaded, including typefaces and logos, are an additional request to the server, requiring storage space and energy use. Therefore, our new website does not load a custom typeface and removes the font-family declaration, meaning that visitors will see the default typeface of their browser. 
+Todos os recursos carregados, incluindo fontes tipográficas e logótipos, são um pedido adicional ao servidor, exigindo espaço de armazenamento e utilização de energia. Portanto, o nosso novo website não carrega nenhum tipo de letra personalizado e remove a declaração de fonte-família, o que significa que os visitantes verão o tipo de letra padrão do seu *browser*. 
 
-We use a similar approach for the logo. In fact, Low-tech Magazine never had a real logo, just a banner image of a spear held as a low-tech weapon against prevailing high-tech claims.
+Utilizamos uma abordagem semelhante para o logótipo. De facto, a revista Low-tech Magazine nunca teve um, apenas uma imagem de banner de uma lança segurada como uma arma de baixa tecnologia contra as reivindicações de alta tecnologia prevalecentes.
 
-Instead of a designed logotype, which would require the production and distribution of custom typefaces and imagery, Low-tech Magazine’s new identity consists of a single typographic move: to use the left-facing arrow in place of the hypen in the blog’s name: LOW←TECH MAGAZINE.
+Em vez de um logótipo, que exigiria a produção e distribuição de tipografias e imagens personalizadas, a nova identidade da Low-tech Magazine consiste num único gesto tipográfico: utilizar a seta virada para a esquerda no lugar do hífen no nome do blog: LOW←TECH MAGAZINE.
 
 ## No Third-Party Tracking, No Advertising Services, No Cookies
 
