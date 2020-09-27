@@ -1,4 +1,4 @@
-Title: Como Construir um *Site* *Low-tech*?
+Title: Como construir um *site* *low-tech*?
 Date: 2018-9-24
 Category: Low-tech Solutions
 Tags: ICT, Solar Powered Website
@@ -15,9 +15,9 @@ O primeiro protótipo do servidor a energia solar que corre o novo *site*.  O co
 
 [Low-tech Magazine: Versão Kindle](https://solar.lowtechmagazine.com/offline-reading.html).
 
-A revista Low-tech Magazine nasceu em 2007 e, desde então, tem sofrido muito poucas mudanças. Como uma reformulação do *website* já devia ter sido feita há muito tempo — e porque tentamos praticar o que dizemos — decidimos construir uma versão de baixa tecnologia, *self-hosted*, e com energia solar da Low-tech Magazine. O nosso novo blogue foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
+A revista Low-tech Magazine nasceu em 2007 e, desde então, tem sofrido muito poucas mudanças. Como uma reformulação do *website* já devia ter sido feita há muito tempo — e porque tentamos praticar o que dizemos — decidimos construir uma versão de baixa tecnologia, auto-hospedada, e a energia solar da Low-tech Magazine. O nosso novo blogue foi concebido para reduzir radicalmente o uso de energia associado à consulta do nosso conteúdo.
 
-## Porquê um *Site Low-tech*?
+## Porquê um *site* *low-tech*?
 
 Foi-nos dito que a *Internet* iria ["desmaterializar" a sociedade e diminuir o uso de energia](https://www.bcg.com/publications/2012/energy-environment-technology-industries-smarter-2020-role-ict-driving-sustainable-future.aspx). Contrariamente a esta previsão, acabou por tornou-se um [grande consumidor de energia em rápido crescimento]({filename}/posts/can-the-internet-run-on-renewable-energy.md).
 
@@ -39,7 +39,7 @@ Uma segunda razão para o aumento do consumo de energia na *Internet* é que pas
 
 O acesso "sempre ligado" à *Internet* é acompanhado por um modelo de computação em nuvem — permitindo dispositivos mais eficientes em termos energéticos, à custa de uma maior utilização de energia nos centros de dados. Cada vez mais, actividades que poderiam perfeitamente acontecer *off-line* — tais como escrever um documento, preencher uma folha de cálculo, ou armazenar dados — requerem agora acesso contínuo à rede. Isto não é compatível com fontes de energia renováveis, tais como a energia eólica e solar, que nem sempre estão disponíveis.
 
-## *Low-tech Web Design*
+## *Low-tech web design*
 
 O nosso novo *web design* aborda estas duas questões. Graças a um *web design low-tech*, conseguimos diminuir o tamanho médio de uma página do blogue por um factor de cinco em comparação com o *design* antigo — tudo isto tornando o *website* visualmente mais atraente e adequado para dispositivos móveis.  Em segundo lugar, o nosso novo *website* funciona 100% a energia solar, não apenas no papel, mas na realidade: tem o seu próprio armazenamento de energia e ficará desligado durante longos períodos de tempo nublado.
 
@@ -65,7 +65,7 @@ Por outro lado, um *website* estático é [gerado uma vez e existe como um simpl
 
 A escolha de um *site* estático permite servir-lo de uma forma económica a partir do nosso escritório em Barcelona. Fazer o mesmo com um *website* derivado de uma base de dados seria quase impossível, porque exigiria demasiada energia. Seria também um grande risco de segurança. Embora um servidor *web* com um *site* estático possa ser pirateado, existem significativamente menos rotas de ataque e os danos são mais facilmente reparados.
 
-## Imagens com *Dither*
+## Imagens com *dither*
 
 O principal desafio foi reduzir o tamanho das páginas sem tornar o *site* menos atraente. Como as imagens ocupam a maior parte da largura de banda, seria fácil ter páginas pequenas e menor utilização de energia, eliminando imagens, reduzindo o seu número, ou tornando-as muito mais pequenas. Contudo, as imagens são uma parte importante do apelo da revista Low-tech Magazine, e o *website* não seria o mesmo sem elas.
 
@@ -78,61 +78,67 @@ Uma imagem com *dither* do nosso servidor.
 
 Estas imagens a preto e branco são depois coloridas de acordo com a respectiva categoria de conteúdo através das capacidades de manipulação nativa de imagens do *browser*. Comprimidas através deste *plugin* de *dithering*, as imagens apresentadas nos artigos adicionam muito menos peso ao conteúdo: em comparação com o antigo *website*, as imagens consomem aproximadamente dez vezes menos recursos.
 
-## Fonte tipográfica Padrão / Sem Logo
+## Fonte tipográfica padrão / Sem logo
 
 Todos os recursos carregados, incluindo fontes tipográficas e logótipos, são um pedido adicional ao servidor, exigindo espaço de armazenamento e utilização de energia. Portanto, o nosso novo website não carrega nenhum tipo de letra personalizado e remove a declaração de fonte-família, o que significa que os visitantes verão o tipo de letra padrão do seu *browser*. 
 
 Utilizamos uma abordagem semelhante para o logótipo. De facto, a revista Low-tech Magazine nunca teve um, apenas uma imagem de banner de uma lança segurada como uma arma de baixa tecnologia contra as reivindicações de alta tecnologia prevalecentes.
 
-Em vez de um logótipo, que exigiria a produção e distribuição de tipografias e imagens personalizadas, a nova identidade da Low-tech Magazine consiste num único gesto tipográfico: utilizar a seta virada para a esquerda no lugar do hífen no nome do blog: LOW←TECH MAGAZINE.
+Em vez de um logótipo, que exigiria a produção e distribuição de tipografias e imagens personalizadas, a nova identidade da Low-tech Magazine consiste num único gesto tipográfico: utilizar a seta virada para a esquerda no lugar do hífen no nome do blogue: LOW←TECH MAGAZINE.
 
-## No Third-Party Tracking, No Advertising Services, No Cookies
+## Sem rastreio de terceiros, sem serviços de publicidade, sem cookies
 
-Web analysis software such as Google Analytics records what happens on a website — which pages are most viewed, where visitors come from, and so on. These services are popular because few people host their own website. However, exchanging these data between the server and the computer of the webmaster generates extra data traffic and thus energy use.
+*Software* de análise como o Google Analytics regista o que acontece num *website* — que páginas são mais vistas, de onde vêm os visitantes, e assim por diante. Estes serviços são populares porque poucas pessoas hospedam o seu próprio *website*. Contudo, o intercâmbio destes dados entre o servidor e o computador do *webmaster* gera tráfego de dados extra e, portanto, utilização de energia.
 
-With a self-hosted server, we can make and view these measurements on the same machine: every web server generates logs of what happens on the computer. These (anonymous) logs are only viewed by us and are not used to profile visitors.
+Com um servidor auto-hospedado, podemos fazer e visualizar estas medições no mesmo aparelho: cada servidor gera registos do que acontece no computador. Estes registos (anónimos) são apenas vistos por nós e não são usados para criar perfis de visitantes.
 
-> With a self-hosted server, there's no need for third-party tracking and cookies.
+> Com um servidor auto-hospedado, não há necessidade de rastreio e *cookies* de terceiros.
 
-Low-tech Magazine has been running Google Adsense advertisements since the beginning in 2007. Although these are an important financial resource to maintain the blog, they have two important downsides. The first is energy use: advertising services raise data traffic and thus energy use.
+A Low-tech Magazine tem usado anúncios da Google Adsense desde o início de 2007. Embora estes sejam um recurso financeiro importante para a manutenção do blogue, têm dois aspetos negativos importantes. O primeira é o uso de energia: serviços de publicidade aumentam o tráfego de dados e, consequentemente, o uso de energia.
 
-Secondly, Google collects information from the blog’s visitors, which forces us to craft extensive privacy statements and cookie warnings — which also consume data, and annoy visitors. Therefore, we replace Adsense by other financing options (read more below). We use no cookies at all.
+Em segundo lugar, a Google recolhe informações dos visitantes do blogue, o que nos obriga a elaborar extensas declarações de privacidade e avisos de *cookies* — que também consomem dados, e incomodam os visitantes. Sendo assim, substituímos o Adsense por outras opções de financiamento (leia mais abaixo). Não utilizamos *cookies* de todo.
 
-## How often will the website be off-line? 
+## Com que frequência estará o *site* *off-line*?
 
-Quite a few web hosting companies claim that their servers are running on renewable energy. However, even when they actually generate solar power on-site, and do not merely “offset” fossil fuel power use by planting trees or the like, their websites are always on-line.
+Muitas empresas de alojamento *web* afirmam que os seus servidores estão a funcionar com energia renovável. No entanto, mesmo quando estas geram a energia solar localmente e não se limitam a "compensar" a utilização de energia fóssil através da plantação de árvores ou afins, os seus websites estão sempre *on-line*.
 
-This means that either they have a giant battery storage system on-site (which makes their power system unsustainable), or that they are relying on grid power when there is a shortage of solar power (which means that they do not really run on 100% solar power).
+Isto significa que ou têm um enorme sistema de armazenamento de energia local (o que torna o seu sistema energético insustentável), ou que dependem da rede elétrica quando há falta de energia solar (o que significa que não funcionam realmente a 100% de energia solar).
 
 ![The 50W panel, on top of it is a 10W panel of a previously built off-grid lighting system.](/images/sps_panel.jpg)
-The 50W solar PV panel. On top of it is a 10W panel powering a lighting system.
+O painel solar fotovoltaico  de 50W. Em cima dele está um painel de 10W que alimenta um sistema de iluminação.
 
-In contrast, this website runs on an off-the-grid solar power system with its own energy storage, and will go off-line during longer periods of cloudy weather. Less than 100% reliability is essential for the sustainability of an off-the-grid solar system, because above a certain threshold the fossil fuel energy used for producing and replacing the batteries is higher than the fossil fuel energy saved by the solar panels.
+Pelo contrário, este *website* funciona com um sistema de energia solar fora da rede com o seu próprio sistema de armazenamento de energia, e ficará *off-line* durante longos períodos mais longos de tempo nublado. Uma fiabilidade inferior a 100% é essencial para a sustentabilidade de um sistema solar fora de rede, porque acima de um certo nível a energia de combustíveis fosseis usada para produzir e substituir as baterias é superior à poupada pelos painéis solares.
 
-How often the website will be off-line remains to be seen. The web server is now powered by a new 50 Wp solar panel and a two year old 12V 7Ah lead-acid battery. Because the solar panel is shaded during the morning, it receives direct sunlight for only 4 to 6 hours per day. Under optimal conditions, the solar panel thus generates 6 hours x 50 watt = 300 Wh of electricity.
+Ainda está para se ver com que frequência o *website* vai ficar *off-line*. O servidor *web* é alimentado por um painel solar novo de 50W e uma bateria chumbo-ácido de 12V 7Ah com dois anos. Como o painel solar fica à sombra durante a manhã, só recebe luz solar direta durante 4 a 6 horas por dia. Em condições óptimas, o painel solar gera assim 6 horas x 50 W = 300 Wh de electricidade.
 
-The web server uses between 1 and 2.5 watts of power (depending on the number of visitors), meaning that it requires between 24 Wh and 60 Wh of electricity per day. Under optimal conditions, we should thus have sufficient energy to keep the web server running for 24 hours per day. Excess energy production can be used for household applications.
+O servidor *web* usa entre 1 a 2.5 W (dependendo do número de visitantes), o que significa que requer entre 24 Wh e 60 Wh de electricidade por dia. Em condições óptimas, devemos assim ter energia suficiente para manter o servidor *web* a funcionar durante 24 horas por dia. O excesso de produção de energia pode ser utilizado para aplicações domésticas.
 
-> We expect to keep the website on-line during one or two days of bad weather, after which it will go off-line.
+> Esperamos manter o *website* *online* durante um ou dois dias de maus tempo, mais do que isso e ficará *off-line*.
 
-However, during cloudy days, especially in winter, daily energy production could be as low as 4 hours x 10 watts = 40 watt-hours per day, while the server requires beteen 24 and 60 Wh per day. The battery storage is roughly 40 Wh, taking into account 30% of charging and 33% depth-or-discharge (the solar charge controller shuts the system down when battery voltage drops to 12V).
+No entanto, durante dias nublados, especialmente no Inverno, a produção diária de energia poderá ser tão baixa como 4 horas x 10 W = 40 Wh por dia, enquanto que o servidor necessita de 24 e 60 Wh por dia. O armazenamento da bateria é de cerca de 40 Wh, tendo em conta 30% de carga e 33% de profundidade ou descarga (o controlador de carga solar desliga o sistema quando a tensão da bateria cai para 12V).
 
-Consequently, the solar powered server will remain on-line during one or two days of bad weather, but not for longer. However, these are estimations, and we may add a second 7 Ah battery in autumn if this is necessary. We aim for an "uptime" of 90%, meaning that the website will be off-line for an average of 35 days per year. 
+Consequentemente, o servidor a energia solar permanecerá *on-line* durante um ou dois dias de mau tempo, mas não por mais tempo. Contudo, estas são estimativas, e podemos acrescentar uma segunda bateria de 7 Ah no Outono, se for necessário. O nosso objectivo é um "tempo de funcionamento" de 90%, o que significa que o *website* ficará fora de funcionamento durante uma média de 35 dias por ano.
 
 ![The 35Wh lead-acid battery and 30Wh Li-Po batteries that power the server.](/images/sps_bats.jpg)
-First prototype with lead-acid battery (12V 7Ah) on the left, and Li-Po UPS battery (3,7V 6600mA) on the right. The lead-acid battery provides the bulk of the energy storage, while the Li-Po battery allows the server to shut down without damaging the hardware (it will be replaced by a much smaller Li-Po battery).
+Primeiro protótipo com bateria chumbo-ácido (12V 7Ah) à esquerda, e bateria UPS Li-Po (3,7V 6600mA) à direita. A bateria chumbo-ácido fornece a maior parte do armazenamento de energia, enquanto a bateria Li-Po permite que o servidor se desligue sem danificar o hardware (será substituída por uma bateria Li-Po muito mais pequena).
 
-## When is the best time to visit?
+## Quando é a melhor altura para visitar?
 
-The accessibility of this website depends on the weather in Barcelona, Spain, where the solar-powered web server is located. To help visitors “plan” their visits to Low-tech Magazine, we provide them with several clues.
+A acessibilidade deste *website* depende do estado do tempo em Barcelona, Espanha, onde se encontra o servidor a energia solar. Para ajudar os visitantes a "planear" as suas visitas à Low-tech Magazine, fornecemos-lhes várias pistas.
 
-> To help visitors “plan” their visits to Low-tech Magazine, we provide them with several clues.
+> Para ajudar os visitantes a "planear" as suas visitas à Low-tech Magazine, fornecemos-lhes várias pistas.
 
-A battery meter provides crucial information because it may tell the visitor that the blog is about to go down -- or that it's "safe" to read it. The design features a background colour that indicates the capacity of the solar-charged battery that powers the website server. A decreasing height indicates that night has fallen or that the weather is bad.
+Um nível de bateria fornece informação crucial porque pode dizer ao visitante que o blogue está prestes a ficar inacessível — ou que é “seguro” lê-lo.  O *design* consiste numa cor fundo que indica a capacidade da bateria carregada a energia solar que alimenta o servidor do *website*. Um decréscimo na altura do fundo colorido indica que é de noite ou está mau tempo.
 
-In addition to the battery level, other information about the website server is visible with a statistics dashboard. This includes contextual information of the server’s location: time, current sky conditions, upcoming forecast, and the duration since the server last shut down due to insufficient power.
+Para além do nível da bateria, outras informações sobre o servidor são visíveis num painel do *website*. Isto inclui informação contextual da localização do servidor, hora, condições meteorológicas actuais e previsões, e a duração desde a última vez que o servidor foi desligado devido a falta de energia.
 
-Update April 2019: To access Low-tech Magazine no matter the weather, we have [several offline reading options available](https://solar.lowtechmagazine.com/offline-reading.html). For example, we offer a [710-page perfect-bound paperback which contains 37 of the most recent articles from the website](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 to 2018). A second volume, collecting articles published between 2007 and 2011, will appear later this year. The books are based on the same electronic documents that make up the solar powered website.
+Actualização Abril de 2019: Para aceder à Low-tech, independentemente do estado do tempo, temos [várias opções de leitura *offline* disponíveis](https://solar.lowtechmagazine.com/offline-reading.html). Por exemplo, oferecemos uma [brochura encadernada de 710 páginas que contém 37 dos artigos mais recentes do website](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 a 2018). Um segundo volume, que recolhe artigos publicados entre 2007 e 2011, será publicado ainda este ano. Os livros são baseados nos mesmos documentos electrónicos que compõem o *website* a energia solar.
+
+
+
+
+
+
 
 ## Hardware and Software
 
