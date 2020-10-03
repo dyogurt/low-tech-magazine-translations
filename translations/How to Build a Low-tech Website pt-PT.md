@@ -19,15 +19,15 @@ A revista Low-tech Magazine nasceu em 2007 e, desde então, tem sofrido muito po
 
 ## Porquê um *site* *low-tech*?
 
-Foi-nos dito que a *Internet* iria ["desmaterializar" a sociedade e diminuir o uso de energia](https://www.bcg.com/publications/2012/energy-environment-technology-industries-smarter-2020-role-ict-driving-sustainable-future.aspx). Contrariamente a esta previsão, acabou por tornou-se um [grande consumidor de energia em rápido crescimento]({filename}/posts/can-the-internet-run-on-renewable-energy.md).
+Foi-nos dito que a Internet iria ["desmaterializar" a sociedade e diminuir o uso de energia](https://www.bcg.com/publications/2012/energy-environment-technology-industries-smarter-2020-role-ict-driving-sustainable-future.aspx). Contrariamente a esta previsão, acabou por tornou-se um [grande consumidor de energia em rápido crescimento]({filename}/posts/can-the-internet-run-on-renewable-energy.md).
 
 De forma a contrabalançar as consequências negativas associadas ao elevado consumo de energia, foi proposto o uso de energia renovável como meio de reduzir as emissões dos centros de processamento de dados. Por exemplo, o [relatório anual ClickClean](http://www.greenpeace.org/usa/global-warming/click-clean/) da Greenpeace classifica as principais empresas da *internet* com base na sua utilização de fontes de energia renováveis.
 
-No entanto, alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da *Internet*. Para começar, a *Internet* já utiliza três vezes mais energia do que todas as fontes de energia eólica e solar do mundo são capazes de fornecer.
+No entanto, alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da Internet. Para começar, a Internet já utiliza três vezes mais energia do que todas as fontes de energia eólica e solar do mundo são capazes de fornecer.
 
-> Alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da *Internet*.
+> Alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da Internet.
 
-Por último, a energia solar e eólica nem sempre estão disponíveis, o que significa que se a *Internet* funcionar com fontes de energia renováveis será necessária uma infra-estrutura de armazenamento e/ou transmissão de energia que também é [dependente de combustíveis fósseis para o seu fabrico e substituição]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Alimentar *sites* com energia renovável não é uma má ideia, no entanto, a tendência para o aumento da utilização de energia também deve ser abordada.
+Por último, a energia solar e eólica nem sempre estão disponíveis, o que significa que se a Internet funcionar com fontes de energia renováveis será necessária uma infra-estrutura de armazenamento e/ou transmissão de energia que também é [dependente de combustíveis fósseis para o seu fabrico e substituição]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Alimentar *sites* com energia renovável não é uma má ideia, no entanto, a tendência para o aumento da utilização de energia também deve ser abordada.
 
 Para começar, o conteúdo está a tornar-se cada vez mais exigente em termos de recursos. Isto tem muito a ver com a crescente importância de vídeos, mas uma tendência semelhante pode ser observada entre *sites*. O [tamanho médio de uma página web](https://httparchive.org/reports/page-weight) (definido como o tamanho médio de página dos 500.000 domínios mais populares) aumentou de 0,45 megabytes (MB) em 2010 para 1,7 MB em Junho de 2018. Para *sites* móveis, o "peso médio das páginas" aumentou dez vezes de 0,15 MB em 2011 para 1,6 MB em 2018. Utilizando diferentes métodos de medição, outras fontes informam tamanhos médios de página de até 2,9 MB em 2018.
 
@@ -35,15 +35,15 @@ O crescimento do tráfego de dados [tem superado os avanços na eficiência ener
 
 > Estar sempre *online* não é compatível com fontes de energia renovável tais como a energia eólica e solar, que nem sempre estão disponíveis.
 
-Uma segunda razão para o aumento do consumo de energia na *Internet* é que passamos cada vez mais tempo em *on-line*. Antes da chegada dos dispositivos portáteis e do acesso à rede sem fios, só estávamos ligados quando tínhamos acesso a um computador de secretária no escritório, em casa, ou na biblioteca. Agora vivemos num mundo em que não importa onde estejamos, estamos sempre *on-line*, incluindo, por vezes, através de mais do que um dispositivo em simultâneo.
+Uma segunda razão para o aumento do consumo de energia na Internet é que passamos cada vez mais tempo em *on-line*. Antes da chegada dos dispositivos portáteis e do acesso à rede sem fios, só estávamos ligados quando tínhamos acesso a um computador de secretária no escritório, em casa, ou na biblioteca. Agora vivemos num mundo em que não importa onde estejamos, estamos sempre *on-line*, incluindo, por vezes, através de mais do que um dispositivo em simultâneo.
 
-O acesso "sempre ligado" à *Internet* é acompanhado por um modelo de computação em nuvem — permitindo dispositivos mais eficientes em termos energéticos, à custa de uma maior utilização de energia nos centros de dados. Cada vez mais, actividades que poderiam perfeitamente acontecer *off-line* — tais como escrever um documento, preencher uma folha de cálculo, ou armazenar dados — requerem agora acesso contínuo à rede. Isto não é compatível com fontes de energia renováveis, tais como a energia eólica e solar, que nem sempre estão disponíveis.
+O acesso "sempre ligado" à Internet é acompanhado por um modelo de computação em nuvem — permitindo dispositivos mais eficientes em termos energéticos, à custa de uma maior utilização de energia nos centros de dados. Cada vez mais, actividades que poderiam perfeitamente acontecer *off-line* — tais como escrever um documento, preencher uma folha de cálculo, ou armazenar dados — requerem agora acesso contínuo à rede. Isto não é compatível com fontes de energia renováveis, tais como a energia eólica e solar, que nem sempre estão disponíveis.
 
 ## *Low-tech web design*
 
 O nosso novo *web design* aborda estas duas questões. Graças a um *web design low-tech*, conseguimos diminuir o tamanho médio de uma página do blogue por um factor de cinco em comparação com o *design* antigo — tudo isto tornando o *website* visualmente mais atraente e adequado para dispositivos móveis.  Em segundo lugar, o nosso novo *website* funciona 100% a energia solar, não apenas no papel, mas na realidade: tem o seu próprio armazenamento de energia e ficará desligado durante longos períodos de tempo nublado.
 
-A *Internet* não é um ser autónomo. O seu crescente uso de energia é a [consequência de decisões reais](http://tonsky.me/blog/disenchantment/) feitas por criadores de *software*, *web designers*, departamentos de *marketing*, editores e utilizadores. Com um site a energia solar, leve e fora da rede, nós queremos mostrar que outras decisões podem ser tomadas.
+A Internet não é um ser autónomo. O seu crescente uso de energia é a [consequência de decisões reais](http://tonsky.me/blog/disenchantment/) feitas por criadores de *software*, *web designers*, departamentos de *marketing*, editores e utilizadores. Com um site a energia solar, leve e fora da rede, nós queremos mostrar que outras decisões podem ser tomadas.
 
 > Com 36 dos cerca de 100 artigos agora *online*, o peso médio das páginas no *website* a energia solar é cerca de 5 vezes inferior ao do *design* anterior.
 
@@ -53,7 +53,7 @@ Para começar, o novo design do *website* inverte a tendência para páginas cad
 
 ![image](/images/0103010d-26e1-48e6-a7c1-21d0dd355b1a.jpg)
 
-Um teste de velocidade da antiga e da nova Low-tech Magazine. O tamanho da página diminuiu mais de seis vezes, o número de pedidos cinco vezes, e a velocidade de *download* aumentou dez vezes. Note-se que não concebemos a página *web* para velocidade, mas para baixo consumo de energia. Seria ainda mais rápido se o servidor fosse colocado num centro de dados e/ou numa localização mais central na infra-estrutura da *Internet*. Fonte: Pingdom.
+Um teste de velocidade da antiga e da nova Low-tech Magazine. O tamanho da página diminuiu mais de seis vezes, o número de pedidos cinco vezes, e a velocidade de *download* aumentou dez vezes. Note-se que não concebemos a página *web* para velocidade, mas para baixo consumo de energia. Seria ainda mais rápido se o servidor fosse colocado num centro de dados e/ou numa localização mais central na infra-estrutura da Internet. Fonte: Pingdom.
 
 Abaixo estão algumas das decisões de *design* que tomámos para reduzir o consumo de energia. Publicámos um [documento separado que se foca nos esforços de *front-end*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), e um [que se foca nos esforços de *back-end*](https://homebrewserver.club/low-tech-website-howto.html#software). Também [divulgámos o código para o *design* do nosso website](https://github.com/lowtechmag/solar).
 
@@ -132,54 +132,48 @@ Um nível de bateria fornece informação crucial porque pode dizer ao visitante
 
 Para além do nível da bateria, outras informações sobre o servidor são visíveis num painel do *website*. Isto inclui informação contextual da localização do servidor, hora, condições meteorológicas actuais e previsões, e a duração desde a última vez que o servidor foi desligado devido a falta de energia.
 
-Actualização Abril de 2019: Para aceder à Low-tech, independentemente do estado do tempo, temos [várias opções de leitura *offline* disponíveis](https://solar.lowtechmagazine.com/offline-reading.html). Por exemplo, oferecemos uma [brochura encadernada de 710 páginas que contém 37 dos artigos mais recentes do website](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 a 2018). Um segundo volume, que recolhe artigos publicados entre 2007 e 2011, será publicado ainda este ano. Os livros são baseados nos mesmos documentos electrónicos que compõem o *website* a energia solar.
+Actualização de Abril de 2019: Para aceder à Low-tech, independentemente do estado do tempo, temos [várias opções de leitura *offline* disponíveis](https://solar.lowtechmagazine.com/offline-reading.html). Por exemplo, oferecemos uma [brochura encadernada de 710 páginas que contém 37 dos artigos mais recentes do website](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 a 2018). Um segundo volume, que recolhe artigos publicados entre 2007 e 2011, será publicado ainda este ano. Os livros são baseados nos mesmos documentos electrónicos que compõem o *website* a energia solar.
 
+## *Hardware* e *Software*
 
+Escrevemos dois artigos extra com informação técnica mais aprofundada: [Como construir um *website* *low-tech*: *software* e *hardware*](https://homebrewserver.club/low-tech-website-howto.html), que se concentra no *back-end*, e [Como construir um website *low-tech*: Técnicas e Processo de *Design*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), que se concentra no *front-end*.
 
+SERVIDOR: Este *website* funciona num [computador Olimex A20](https://homebrewserver.club/low-tech-website-howto.html#server). Tem 2 Ghz de poder de processamento, 1 GB de RAM, e 16 GB de armazenamento. O servidor consome 1–2,5 watts de potência.
 
+*SOFTWARE* DO SERVIDOR : O servidor corre Armbian Stretch, um sistema operativo baseado em Debian construído em torno do *kernel* SUNXI. Nós escrevemos [documentação técnica sobre como configurar o servidor](https://homebrewserver.club/low-tech-website-howto.html#configuring-the-webserver). 
 
+*SOFTWARE* DE *DESIGN*: O *website* foi construído com [Pelican](https://blog.getpelican.com/), um gerador de *sites* estáticos. [Partilhámos o código para 'solar', o tema Pelican que desenvolvemos aqui](https://github.com/lowtechmag/solar).
 
+LIGAÇÃO À INTERNET. O servidor está ligado a uma ligação de 100 MBps à Internet por fibra. [Eis como configurámos o router](https://homebrewserver.club/low-tech-website-howto.html#network). Por agora, o router é alimentado por electricidade da rede e requer 10 watts de potência. Estamos a investigar como substituí-lo por um mais eficiente que também possa ser alimentado por energia solar.
 
-## Hardware and Software
+SISTEMA SOLAR FOTOVOLTAICO. O servidor funciona com um painel solar de 50 Wp e uma bateria de chumbo-ácido de 12V 7Ah. No entanto, ainda estamos a reduzir o sistema e a experimentar configurações diferentes. A instalação fotovoltaica é gerida por um controlador de carga solar de 20A.
 
-We wrote two extra articles with more in-depth technical information: [How to build a low-tech website: software and hardware](https://homebrewserver.club/low-tech-website-howto.html), which focuses on the back-end, and [How to Build a Low-tech Website: Design Techniques and Process](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), which focuses on the front-end.
+## O que acontece ao antigo *website*?
 
-SERVER: This website runs on an [Olimex A20 computer](https://homebrewserver.club/low-tech-website-howto.html#server). It has 2 Ghz of processing power, 1 GB of RAM, and 16 GB of storage. The server draws 1 - 2.5 watts of power.
+A Low-tech Magazine alimentada a energia solar é um projeto ainda a decorrer. Por enquanto, a Low-tech Magazine, alimentada pela rede eléctrica, permanece *on-line*. Os leitores serão encorajados a visitar o *website* a energia solar, se este estiver disponível. O que acontecerá no futuro, ainda não é claro. Existem várias possibilidades, mas muito dependerá da experiência com o servidor alimentado a energia solar.
 
-SERVER SOFTWARE: The webserver runs Armbian Stretch, a Debian based operating system built around the SUNXI kernel. We wrote [technical documentation for configuring the webserver](https://homebrewserver.club/low-tech-website-howto.html#configuring-the-webserver).  
+Até decidirmos como integrar o antigo e o novo *website*, só será possível fazer e ler comentários na revista Low-tech Magazine, que ainda se encontra alojada no TypePad. Se quiser enviar um comentário relacionado com o servidor alimentado por energia solar, pode fazê-lo enviando um e-mail para solar (arroba) lowtechmagazine (ponto) com. O seu comentário será publicado no final desta página.
 
-DESIGN SOFTWARE: The website is built with [Pelican](https://blog.getpelican.com/), a static site generator. We have [released the source code for ‘solar’, the Pelican theme we developed here](https://github.com/lowtechmag/solar).
+## Posso ajudar?
 
-INTERNET CONNECTION. The server is connected to a 100 MBps fibre internet connection. [Here's how we configured the router](https://homebrewserver.club/low-tech-website-howto.html#network). For now, the router is powered by grid electricity and requires 10 watts of power. We are investigating how to replace the energy-hungry router with a more efficient one that can be solar-powered, too.
+Sim, pode.
 
-SOLAR PV SYSTEM. The server runs on a 50 Wp solar panel and one 12V 7Ah lead-acid battery. However, are still downsizing the system and are experimenting with different setups. The PV installation is managed by a 20A solar charge controller.
+Por um lado, estamos à procura de ideias e feedback para melhorar ainda mais o *website* e reduzir o seu consumo de energia. Vamos documentar extensivamente o projecto para que outros também possam construir *websites* de baixa tecnologia. Para fazer um comentário, por favor envie um e-mail para solar (arroba) lowtechmagazine (ponto) com.
 
-## What happens to the old website?
+Por outro lado, esperamos que as pessoas apoiem este projecto com uma contribuição financeira. Os serviços de publicidade, que têm mantido a Low-tech Magazine desde o seu início em 2007, não são compatíveis com o nosso *web design* mais simples . Por conseguinte, estamos à procura de outras formas de financiar o website:
 
-The solar powered Low-tech Magazine is a work in progress. For now, the grid-powered Low-tech Magazine remains on-line. Readers will be encouraged to visit the solar powered website if it is available. What happens later, is not yet clear. There are several possibilities, but much will depend on the experience with the solar powered server.
+Temos disponíveis [cópias impressas a pedido do blogue](https://solar.lowtechmagazine.com/2019/03/printed-website.html). Estas publicações permitem-lhe ler a Low-tech Magazine em papel, na praia, ao sol, ou quando e onde quiser.
 
-Until we decide how to integrate the old and the new website, making and reading comments will only be possible on the grid-powered Low-tech Magazine, which is still hosted at TypePad. If you want to send a comment related to the solar powered web server itself, you can do so by sending an e-mail to solar (at) lowtechmagazine (dot) com. Your comment will be published at the bottom of this page.
+Pode apoiar-nos através de [PayPal](https://www.paypal.me/lowtechmagazine), [Patreon](https://www.patreon.com/lowtechmagazine) e [LiberaPay](https://liberapay.com/lowtechmagazine/).
 
-## Can I help?
+O servidor alimentado por energia solar é construído por [Kris De Decker](http://www.krisdedecker.org), [Roel Roscam Abbing](https://roelof.info), e [Marie Otsuka](http://motsuka.com). O *website* impresso é feito por [Lauren Campbell](http://squishysystems.com). 
 
-Yes, you can.
+* [Receba a nossa newsletter](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
+* Apoie a Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) ou [Patreon](https://www.patreon.com/lowtechmagazine).
 
-On the one hand, we're looking for ideas and feedback to further improve the website and reduce its energy use. We will document the project extensively so that others can build low-tech websites too. To make a comment, please send an e-mail to solar (at) lowtechmagazine (dot) com.
+## <span id="comments">Comentários</span>
 
-On the other hand, we're hoping for people to support this project with a financial contribution. Advertising services, which have maintained Low-tech Magazine since its start in 2007, are not compatible with our lightweight web design. Therefore, we are searching for other ways to finance the website:
-
-We offer [print-on-demand copies of the blog](https://solar.lowtechmagazine.com/2019/03/printed-website.html). These publications allow you to read Low-tech Magazine on paper, on the beach, in the sun, or whenever and where ever you want.
-
-You can support us through through [PayPal](https://www.paypal.me/lowtechmagazine), [Patreon](https://www.patreon.com/lowtechmagazine) and [LiberaPay](https://liberapay.com/lowtechmagazine/).
-
-The solar powered server is built by [Kris De Decker](http://www.krisdedecker.org), [Roel Roscam Abbing](https://roelof.info), and [Marie Otsuka](http://motsuka.com). The printed website is made by [Lauren Campbell](http://squishysystems.com). 
-
-* [Subscribe to our newsletter](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
-* Support Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) or [Patreon](https://www.patreon.com/lowtechmagazine).
-
-## <span id="comments">Comments</span>
-
-To make a comment, please send an e-mail to solar (at) lowtechmagazine (dot) com.
+Para comentar, por favor envie um email para solar (arroba) lowtechmagazine (ponto) com.
 
 <div id="comment-list" markdown="1">
 
