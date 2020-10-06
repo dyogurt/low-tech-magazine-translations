@@ -27,43 +27,42 @@ No entanto, alimentar centros de processamento de dados com fontes de energia re
 
 > Alimentar centros de processamento de dados com fontes de energia renovável não é suficiente para fazer face ao crescente uso de energia da Internet.
 
-Por último, a energia solar e eólica nem sempre estão disponíveis, o que significa que se a Internet funcionar com fontes de energia renováveis será necessária uma infra-estrutura de armazenamento e/ou transmissão de energia que também é [dependente de combustíveis fósseis para o seu fabrico e substituição]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Alimentar *sites* com energia renovável não é uma má ideia, no entanto, a tendência para o aumento da utilização de energia também deve ser abordada.
+Por último, a energia solar e eólica nem sempre estão disponíveis, o que significa que se a Internet funcionar com fontes de energia renováveis será necessária uma infraestrutura de armazenamento e/ou transmissão de energia que também é [dependente de combustíveis fósseis para o seu fabrico e substituição]({filename}/posts/how-not-to-run-a-society-on-solar-and-wind-power-alone.md). Alimentar *sites* com energia renovável não é uma má ideia, no entanto, a tendência para o aumento da utilização de energia também deve ser abordada.
 
-Para começar, o conteúdo está a tornar-se cada vez mais exigente em termos de recursos. Isto tem muito a ver com a crescente importância de vídeos, mas uma tendência semelhante pode ser observada entre *sites*. O [tamanho médio de uma página web](https://httparchive.org/reports/page-weight) (definido como o tamanho médio de página dos 500.000 domínios mais populares) aumentou de 0,45 megabytes (MB) em 2010 para 1,7 MB em Junho de 2018. Para *sites* móveis, o "peso médio das páginas" aumentou dez vezes de 0,15 MB em 2011 para 1,6 MB em 2018. Utilizando diferentes métodos de medição, outras fontes informam tamanhos médios de página de até 2,9 MB em 2018.
+Para começar, o conteúdo está a tornar-se cada vez mais exigente em termos de recursos. Isto tem muito a ver com a crescente importância de vídeos, mas uma tendência semelhante pode ser observada entre *sites*. O [tamanho médio de uma página web](https://httparchive.org/reports/page-weight) (definido como o tamanho médio de página dos 500.000 domínios mais populares) aumentou de 0,45 megabytes (MB) em 2010 para 1,7 MB em junho de 2018. Para *sites* móveis, o "peso médio das páginas" aumentou dez vezes de 0,15 MB em 2011 para 1,6 MB em 2018. Utilizando diferentes métodos de medição, outras fontes informam tamanhos médios de página de até 2,9 MB em 2018.
 
-O crescimento do tráfego de dados [tem superado os avanços na eficiência energética](https://www.researchgate.net/publication/224224694/download) (a energia necessária para transferir 1 MB de dados pela *internet*), resultando numa utilização cada vez maior de energia. Os *sites* "mais pesados" ou "maiores" não só aumentam a utilização de energia na infra-estrutura da rede, como também encurtam a vida útil dos computadores — para aceder a *websites* maiores os computadores têm que ser mais potentes. Isto significa que é necessário fabricar mais computadores, o que é um [processo que requer muita energia]({nome do ficheiro}/pós/embodied-energy-of-digital-technology.md).
+O crescimento do tráfego de dados [tem superado os avanços na eficiência energética](https://www.researchgate.net/publication/224224694/download) (a energia necessária para transferir 1 MB de dados pela *internet*), resultando numa utilização cada vez maior de energia. Os *sites* "mais pesados" ou "maiores" não só aumentam a utilização de energia na infraestrutura da rede, como também encurtam a vida útil dos computadores — para aceder a *websites* maiores os computadores têm que ser mais potentes. Isto significa que é necessário fabricar mais computadores, o que é um [processo que requer muita energia]({nome do ficheiro}/pós/embodied-energy-of-digital-technology.md).
 
 > Estar sempre *online* não é compatível com fontes de energia renovável tais como a energia eólica e solar, que nem sempre estão disponíveis.
 
-Uma segunda razão para o aumento do consumo de energia na Internet é que passamos cada vez mais tempo em *on-line*. Antes da chegada dos dispositivos portáteis e do acesso à rede sem fios, só estávamos ligados quando tínhamos acesso a um computador de secretária no escritório, em casa, ou na biblioteca. Agora vivemos num mundo em que não importa onde estejamos, estamos sempre *on-line*, incluindo, por vezes, através de mais do que um dispositivo em simultâneo.
+Uma segunda razão para o aumento do consumo de energia da Internet é que passamos cada vez mais tempo em *on-line*. Antes da chegada dos dispositivos portáteis e do acesso à rede sem fios, só estávamos ligados quando tínhamos acesso a um computador de secretária no escritório, em casa, ou na biblioteca. Agora vivemos num mundo em que não importa onde estejamos, estamos sempre *on-line*, incluindo, por vezes, através de mais do que um dispositivo em simultâneo.
 
-O acesso "sempre ligado" à Internet é acompanhado por um modelo de computação em nuvem — permitindo dispositivos mais eficientes em termos energéticos, à custa de uma maior utilização de energia nos centros de dados. Cada vez mais, actividades que poderiam perfeitamente acontecer *off-line* — tais como escrever um documento, preencher uma folha de cálculo, ou armazenar dados — requerem agora acesso contínuo à rede. Isto não é compatível com fontes de energia renováveis, tais como a energia eólica e solar, que nem sempre estão disponíveis.
+O acesso "sempre ligado" à Internet é acompanhado por um modelo de computação em nuvem — permitindo dispositivos mais eficientes em termos energéticos, à custa de uma maior utilização de energia nos centros de dados. Cada vez mais, atividades que poderiam perfeitamente acontecer *off-line* — tais como escrever um documento, preencher uma folha de cálculo, ou armazenar dados — requerem agora acesso contínuo à rede. Isto não é compatível com fontes de energia renováveis, tais como a energia eólica e solar, que nem sempre estão disponíveis.
 
 ## *Low-tech web design*
 
 O nosso novo *web design* aborda estas duas questões. Graças a um *web design low-tech*, conseguimos diminuir o tamanho médio de uma página do blogue por um factor de cinco em comparação com o *design* antigo — tudo isto tornando o *website* visualmente mais atraente e adequado para dispositivos móveis.  Em segundo lugar, o nosso novo *website* funciona 100% a energia solar, não apenas no papel, mas na realidade: tem o seu próprio armazenamento de energia e ficará desligado durante longos períodos de tempo nublado.
 
-A Internet não é um ser autónomo. O seu crescente uso de energia é a [consequência de decisões reais](http://tonsky.me/blog/disenchantment/) feitas por criadores de *software*, *web designers*, departamentos de *marketing*, editores e utilizadores. Com um site a energia solar, leve e fora da rede, nós queremos mostrar que outras decisões podem ser tomadas.
+A Internet não é um ser autónomo. O seu crescente uso de energia é a [consequência de decisões reais](http://tonsky.me/blog/disenchantment/) feitas por criadores de *software*, *web designers*, departamentos de *marketing*, editores e utilizadores. Com um *website* a energia solar, leve e fora da rede, nós queremos mostrar que outras decisões podem ser tomadas.
 
 > Com 36 dos cerca de 100 artigos agora *online*, o peso médio das páginas no *website* a energia solar é cerca de 5 vezes inferior ao do *design* anterior.
 
-Para começar, o novo design do *website* inverte a tendência para páginas cada vez maiores. Com 36 dos cerca de 100 artigos agora *online*, o peso médio das páginas no *website* a energia solar é de 0,77 MB — cerca de cinco vezes inferior ao do design anterior, e menos de metade do tamanho médio das 500 mil páginas dos blogues mais populares em Junho de 2018. 
+Para começar, o novo *design* do *website* inverte a tendência para páginas cada vez maiores. Com 36 dos cerca de 100 artigos agora *online*, o peso médio das páginas no *website* a energia solar é de 0,77 MB — cerca de cinco vezes inferior ao do *design* anterior, e menos de metade do tamanho médio das 500 mil páginas dos blogues mais populares em junho de 2018. 
 
 ![image](/images/9801a71c-bdae-4732-9ad7-b45d26897a32.jpg)
 
 ![image](/images/0103010d-26e1-48e6-a7c1-21d0dd355b1a.jpg)
-
-Um teste de velocidade da antiga e da nova Low-tech Magazine. O tamanho da página diminuiu mais de seis vezes, o número de pedidos cinco vezes, e a velocidade de *download* aumentou dez vezes. Note-se que não concebemos a página *web* para velocidade, mas para baixo consumo de energia. Seria ainda mais rápido se o servidor fosse colocado num centro de dados e/ou numa localização mais central na infra-estrutura da Internet. Fonte: Pingdom.
+Um teste de velocidade da antiga e da nova Low-tech Magazine. O tamanho da página diminuiu mais de seis vezes, o número de pedidos cinco vezes, e a velocidade de *download* aumentou dez vezes. Note-se que não concebemos a página *web* para velocidade, mas para baixo consumo de energia. Seria ainda mais rápido se o servidor fosse colocado num centro de dados e/ou numa localização mais central na infraestrutura da Internet. Fonte: Pingdom.
 
 Abaixo estão algumas das decisões de *design* que tomámos para reduzir o consumo de energia. Publicámos um [documento separado que se foca nos esforços de *front-end*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), e um [que se foca nos esforços de *back-end*](https://homebrewserver.club/low-tech-website-howto.html#software). Também [divulgámos o código para o *design* do nosso website](https://github.com/lowtechmag/solar).
 
 ## *Site* estático
 
-Uma das escolhas fundamentais que fizemos foi construir um *website* estático. A maioria dos *websites* actuais utiliza linguagens de programação do lado do servidor que geram o *website* em tempo real, consultando uma base de dados. Isto uma página *web* tem que ser gerada cada vez que alguém visita o *site.*
+Uma das escolhas fundamentais que fizemos foi construir um *website* estático. A maioria dos *websites* atuais utiliza linguagens de programação do lado do servidor que geram o *website* em tempo real, consultando uma base de dados. Ou seja, uma página *web* tem que ser gerada cada vez que alguém visita o *site.*
 
-Por outro lado, um *website* estático é [gerado uma vez e existe como um simples conjunto de documentos no disco rígido do servidor](https://varia.zone/en/what-a-website-can-be.html). Está sempre lá — e não apenas quando alguém visita a página. Os *websites* estáticos baseiam-se assim no armazenamento de ficheiros, enquanto que os *websites* dinâmicos dependem de cálculos recorrentes. Os *websites* estáticos requerem consequentemente menos poder de processamento e, portanto, menos energia.
+Por outro lado, um *website* estático é [gerado uma vez e existe como um simples conjunto de documentos no disco rígido do servidor](https://varia.zone/en/what-a-website-can-be.html). Está sempre lá — e não apenas quando alguém visita a página. Os *websites* estáticos baseiam-se assim no armazenamento de ficheiros, enquanto os *websites* dinâmicos dependem de cálculos recorrentes. Os *websites* estáticos requerem consequentemente menos poder de processamento e, portanto, menos energia.
 
-A escolha de um *site* estático permite servir-lo de uma forma económica a partir do nosso escritório em Barcelona. Fazer o mesmo com um *website* derivado de uma base de dados seria quase impossível, porque exigiria demasiada energia. Seria também um grande risco de segurança. Embora um servidor *web* com um *site* estático possa ser pirateado, existem significativamente menos rotas de ataque e os danos são mais facilmente reparados.
+A escolha de um *site* estático permite geri-lo de uma forma económica a partir do servidor no nosso escritório em Barcelona. Fazer o mesmo com um *website* derivado de uma base de dados seria quase impossível, porque exigiria demasiada energia. Seria também um grande risco de segurança. Embora um servidor *web* com um *site* estático possa ser pirateado, existem significativamente menos rotas de ataque e os danos são mais facilmente reparados.
 
 ## Imagens com *dither*
 
@@ -76,17 +75,17 @@ Em vez disso, escolhemos aplicar uma técnica de compressão de imagem obsoleta 
 ![image](/images/600px-A20-OLinuXino-LIME2.jpg)
 Uma imagem com *dither* do nosso servidor.
 
-Estas imagens a preto e branco são depois coloridas de acordo com a respectiva categoria de conteúdo através das capacidades de manipulação nativa de imagens do *browser*. Comprimidas através deste *plugin* de *dithering*, as imagens apresentadas nos artigos adicionam muito menos peso ao conteúdo: em comparação com o antigo *website*, as imagens consomem aproximadamente dez vezes menos recursos.
+Estas imagens a preto e branco são depois coloridas de acordo com a respetiva categoria de conteúdo através das capacidades de manipulação nativa de imagens do *browser*. Comprimidas através deste *plugin* de *dithering*, as imagens apresentadas nos artigos adicionam muito menos peso ao conteúdo: em comparação com o antigo *website*, as imagens consomem aproximadamente dez vezes menos recursos.
 
 ## Fonte tipográfica padrão / Sem logo
 
-Todos os recursos carregados, incluindo fontes tipográficas e logótipos, são um pedido adicional ao servidor, exigindo espaço de armazenamento e utilização de energia. Portanto, o nosso novo website não carrega nenhum tipo de letra personalizado e remove a declaração de fonte-família, o que significa que os visitantes verão o tipo de letra padrão do seu *browser*. 
+Todos os recursos carregados, incluindo fontes tipográficas e logótipos, são um pedido adicional ao servidor, exigindo espaço de armazenamento e utilização de energia. Portanto, o nosso novo *website* não carrega nenhum tipo de letra personalizado e remove a declaração de fonte-família, o que significa que os visitantes verão o tipo de letra padrão do seu *browser*. 
 
-Utilizamos uma abordagem semelhante para o logótipo. De facto, a revista Low-tech Magazine nunca teve um, apenas uma imagem de banner de uma lança segurada como uma arma de baixa tecnologia contra as reivindicações de alta tecnologia prevalecentes.
+Utilizamos uma abordagem semelhante para o logótipo. De facto, a revista Low-tech Magazine nunca teve um, apenas uma imagem de uma lança segurada como uma arma de baixa tecnologia contra as reivindicações de alta tecnologia prevalecentes.
 
 Em vez de um logótipo, que exigiria a produção e distribuição de tipografias e imagens personalizadas, a nova identidade da Low-tech Magazine consiste num único gesto tipográfico: utilizar a seta virada para a esquerda no lugar do hífen no nome do blogue: LOW←TECH MAGAZINE.
 
-## Sem rastreio de terceiros, sem serviços de publicidade, sem cookies
+## Sem rastreio de terceiros, sem serviços de publicidade, sem *cookies*
 
 *Software* de análise como o Google Analytics regista o que acontece num *website* — que páginas são mais vistas, de onde vêm os visitantes, e assim por diante. Estes serviços são populares porque poucas pessoas hospedam o seu próprio *website*. Contudo, o intercâmbio destes dados entre o servidor e o computador do *webmaster* gera tráfego de dados extra e, portanto, utilização de energia.
 
@@ -94,33 +93,33 @@ Com um servidor auto-hospedado, podemos fazer e visualizar estas medições no m
 
 > Com um servidor auto-hospedado, não há necessidade de rastreio e *cookies* de terceiros.
 
-A Low-tech Magazine tem usado anúncios da Google Adsense desde o início de 2007. Embora estes sejam um recurso financeiro importante para a manutenção do blogue, têm dois aspetos negativos importantes. O primeira é o uso de energia: serviços de publicidade aumentam o tráfego de dados e, consequentemente, o uso de energia.
+A Low-tech Magazine tem usado anúncios da Google Adsense desde o início de 2007. Embora estes sejam um recurso financeiro importante para a manutenção do blogue, têm dois aspetos negativos importantes. O primeiro é o uso de energia: serviços de publicidade aumentam o tráfego de dados e, consequentemente, o uso de energia.
 
 Em segundo lugar, a Google recolhe informações dos visitantes do blogue, o que nos obriga a elaborar extensas declarações de privacidade e avisos de *cookies* — que também consomem dados, e incomodam os visitantes. Sendo assim, substituímos o Adsense por outras opções de financiamento (leia mais abaixo). Não utilizamos *cookies* de todo.
 
 ## Com que frequência estará o *site* *off-line*?
 
-Muitas empresas de alojamento *web* afirmam que os seus servidores estão a funcionar com energia renovável. No entanto, mesmo quando estas geram a energia solar localmente e não se limitam a "compensar" a utilização de energia fóssil através da plantação de árvores ou afins, os seus websites estão sempre *on-line*.
+Muitas empresas de alojamento *web* afirmam que os seus servidores estão a funcionar com energia renovável. No entanto, mesmo quando estas geram a energia solar localmente e não se limitam a "compensar" a utilização de energia fóssil através da plantação de árvores ou afins, os seus *websites* estão sempre *on-line*.
 
 Isto significa que ou têm um enorme sistema de armazenamento de energia local (o que torna o seu sistema energético insustentável), ou que dependem da rede elétrica quando há falta de energia solar (o que significa que não funcionam realmente a 100% de energia solar).
 
-![The 50W panel, on top of it is a 10W panel of a previously built off-grid lighting system.](/images/sps_panel.jpg)
-O painel solar fotovoltaico  de 50W. Em cima dele está um painel de 10W que alimenta um sistema de iluminação.
+![O painel de 50W, por cima dele está um painel de 10W de um antigo sistema de iluminação fora da rede.](/images/sps_panel.jpg)
+O painel solar fotovoltaico de 50W. Em cima dele está um painel de 10W que alimenta um sistema de iluminação.
 
 Pelo contrário, este *website* funciona com um sistema de energia solar fora da rede com o seu próprio sistema de armazenamento de energia, e ficará *off-line* durante longos períodos mais longos de tempo nublado. Uma fiabilidade inferior a 100% é essencial para a sustentabilidade de um sistema solar fora de rede, porque acima de um certo nível a energia de combustíveis fosseis usada para produzir e substituir as baterias é superior à poupada pelos painéis solares.
 
-Ainda está para se ver com que frequência o *website* vai ficar *off-line*. O servidor *web* é alimentado por um painel solar novo de 50W e uma bateria chumbo-ácido de 12V 7Ah com dois anos. Como o painel solar fica à sombra durante a manhã, só recebe luz solar direta durante 4 a 6 horas por dia. Em condições óptimas, o painel solar gera assim 6 horas x 50 W = 300 Wh de electricidade.
+Ainda está para se ver com que frequência o *website* vai ficar *off-line*. O servidor *web* é alimentado por um painel solar novo de 50W e uma bateria chumbo-ácido de 12V 7Ah com dois anos. Como o painel solar fica à sombra durante a manhã, só recebe luz solar direta durante 4 a 6 horas por dia. Em condições ótimas, o painel solar gera assim 6 horas x 50 W = 300 Wh de eletricidade.
 
-O servidor *web* usa entre 1 a 2.5 W (dependendo do número de visitantes), o que significa que requer entre 24 Wh e 60 Wh de electricidade por dia. Em condições óptimas, devemos assim ter energia suficiente para manter o servidor *web* a funcionar durante 24 horas por dia. O excesso de produção de energia pode ser utilizado para aplicações domésticas.
+O servidor *web* usa entre 1 a 2.5 W (dependendo do número de visitantes), o que significa que requer entre 24 Wh e 60 Wh de eletricidade por dia. Em condições ótimas, devemos assim ter energia suficiente para manter o servidor *web* a funcionar durante 24 horas por dia. O excesso de produção de energia pode ser utilizado para aplicações domésticas.
 
-> Esperamos manter o *website* *online* durante um ou dois dias de maus tempo, mais do que isso e ficará *off-line*.
+> Esperamos manter o *website* *online* durante um ou dois dias de mau tempo, mais do que isso e ficará *off-line*.
 
-No entanto, durante dias nublados, especialmente no Inverno, a produção diária de energia poderá ser tão baixa como 4 horas x 10 W = 40 Wh por dia, enquanto que o servidor necessita de 24 e 60 Wh por dia. O armazenamento da bateria é de cerca de 40 Wh, tendo em conta 30% de carga e 33% de profundidade ou descarga (o controlador de carga solar desliga o sistema quando a tensão da bateria cai para 12V).
+No entanto, durante dias nublados, especialmente no inverno, a produção diária de energia poderá ser tão baixa como 4 horas x 10 W = 40 Wh por dia, enquanto o servidor necessita de 24 e 60 Wh por dia. O armazenamento da bateria é de cerca de 40 Wh, tendo em conta 30% de carga e 33% de profundidade ou descarga (o controlador de carga solar desliga o sistema quando a tensão da bateria cai para 12V).
 
-Consequentemente, o servidor a energia solar permanecerá *on-line* durante um ou dois dias de mau tempo, mas não por mais tempo. Contudo, estas são estimativas, e podemos acrescentar uma segunda bateria de 7 Ah no Outono, se for necessário. O nosso objectivo é um "tempo de funcionamento" de 90%, o que significa que o *website* ficará fora de funcionamento durante uma média de 35 dias por ano.
+Consequentemente, o servidor a energia solar permanecerá *on-line* durante um ou dois dias de mau tempo, mas não por mais tempo. Contudo, estas são estimativas, e podemos acrescentar uma segunda bateria de 7 Ah no outono, se for necessário. O nosso objetivo é um "tempo de funcionamento" de 90%, o que significa que o *website* ficará fora de funcionamento durante uma média de 35 dias por ano.
 
-![The 35Wh lead-acid battery and 30Wh Li-Po batteries that power the server.](/images/sps_bats.jpg)
-Primeiro protótipo com bateria chumbo-ácido (12V 7Ah) à esquerda, e bateria UPS Li-Po (3,7V 6600mA) à direita. A bateria chumbo-ácido fornece a maior parte do armazenamento de energia, enquanto a bateria Li-Po permite que o servidor se desligue sem danificar o hardware (será substituída por uma bateria Li-Po muito mais pequena).
+![A bateria de chumbo-ácido de 35Wh e as baterias de Li-Po de 30Wh que alimentam o servidor.](/images/sps_bats.jpg)
+Primeiro protótipo com bateria chumbo-ácido (12V 7Ah) à esquerda, e bateria UPS Li-Po (3,7V 6600mA) à direita. A bateria chumbo-ácido fornece a maior parte do armazenamento de energia, enquanto a bateria Li-Po permite que o servidor se desligue sem danificar o *hardware* (será substituída por uma bateria Li-Po muito mais pequena).
 
 ## Quando é a melhor altura para visitar?
 
@@ -128,11 +127,11 @@ A acessibilidade deste *website* depende do estado do tempo em Barcelona, Espanh
 
 > Para ajudar os visitantes a "planear" as suas visitas à Low-tech Magazine, fornecemos-lhes várias pistas.
 
-Um nível de bateria fornece informação crucial porque pode dizer ao visitante que o blogue está prestes a ficar inacessível — ou que é “seguro” lê-lo.  O *design* consiste numa cor fundo que indica a capacidade da bateria carregada a energia solar que alimenta o servidor do *website*. Um decréscimo na altura do fundo colorido indica que é de noite ou está mau tempo.
+Um nível de bateria fornece informação crucial porque pode dizer ao visitante que o blogue está prestes a ficar inacessível — ou que é “seguro” lê-lo. O *design* consiste numa cor fundo que indica a capacidade da bateria carregada a energia solar que alimenta o servidor do *website*. Um decréscimo na altura do fundo colorido indica que é de noite ou está mau tempo.
 
-Para além do nível da bateria, outras informações sobre o servidor são visíveis num painel do *website*. Isto inclui informação contextual da localização do servidor, hora, condições meteorológicas actuais e previsões, e a duração desde a última vez que o servidor foi desligado devido a falta de energia.
+Para além do nível da bateria, outras informações sobre o servidor são visíveis num painel do *website*. Isto inclui informação contextual da localização do servidor, hora, condições meteorológicas atuais e previsões, e a duração desde a última vez que o servidor foi desligado devido a falta de energia.
 
-Actualização de Abril de 2019: Para aceder à Low-tech, independentemente do estado do tempo, temos [várias opções de leitura *offline* disponíveis](https://solar.lowtechmagazine.com/offline-reading.html). Por exemplo, oferecemos uma [brochura encadernada de 710 páginas que contém 37 dos artigos mais recentes do website](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 a 2018). Um segundo volume, que recolhe artigos publicados entre 2007 e 2011, será publicado ainda este ano. Os livros são baseados nos mesmos documentos electrónicos que compõem o *website* a energia solar.
+Atualização de abril de 2019: Para aceder à Low-tech, independentemente do estado do tempo, temos [várias opções de leitura *offline* disponíveis](https://solar.lowtechmagazine.com/offline-reading.html). Por exemplo, oferecemos uma [brochura encadernada de 710 páginas que contém 37 dos artigos mais recentes do website](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 a 2018). Um segundo volume, que recolhe artigos publicados entre 2007 e 2011, será publicado ainda este ano. Os livros são baseados nos mesmos documentos eletrónicos que compõem o *website* a energia solar.
 
 ## *Hardware* e *Software*
 
@@ -144,23 +143,23 @@ SERVIDOR: Este *website* funciona num [computador Olimex A20](https://homebrewse
 
 *SOFTWARE* DE *DESIGN*: O *website* foi construído com [Pelican](https://blog.getpelican.com/), um gerador de *sites* estáticos. [Partilhámos o código para 'solar', o tema Pelican que desenvolvemos aqui](https://github.com/lowtechmag/solar).
 
-LIGAÇÃO À INTERNET. O servidor está ligado a uma ligação de 100 MBps à Internet por fibra. [Eis como configurámos o router](https://homebrewserver.club/low-tech-website-howto.html#network). Por agora, o router é alimentado por electricidade da rede e requer 10 watts de potência. Estamos a investigar como substituí-lo por um mais eficiente que também possa ser alimentado por energia solar.
+LIGAÇÃO À INTERNET. O servidor está ligado a uma ligação de 100 MBps à Internet por fibra. [Eis como configurámos o *router*](https://homebrewserver.club/low-tech-website-howto.html#network). Por agora, o *router* é alimentado por eletricidade da rede e requer 10 watts de potência. Estamos a investigar como substituí-lo por um mais eficiente que também possa ser alimentado por energia solar.
 
 SISTEMA SOLAR FOTOVOLTAICO. O servidor funciona com um painel solar de 50 Wp e uma bateria de chumbo-ácido de 12V 7Ah. No entanto, ainda estamos a reduzir o sistema e a experimentar configurações diferentes. A instalação fotovoltaica é gerida por um controlador de carga solar de 20A.
 
 ## O que acontece ao antigo *website*?
 
-A Low-tech Magazine alimentada a energia solar é um projeto ainda a decorrer. Por enquanto, a Low-tech Magazine, alimentada pela rede eléctrica, permanece *on-line*. Os leitores serão encorajados a visitar o *website* a energia solar, se este estiver disponível. O que acontecerá no futuro, ainda não é claro. Existem várias possibilidades, mas muito dependerá da experiência com o servidor alimentado a energia solar.
+A Low-tech Magazine alimentada a energia solar é um projeto ainda a decorrer. Por enquanto, a Low-tech Magazine, alimentada pela rede elétrica, permanece *on-line*. Os leitores serão encorajados a visitar o *website* a energia solar, se este estiver disponível. O que acontecerá no futuro, ainda não é claro. Existem várias possibilidades, mas muito dependerá da experiência com o servidor alimentado a energia solar.
 
-Até decidirmos como integrar o antigo e o novo *website*, só será possível fazer e ler comentários na revista Low-tech Magazine, que ainda se encontra alojada no TypePad. Se quiser enviar um comentário relacionado com o servidor alimentado por energia solar, pode fazê-lo enviando um e-mail para solar (arroba) lowtechmagazine (ponto) com. O seu comentário será publicado no final desta página.
+Até decidirmos como integrar o antigo e o novo *website*, só será possível fazer e ler comentários na revista Low-tech Magazine, que ainda se encontra alojada no TypePad. Se quiser enviar um comentário relacionado com o servidor alimentado por energia solar, pode fazê-lo enviando um correio eletrónico para solar (arroba) lowtechmagazine (ponto) com. O seu comentário será publicado no final desta página.
 
 ## Posso ajudar?
 
 Sim, pode.
 
-Por um lado, estamos à procura de ideias e feedback para melhorar ainda mais o *website* e reduzir o seu consumo de energia. Vamos documentar extensivamente o projecto para que outros também possam construir *websites* de baixa tecnologia. Para fazer um comentário, por favor envie um e-mail para solar (arroba) lowtechmagazine (ponto) com.
+Por um lado, estamos à procura de ideias e feedback para melhorar ainda mais o *website* e reduzir o seu consumo de energia. Vamos documentar extensivamente o projecto para que outros também possam construir *websites* de baixa tecnologia. Para fazer um comentário, por favor envie um correio eletrónico para solar (arroba) lowtechmagazine (ponto) com.
 
-Por outro lado, esperamos que as pessoas apoiem este projecto com uma contribuição financeira. Os serviços de publicidade, que têm mantido a Low-tech Magazine desde o seu início em 2007, não são compatíveis com o nosso *web design* mais simples . Por conseguinte, estamos à procura de outras formas de financiar o website:
+Por outro lado, esperamos que as pessoas apoiem este projecto com uma contribuição financeira. Os serviços de publicidade, que têm mantido a Low-tech Magazine desde o seu início em 2007, não são compatíveis com o nosso *web design* mais simples. Por isso, estamos à procura de outras formas de financiar o *website*:
 
 Temos disponíveis [cópias impressas a pedido do blogue](https://solar.lowtechmagazine.com/2019/03/printed-website.html). Estas publicações permitem-lhe ler a Low-tech Magazine em papel, na praia, ao sol, ou quando e onde quiser.
 
@@ -168,7 +167,7 @@ Pode apoiar-nos através de [PayPal](https://www.paypal.me/lowtechmagazine), [Pa
 
 O servidor alimentado por energia solar é construído por [Kris De Decker](http://www.krisdedecker.org), [Roel Roscam Abbing](https://roelof.info), e [Marie Otsuka](http://motsuka.com). O *website* impresso é feito por [Lauren Campbell](http://squishysystems.com). 
 
-* [Receba a nossa newsletter](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
+* [Receba a nossa *newsletter*](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
 * Apoie a Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) ou [Patreon](https://www.patreon.com/lowtechmagazine).
 
 ## <span id="comments">Comentários</span>

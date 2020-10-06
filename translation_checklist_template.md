@@ -4,11 +4,10 @@
 
 ## Before sending
 
-- [ ] Check all paragraphs at FLIP
-- [ ] H2 Caps
-- [ ] Image captions
+- [x] Check all paragraphs at FLIP
+- [x] Image captions
 - [ ] Links
-- [ ] EM Dashes
+- [ ] Dashes
 - [ ] Italic foreign words
 - [ ] Footer 
 - [ ] Footnotes links
