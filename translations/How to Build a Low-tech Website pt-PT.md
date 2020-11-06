@@ -54,7 +54,7 @@ Para começar, o novo *design* do *website* inverte a tendência para páginas c
 ![image](/images/0103010d-26e1-48e6-a7c1-21d0dd355b1a.jpg)
 Um teste de velocidade da antiga e da nova Low-tech Magazine. O tamanho da página diminuiu mais de seis vezes, o número de pedidos cinco vezes, e a velocidade de *download* aumentou dez vezes. Note-se que não concebemos a página *web* para velocidade, mas para baixo consumo de energia. Seria ainda mais rápido se o servidor fosse colocado num centro de dados e/ou numa localização mais central na infraestrutura da Internet. Fonte: Pingdom.
 
-Abaixo estão algumas das decisões de *design* que tomámos para reduzir o consumo de energia. Publicámos um [documento separado que se foca nos esforços de *front-end*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), e um [que se foca nos esforços de *back-end*](https://homebrewserver.club/low-tech-website-howto.html#software). Também [divulgámos o código para o *design* do nosso website](https://github.com/lowtechmag/solar).
+Abaixo estão algumas das decisões de *design* que tomámos para reduzir o consumo de energia. Publicámos um [documento separado que se foca nos esforços de *front-end*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), e um [que se foca nos esforços de *back-end*](https://homebrewserver.club/low-tech-website-howto.html#software). Também [divulgámos o código para o *design* do nosso *website*](https://github.com/lowtechmag/solar).
 
 ## *Site* estático
 
@@ -85,7 +85,7 @@ Utilizamos uma abordagem semelhante para o logótipo. De facto, a revista Low-te
 
 Em vez de um logótipo, que exigiria a produção e distribuição de tipografias e imagens personalizadas, a nova identidade da Low-tech Magazine consiste num único gesto tipográfico: utilizar a seta virada para a esquerda no lugar do hífen no nome do blogue: LOW←TECH MAGAZINE.
 
-## Sem rastreio de terceiros, sem serviços de publicidade, sem *cookies*
+## Sem rastreios de terceiros, sem serviços de publicidade, sem *cookies*
 
 *Software* de análise como o Google Analytics regista o que acontece num *website* — que páginas são mais vistas, de onde vêm os visitantes, e assim por diante. Estes serviços são populares porque poucas pessoas hospedam o seu próprio *website*. Contudo, o intercâmbio destes dados entre o servidor e o computador do *webmaster* gera tráfego de dados extra e, portanto, utilização de energia.
 
@@ -99,7 +99,7 @@ Em segundo lugar, a Google recolhe informações dos visitantes do blogue, o que
 
 ## Com que frequência estará o *site* *off-line*?
 
-Muitas empresas de alojamento *web* afirmam que os seus servidores estão a funcionar com energia renovável. No entanto, mesmo quando estas geram a energia solar localmente e não se limitam a "compensar" a utilização de energia fóssil através da plantação de árvores ou afins, os seus *websites* estão sempre *on-line*.
+Muitas empresas de alojamento *web* afirmam que os seus servidores funcionam com energia renovável. No entanto, mesmo quando estas geram a energia solar localmente e não se limitam a "compensar" a utilização de energia fóssil através da plantação de árvores ou afins, os seus *websites* estão sempre *on-line*.
 
 Isto significa que ou têm um enorme sistema de armazenamento de energia local (o que torna o seu sistema energético insustentável), ou que dependem da rede elétrica quando há falta de energia solar (o que significa que não funcionam realmente a 100% de energia solar).
 
@@ -131,11 +131,11 @@ Um nível de bateria fornece informação crucial porque pode dizer ao visitante
 
 Para além do nível da bateria, outras informações sobre o servidor são visíveis num painel do *website*. Isto inclui informação contextual da localização do servidor, hora, condições meteorológicas atuais e previsões, e a duração desde a última vez que o servidor foi desligado devido a falta de energia.
 
-Atualização de abril de 2019: Para aceder à Low-tech, independentemente do estado do tempo, temos [várias opções de leitura *offline* disponíveis](https://solar.lowtechmagazine.com/offline-reading.html). Por exemplo, oferecemos uma [brochura encadernada de 710 páginas que contém 37 dos artigos mais recentes do website](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 a 2018). Um segundo volume, que recolhe artigos publicados entre 2007 e 2011, será publicado ainda este ano. Os livros são baseados nos mesmos documentos eletrónicos que compõem o *website* a energia solar.
+Atualização de abril de 2019: Para aceder à Low-tech, independentemente do estado do tempo, temos [várias opções de leitura *offline* disponíveis](https://solar.lowtechmagazine.com/offline-reading.html). Por exemplo, oferecemos uma [brochura encadernada de 710 páginas que contém 37 dos artigos mais recentes do *website*](http://www.lulu.com/shop/kris-de-decker/low-tech-magazine-20122018/paperback/product-24028679.html) (2012 a 2018). Um segundo volume, que recolhe artigos publicados entre 2007 e 2011, será publicado ainda este ano. Os livros são baseados nos mesmos documentos eletrónicos que compõem o *website* a energia solar.
 
 ## *Hardware* e *Software*
 
-Escrevemos dois artigos extra com informação técnica mais aprofundada: [Como construir um *website* *low-tech*: *software* e *hardware*](https://homebrewserver.club/low-tech-website-howto.html), que se concentra no *back-end*, e [Como construir um website *low-tech*: Técnicas e Processo de *Design*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), que se concentra no *front-end*.
+Escrevemos dois artigos extra com informação técnica mais aprofundada: [Como construir um *website* *low-tech*: *software* e *hardware*](https://homebrewserver.club/low-tech-website-howto.html), que se concentra no *back-end*, e [Como construir um *website* *low-tech*: Técnicas e Processo de *Design*](https://github.com/lowtechmag/solar/wiki/Solar-Web-Design), que se concentra no *front-end*.
 
 SERVIDOR: Este *website* funciona num [computador Olimex A20](https://homebrewserver.club/low-tech-website-howto.html#server). Tem 2 Ghz de poder de processamento, 1 GB de RAM, e 16 GB de armazenamento. O servidor consome 1–2,5 watts de potência.
 
@@ -151,24 +151,24 @@ SISTEMA SOLAR FOTOVOLTAICO. O servidor funciona com um painel solar de 50 Wp e u
 
 A Low-tech Magazine alimentada a energia solar é um projeto ainda a decorrer. Por enquanto, a Low-tech Magazine, alimentada pela rede elétrica, permanece *on-line*. Os leitores serão encorajados a visitar o *website* a energia solar, se este estiver disponível. O que acontecerá no futuro, ainda não é claro. Existem várias possibilidades, mas muito dependerá da experiência com o servidor alimentado a energia solar.
 
-Até decidirmos como integrar o antigo e o novo *website*, só será possível fazer e ler comentários na revista Low-tech Magazine, que ainda se encontra alojada no TypePad. Se quiser enviar um comentário relacionado com o servidor alimentado por energia solar, pode fazê-lo enviando um correio eletrónico para solar (arroba) lowtechmagazine (ponto) com. O seu comentário será publicado no final desta página.
+Até decidirmos como integrar o antigo e o novo *website*, só será possível fazer e ler comentários na revista Low-tech Magazine, que ainda se encontra alojada no TypePad. Se quiser enviar um comentário relacionado com o servidor alimentado por energia solar, pode fazê-lo enviando um *email* para solar (arroba) lowtechmagazine (ponto) com. O seu comentário será publicado no final desta página.
 
 ## Posso ajudar?
 
-Sim, pode.
+Sim, podes.
 
-Por um lado, estamos à procura de ideias e feedback para melhorar ainda mais o *website* e reduzir o seu consumo de energia. Vamos documentar extensivamente o projecto para que outros também possam construir *websites* de baixa tecnologia. Para fazer um comentário, por favor envie um correio eletrónico para solar (arroba) lowtechmagazine (ponto) com.
+Por um lado, estamos à procura de ideias e feedback para melhorar ainda mais o *website* e reduzir o seu consumo de energia. Vamos documentar extensivamente o projecto para que outros também possam construir *websites* de baixa tecnologia. Para fazer um comentário, por favor envia um *email* para solar (arroba) lowtechmagazine (ponto) com.
 
 Por outro lado, esperamos que as pessoas apoiem este projecto com uma contribuição financeira. Os serviços de publicidade, que têm mantido a Low-tech Magazine desde o seu início em 2007, não são compatíveis com o nosso *web design* mais simples. Por isso, estamos à procura de outras formas de financiar o *website*:
 
-Temos disponíveis [cópias impressas a pedido do blogue](https://solar.lowtechmagazine.com/2019/03/printed-website.html). Estas publicações permitem-lhe ler a Low-tech Magazine em papel, na praia, ao sol, ou quando e onde quiser.
+Temos disponíveis [cópias impressas a pedido do blogue](https://solar.lowtechmagazine.com/2019/03/printed-website.html). Estas publicações permitem-lhe ler a Low-tech Magazine em papel, na praia, ao sol, ou quando e onde quiseres.
 
-Pode apoiar-nos através de [PayPal](https://www.paypal.me/lowtechmagazine), [Patreon](https://www.patreon.com/lowtechmagazine) e [LiberaPay](https://liberapay.com/lowtechmagazine/).
+Podes apoiar-nos através de [PayPal](https://www.paypal.me/lowtechmagazine), [Patreon](https://www.patreon.com/lowtechmagazine) e [LiberaPay](https://liberapay.com/lowtechmagazine/).
 
-O servidor alimentado por energia solar é construído por [Kris De Decker](http://www.krisdedecker.org), [Roel Roscam Abbing](https://roelof.info), e [Marie Otsuka](http://motsuka.com). O *website* impresso é feito por [Lauren Campbell](http://squishysystems.com). 
+O servidor alimentado a energia solar foi construído pelo [Kris De Decker](http://www.krisdedecker.org), [Roel Roscam Abbing](https://roelof.info), e [Marie Otsuka](http://motsuka.com). O *website* impresso é feito pela [Lauren Campbell](http://squishysystems.com). 
 
-* [Receba a nossa *newsletter*](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
-* Apoie a Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) ou [Patreon](https://www.patreon.com/lowtechmagazine).
+* [Recebe a nossa *newsletter*](https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv)
+* Apoia a Low-tech Magazine via [Paypal](https://www.paypal.me/lowtechmagazine) ou [Patreon](https://www.patreon.com/lowtechmagazine).
 
 ## <span id="comments">Comentários</span>
 
